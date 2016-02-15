@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - Celebrating Systematics - Ticket Ordering
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/SystAssLogo-100.png" width="81" height=
+        "100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          75 years of the SA<br>
+          20th June 2012
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+	
+        <p class="title">
+          Programme
+        </p>
+        <div class="textsmall">
+        <ul>
+          <li style="list-style: none">
+            <strong>Free event</strong><br>
+            <strong>Venue: Sir David Attenborough Studio</strong>
+          </li>
+          <li>14.30 - Nature Live. This will be a public event in
+          the museum.
+          </li>
+        </ul>
+        <hr>
+        <ul>
+          <li style="list-style: none">
+            <strong>Ticketed event</strong><br>
+            <strong>Venue: Flett Lecture Theatre and Flett
+            Foyer</strong>
+          </li>
+          <li>17.00 - Launch of the 75th anniversary
+          </li>
+          <li>17.15 - Professor Stephen Blackmore, Regius Keeper
+          of the Royal Botanic Garden Edinburgh, and Dr David
+          Williams, Natural History Museum will present a history
+          of the Systematics Association
+          </li>
+          <li>17.45 - Posters and drinks reception
+          </li>
+          <li>18.45 - Sir David Attenborough and Professor
+          Richard Fortey in conversation.
+          </li>
+          <li>19.15 - Announcement of the Attenborough Award for
+          fieldwork
+          </li>
+          <li>19.30 - Buffet
+          </li>
+        </ul>        </div>
+        <!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+				
+				<p class="title">
+				Pay for pre-ordered tickets
+				</p>
+				<p>Thank you for your application for tickets to the <strong>'Celebrating 
+				Systematics'</strong>, on <strong>20th June at the Natural History Museum</strong>.
+				In order to complete your application please confirm the number of tickets, 
+				enter your <strong>name</strong> in the form below together with the <strong>
+				booking reference</strong> you should have received by e-mail.  Once you 
+				click on the <strong>Pay Now</strong>	you will be taken to a secure payment form.</p>
+
+				
+				<p>
+	        <!--#include virtual="/celebrate75/PayPal.inc" -->
+        <p>
+				
+				<p>Once you have completed your payment you will receive an automated e-mail 
+				confirming your payment has been accepted.  Your e-tickets will then be dispatched 
+				by e-mail to you shortly.</p>
+	
+				
+        <hr>
+				
+        <p class="title">
+          <a name="Join" id="Join"></a>Membership
+        </p>
+        <p>
+          To join the Systematics Association, visit the <a href=
+          "/membership/">Membership page</a>.
+        </p>
+				
+				<hr>
+
+        <p class="title">
+          <a name="Queries" id="Queries"></a>Queries and help
+        </p>
+				<p>If you have any queries please contact 
+				
+			  <script type="text/javascript">
+				  <!--
+					var disp = "celebrate75@sytass.org";
+					var usr = "celebrate75";
+					var dom = "systass";
+					var tld = "org";
+					var ady = disp;
+					var dispady = usr + "@" + dom + "." + tld;
+					document.write("<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>")
+					//-->
+					</script>
+				</p>
+				
+				<hr>
+	
+        <p style="text-align: center">
+          <strong>Registered Charity Number 270429</strong>
+        </p><!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom banner ?links? -->
+        <!--#include virtual="/incl/w3c.inc" -->
+        Last updated: 17 April 2012 
+        <!--#include virtual="/incl/webmaster-email.inc" -->
+         <!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

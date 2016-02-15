@@ -1,0 +1,216 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - Celebrating Systematics - 75
+      years
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+			<a name="_top" id="_top"></a>
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/SystAssLogo-100.png" width="81" height=
+        "100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          75 years of the SA<br>
+          20th June 2012
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Quicklinks
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            <a href="#Prog">Programme</a><br>
+						<a href="#Join">Membership</a><br>
+            <a href="#Queries">Queries and help</a>
+          </p>
+        </div>
+        <p class="title">
+          History
+        </p>
+        <div class="textsmall">
+          The Systematics Association was founded on 25th June
+          1937 with Sir Julian Huxley at its head. Its role was
+          to provide a forum for the discussion of the general
+          theoretical and practical problems of taxonomy. Since
+          then, the Association has pioneered discussion on the
+          many new developments in systematics: over 50 Special
+          Volumes have been published, focusing on groups as
+          diverse as haptophyte algae, tetrapods, lichens,
+          free-living flagellates and haematophagous insects.,
+          and on fields such as phylogenetic reconstruction,
+          systematics and conservation, genome evolution and the
+          emergence of the biosphere. In 2012, seventy-five years
+          after its creation, the role of the Systematics
+          Association remains to represent and further all
+          aspects of Systematic biology. The Association
+          organises a Biennial conference and a Young
+          Systematists' forum, to bring up-and-coming, as well as
+          established systematists, together; it also funds
+          special symposia. It continues to publish special
+          volumes, and, with the Linnean Society, supports
+          systematics through its Systematics Research Fund.
+        </div>
+        <hr>
+        <p class="title">
+          Join
+        </p>
+        <div class="textsmall">
+          <p>
+            To join the Systematics Association, visit the
+            <a href="/membership/">Membership page</a>.
+          </p>
+        </div>
+        <hr>
+        <!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <img src="../images/SystAssLogo-75.png" width="242"
+        height="306" alt="Systematics Association" title=
+        "Systematics Association" style=
+        "float: right; margin-left: 10px;">
+        <p>
+          2012 marks the 75th anniversary of the Systematics
+          Association. In honour of this grand birthday, the
+          Association will be hosting a special event,
+          <strong>'Celebrating Systematics'</strong>, on
+          <strong>20th June at the Natural History
+          Museum</strong>.
+        </p>
+        <p>
+          The evening will be launched by the President of the
+          Systematics Association, Professor Juliet Brodie,
+          followed by a short history of the Association,
+          presented by Professor Stephen Blackmore and Dr David
+          Williams. After a drinks reception, during which guests
+          will peruse a selection of posters from Systematics
+          Research Fund grant holders, we will hear Sir David
+          Attenborough and Professor Richard Fortey in
+          conversation. Our two honourable guests will give their
+          thoughts on the impact of systematics on the scientific
+          world, as well as sharing a few anecdotes. The grand
+          finale will be a buffet: a chance to mingle with fellow
+          systematists to celebrate the achievements of our
+          Association over the last three quarters of a century.
+        </p>
+        <p>
+          Although the evening's events are for ticket holders
+          only, a <strong>Nature Live</strong> show, open to all, will
+          take place at 14.30 in the <strong>Sir David Attenborough
+          Studio</strong>. Systematists will present their latest
+          research to the public, showing off the weird and
+          wonderful organisms to which they dedicate their time!
+        </p>
+				<!--#include virtual="/incl/topofpage.inc" -->
+        <p class="title">
+          <a name="Prog" id="Prog"></a>Programme
+        </p>
+        <ul>
+          <li style="list-style: none">
+            <strong>Free event</strong><br>
+            <strong>Venue: Sir David Attenborough Studio</strong>
+          </li>
+          <li>14.30 - Nature Live. A selection of photographs taken by Rupert Wilson appears below.
+          </li>
+        </ul>
+
+  <embed 
+	  src="/ir/imagerotator.swf" 
+	  width="410" 
+	  height="306"
+	  allowscriptaccess="always" 
+	  allowfullscreen="true" 
+	  flashvars="file=/ir/celebrate75naturelive.xml&transition=blocks&showicons=false&shownavigation=false&shuffle=true&overstretch=false&kenburns=true&usefullscreen=false&screencolor=0x808080&backcolor=0x808080" 
+	/>
+				
+
+        <hr>
+        
+        <ul>
+          <li style="list-style: none">
+            <strong>Ticketed event</strong><br>
+            <strong>Venue: Flett Lecture Theatre and Flett
+            Foyer</strong>
+          </li>
+          <li>17.00 - Launch of the 75th anniversary
+          </li>
+          <li>17.15 - Professor Stephen Blackmore, Regius Keeper
+          of the Royal Botanic Garden Edinburgh, and Dr David
+          Williams, Natural History Museum will present a history
+          of the Systematics Association
+          </li>
+          <li>17.45 - Posters and drinks reception
+          </li>
+          <li>18.45 - Sir David Attenborough and Professor
+          Richard Fortey in conversation.
+          </li>
+          <li>19.15 - Announcement of the Attenborough Award for
+          fieldwork
+          </li>
+          <li>19.30 - Buffet
+          </li>
+        </ul>
+
+<p>A selection of photographs from the event appears below.</p>
+
+  <embed 
+	  src="/ir/imagerotator.swf" 
+	  width="410" 
+	  height="306"
+	  allowscriptaccess="always" 
+	  allowfullscreen="true" 
+	  flashvars="file=/ir/celebrate75.xml&transition=blocks&showicons=false&shownavigation=false&shuffle=true&overstretch=false&kenburns=true&usefullscreen=false&screencolor=0x808080&backcolor=0x808080" 
+	/>
+
+        <!--#include virtual="/incl/topofpage.inc" -->
+					
+        <p class="title">
+          <a name="Join" id="Join"></a>Membership
+        </p>
+        <p>
+          To join the Systematics Association, visit the <a href=
+          "/membership/">Membership page</a>.
+        </p>
+				<!--#include virtual="/incl/topofpage.inc" -->
+        <p class="title">
+          <a name="Queries" id="Queries"></a>Queries and help
+        </p>
+				<p>If you have any queries please contact 
+				
+			  <script type="text/javascript">
+				  <!--
+					var disp = "celebrate75@sytass.org";
+					var usr = "celebrate75";
+					var dom = "systass";
+					var tld = "org";
+					var ady = disp;
+					var dispady = usr + "@" + dom + "." + tld;
+					document.write("<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>")
+					//-->
+					</script>
+				</p>
+				
+				<!--#include virtual="/incl/topofpage.inc" -->
+        <p style="text-align: center">
+          <strong>Registered Charity Number 270429</strong>
+        </p><!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom banner ?links? -->
+        <!--#include virtual="/incl/w3c.inc" -->
+        Last updated: 5 July 2012 
+        <!--#include virtual="/incl/webmaster-email.inc" -->
+         <!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

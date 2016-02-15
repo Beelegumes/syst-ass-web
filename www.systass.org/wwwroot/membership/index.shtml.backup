@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - Membership Page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/SystAssLogo-100.png" alt=
+        "rSystematics Association Logo" width="81" height="100"
+        title="Systematics Association Logo">
+        <p>
+          Membership of<br>
+          the Systematics Association
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Quick links
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            <a href="/membership/MembershipApplication2011.shtml">Application form</a><br>
+						<a href="/membership/Gift_Aid_Form_2010.pdf">Download Gift Aid form</a><br>
+            <a href="#benefits">Membership benefits</a><br>
+            <a href="#rates">Membership rates</a><br>
+            <a href=
+            "/membership/UpdateMembershipDetails.shtml"><strong style="background-color: #cc6633;">
+            Update your details</strong></a><br>
+            <a href="#map">Membership map</a><br>
+            <a href="#contact">Queries and help</a>
+          </p>
+        </div>
+        <p class="title">
+          *Qualifying countries:
+        </p>
+        <div class="textsmall">
+          <!-- HTML Codes by Quackit.com -->
+          <div style="height:650px;width:180px;overflow:scroll;">
+            <!--#include virtual="/membership/QualifyingCountries.inc" -->
+          </div>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <img src="../images/SystAssLogo.png" alt=
+        "Systematics Association Logo" width="162" height="200"
+        style="float: left; margin-right: 10px;" title=
+        "Systematics Association">
+        <p>
+          The Systematics Association welcomes anyone interested
+          in the study or teaching of Systematics. Membership
+          entitles you to reduced registration at our
+          conferences, and major reductions on the books
+          published by the Association. You will also receive our
+          newsletter, and can apply for the Association's
+          grants.<br>
+          <br>
+          <br>
+          <br>
+        </p>
+        <p class="title">
+          <a name="rates" id="rates"></a>Membership rates
+        </p>
+        <table border="0" cellpadding="0" cellspacing="0"
+        summary="Membership rates">
+          <tr>
+            <td>
+              Category
+            </td>
+            <th>
+              Sterling
+            </th>
+            <th>
+              US dollars
+            </th>
+            <th>
+              EU euros
+            </th>
+          </tr>
+          <tr>
+            <td>
+              Standard
+            </td>
+            <td>
+              &pound;20
+            </td>
+            <td>
+              $30
+            </td>
+            <td>
+              &euro;30
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Student
+            </td>
+            <td>
+              &pound;10
+            </td>
+            <td>
+              $15
+            </td>
+            <td>
+              &euro;15
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Retired/Unwaged
+            </td>
+            <td>
+              &pound;10
+            </td>
+            <td>
+              $15
+            </td>
+            <td>
+              &euro;15
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Qualifying countries*
+            </td>
+            <td>
+              &pound;10
+            </td>
+            <td>
+              $15
+            </td>
+            <td>
+              &euro;15
+            </td>
+          </tr>
+        </table>
+        <p>
+          You can use a payment card such as Visa, Mastercard or
+          PayPal.
+        </p>
+        <!--#include virtual="/incl/paypal-with-card-logos.inc" -->
+        <p class="title">
+          <a name="benefits" id="benefits"></a>Membership
+          benefits
+        </p>
+        <ul>
+          <li>Twice yearly Newsletter
+          </li>
+          <li>Discount on Society Publications 
+          <!--#include virtual="/publications/member-discount.inc" -->
+          </li>
+          <li>Reduced registration fee for Society Conferences
+          </li>
+          <li>Systematics Association News mailing list -
+            <a href="http://www.jiscmail.ac.uk/SYSTASS-NEWS"
+            title="Sign-up here." rel="external">Sign-up
+            here.</a>
+          </li>
+        </ul>
+        <hr>
+        <p class="title">
+          <a name="form" id="form"></a>How to apply
+        </p>
+        <p>
+          To become a member, complete the <a href=
+          "/membership/MembershipApplication2011.shtml">online
+          form</a> and payment on the <a href=
+          "/membership/MembershipApplication2011.shtml">following
+          page</a>.  If you are a UK tax payer then please also consider completing 
+					a <a href="/membership/Gift_Aid_Form_2010.pdf">Gift Aid form</a> so we
+					can claim back the tax you have paid on your subscription.</a>
+        </p>
+        <hr>
+        <p class="title">
+          <a name="map" id="map"></a>Our membership covers 50 countries
+        </p>
+        <!--#include virtual="/membership/MembersByCountry.inc" -->
+        <hr>
+        <p class="title">
+          <a name="contact" id="contact"></a>Queries and help
+        </p>
+        <p>
+          If you have any questions please contact the<br>
+          <script type="text/javascript">
+  <!--
+  var disp = "membership secretary by e-mail";
+  var usr = "membership";
+  var dom = "systass";
+  var tld = "org";
+  var ady = disp;
+  var dispady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>")
+  //-->
+</script>
+        </p>
+        <hr>
+        <p style="text-align: center">
+          <strong>Registered Charity Number 270429</strong>
+        </p><!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom Banner ?links? -->
+        <!--#include virtual="/incl/w3c.inc" -->
+        Last updated: 30 December 2014 
+        <!--#include virtual="/incl/webmaster-email.inc" -->
+         <!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

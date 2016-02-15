@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - 2015 AGM</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>2015 Annual General Meeting</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<p class="title">Downloads</p>
+		 <div class="textsmall">
+		 <p style="text-align: right;">
+<!--  		 Download poster<br>
+		 Download 2014 AGM agenda<br>
+		 Download Draft 2013 AGM minutes<br> -->
+		 <a href="/Council/SystAss%20Job%20Descriptions.pdf" rel="external">Officers roles</a><br>
+		 The Rules of the Association<br>
+		 <a href="/about/Rules_(as_of_October_2012).pdf" rel="external">can be dowloaded here</a>
+		 <p>
+		 </div>
+		 <hr>
+<P class="title">Directions</P>
+		 <div class="textsmall">
+		 <p><a href="http://www.linnean.org/Contact+Us/Find+Us">Getting to the Linnean Society</a>
+		 </p>
+		 </div>
+<!--#include virtual="/incl/directions-linnsoc.inc" -->
+<hr>
+<P class="title">New events</P>
+		 <div class="textsmall"><p>
+		 Please contact us if have an event which you wish to promote.  
+		 If we feel it is appropriate to the Association then it will be listed here.  
+		 Send details to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+
+<p class="title">Annual General Meeting</p>
+<p><b>Thursday, 26 November 2015 at 5.00pm</b><br>
+Linnean Society<br>
+Burlington House<br>
+London, UK</p>
+
+
+<a href="/events/AGM_Agenda_2015.pdf">Agenda</a> of 2015 AGM, <a href="/events/AGM_Minutes_2014_draft.pdf">Draft minutes</a> of 2014 AGM.
+
+<p>Followed at 6.00pm by</p>
+<p class="title">President's Lecture<br>
+</p>
+<p>outgoing President Robert Scotland gives his lecture<br><br>
+
+<img src="/images/ScotlandPaperCreditRBGE600px.jpg" width="600" height="75" alt="Panorama Image of the Diversity of plant herbarium specimens Credit RBGE" title="Panorama Image of the Diversity of plant herbarium specimens Credit RBGE"/>
+
+<em>Do half the world's natural history collections have the wrong name and<br> 
+What can we do about it?</em><br><br> 
+<a href="/events/Presidents_Lecture_2015-poster.pdf" rel="external">Download a poster</a> | <a href="/events/Presidents_Lecture_2015.shtml">Further details</a></p>
+
+<hr>
+
+
+<p class="title">2015 Call for Nominations to Join Systematic Association Council</p>
+
+<p>Each year we have elections to select new members to the Systematics Association 
+Council. Membership lasts for 3 years. This year we have 6 council members due to 
+retire, thus we are seeking nominations to fill these positions.</p> 
+
+<p>We also have 3 officer positions available for nomination. These are Secretary, 
+Newsletter Editor and Webmaster. These positions are open to all members although 
+it is strongly recommended that anyone considering these positions has already served 
+on council.</p> 
+
+<p>Further details of the officers and their roles <a href="/Council/SystAss%20Job%20Descriptions.pdf" rel="external">are here</a></p>
+
+<p>All nominations should be proposed by two SA members and sent to the Secretary 
+(<script type="text/javascript">
+<!--
+  var usr = "p.wilkie";
+  var dom = "rbge.org";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>).   Nominations should include  the nominees  name, institution, research 
+interests, a paragraph on why they want to join council and what they feel they 
+could contribute to the SA. The deadline for submission was <strong>13th of November 2015</strong>. Nominations will then be discussed and elected at the 
+Association AGM on the <strong>26th November 2014</strong>.</p> 
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 16 November 2015
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

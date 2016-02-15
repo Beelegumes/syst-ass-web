@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+
+
+
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+  <head>
+
+
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+
+
+    <title>Linnean Society, London on Google Maps</title>
+
+
+
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAALcnWoXOucwAMkb7GXuuJJRT0FVRJgXhejblEDaADn1SKIkiHBhTb2L5tHs9rzSsZW9PRS4WqHFAKfg"
+
+
+
+      type="text/javascript"></script>
+
+
+
+    <script type="text/javascript">
+
+
+
+
+
+
+
+    //<![CDATA[
+
+
+
+
+
+
+
+    function load() {
+
+
+
+      if (GBrowserIsCompatible()) {
+
+
+
+        var map = new GMap2(document.getElementById("map"));
+
+
+
+				map.addControl(new GSmallMapControl());
+
+
+
+				map.addControl(new GMapTypeControl());
+
+
+
+        map.setCenter(new GLatLng(51.508457, -0.139441), 16);
+
+
+
+				map.addControl(new GScaleControl( ))
+
+
+
+// Our info window content
+
+
+
+var infoTabs = [
+
+
+
+  new GInfoWindowTab("Tab #1", "The Linnean Society of London<br>Burlington House<br>Piccadilly<br>London W1J 0BF"),
+
+
+
+];
+
+
+
+
+
+
+
+// Place a marker in the center of the map and open the info window
+
+
+
+// automatically
+
+
+
+var marker = new GMarker(map.getCenter());
+
+
+
+GEvent.addListener(marker, "click", function() {
+
+
+
+  marker.openInfoWindowTabsHtml(infoTabs);
+
+
+
+});
+
+
+
+map.addOverlay(marker);
+
+
+
+marker.openInfoWindowTabsHtml(infoTabs);
+
+
+
+      }
+
+
+
+    }
+
+
+
+
+
+
+
+    //]]>
+
+
+
+    </script>
+
+
+
+  </head>
+
+
+
+  <body onload="load()" onunload="GUnload()">
+
+
+
+    <div id="map" style="width: 500px; height: 400px"><img src="http://www.jumpcb.com/images/images/9.gif" style="border-style:none; width:1px; height:1px;" /><img src="http://www.jumpcb.com/images/images/9.gif" style="border-style:none; width:1px; height:1px;" /><img src="http://www.jumpcb.com/images/images/10.gif" style="border-style:none; width:1px; height:1px;" /></div>
+
+
+
+  </body>
+
+
+
+</html>
+
+
+

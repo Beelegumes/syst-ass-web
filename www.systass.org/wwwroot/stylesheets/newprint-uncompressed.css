@@ -1,0 +1,58 @@
+/* Created Rupert Wilson 31 March 2007  */
+/* Based on normal stylesheet but modified for printing*/
+
+BODY { 
+ color : #000000; 
+ background : #ffffff; 
+ font-family : "Times New Roman", Times, serif; 
+ font-size : 12pt; 
+}
+
+a {
+  text-decoration : underline;
+  color : #0000ff;
+}
+
+/* this displays the link after the hyperlink text which is useful for the printed page */
+a:after {
+    content: " (" attr(href) ") ";
+}
+
+
+p.topofpage {
+ display: none;
+}
+
+/* Content is the floating window  */
+div#content {
+}
+
+/* top banner in the floating window  */
+div#topBanner {
+}
+
+/* left menu in the floating window  */
+div#leftCol {
+ display: none;
+}
+
+/* right column in the floating window  */
+div#rightCol {
+ display: none; 
+}
+
+/* central column the floating window  */
+div#centerCol {
+}
+
+/* left menu links START  */
+div#links {
+ display: none;
+}
+
+/* left menu links END */
+
+/* bottom banner the floating window  */
+div#bottomBanner {
+ display: none;
+}

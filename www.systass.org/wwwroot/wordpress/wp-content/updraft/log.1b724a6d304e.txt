@@ -1,0 +1,303 @@
+0000.092 (0) Opened log file at time: Sat, 30 Jan 2016 19:24:50 +0000 on http://systass.org/wordpress
+0000.233 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.4.24 (Windows NT INETC1324 6.2 build 9200 (Unknown Windows version Standard Edition) i586) MySQL: 5.5.29 Server: Microsoft-IIS/8.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 18.8M | 19M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.254 (0) Free space on disk containing Updraft's temporary directory: 79854 Mb
+0000.367 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: daily)
+0000.372 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.529 (0) Requesting semaphore lock (f)
+0000.540 (0) Set semaphore last lock (f) time to 2016-01-30 19:24:50
+0000.545 (0) Semaphore lock (f) complete
+0000.589 (0) Backup run: resumption=0, nonce=1b724a6d304e, begun at=1454181890 (0s ago), job type=backup
+0000.597 (0) Scheduling a resumption (1) after 300 seconds (1454182190) in case this run gets aborted
+0000.760 (0) Checking if we have a zip executable available
+0000.837 (0) Creation of backups of directories: beginning
+0000.897 (0) Beginning creation of dump of plugins (split every: 800 Mb)
+0008.779 (0) Total entities for the zip file: 491 directories, 3206 files (0 skipped as non-modified), 46.6 Mb
+0008.877 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0009.032 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 100 files added (on-disk size: 78.3 Kb)
+0009.087 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 200 files added (on-disk size: 78.3 Kb)
+0009.153 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 300 files added (on-disk size: 78.3 Kb)
+0009.214 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 400 files added (on-disk size: 78.3 Kb)
+0009.274 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 500 files added (on-disk size: 78.3 Kb)
+0009.280 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.2 Mb, 3206 files batched, 501 (502) added so far); re-opening (prior size: 78.3 Kb)
+0014.968 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 600 files added (on-disk size: 4249.8 Kb)
+0015.031 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 700 files added (on-disk size: 4249.8 Kb)
+0015.092 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 800 files added (on-disk size: 4249.8 Kb)
+0015.150 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 900 files added (on-disk size: 4249.8 Kb)
+0015.215 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 1000 files added (on-disk size: 4249.8 Kb)
+0015.221 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.3 Mb, 3206 files batched, 501 (1003) added so far); re-opening (prior size: 4249.8 Kb)
+0025.306 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 1100 files added (on-disk size: 8895.3 Kb)
+0025.398 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 1200 files added (on-disk size: 8895.3 Kb)
+0025.469 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 1300 files added (on-disk size: 8895.3 Kb)
+0025.549 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 1400 files added (on-disk size: 8895.3 Kb)
+0025.613 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 1500 files added (on-disk size: 8895.3 Kb)
+0025.626 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.7 Mb, 3206 files batched, 501 (1504) added so far); re-opening (prior size: 8895.3 Kb)
+0030.372 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 1600 files added (on-disk size: 10077.7 Kb)
+0030.428 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 1700 files added (on-disk size: 10077.7 Kb)
+0030.494 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 1800 files added (on-disk size: 10077.7 Kb)
+0030.564 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 1900 files added (on-disk size: 10077.7 Kb)
+0030.652 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 2000 files added (on-disk size: 10077.7 Kb)
+0030.671 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.3 Mb, 3206 files batched, 501 (2005) added so far); re-opening (prior size: 10077.7 Kb)
+0042.086 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 2100 files added (on-disk size: 15281.6 Kb)
+0042.179 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 2200 files added (on-disk size: 15281.6 Kb)
+0042.261 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 2300 files added (on-disk size: 15281.6 Kb)
+0042.354 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 2400 files added (on-disk size: 15281.6 Kb)
+0042.466 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 2500 files added (on-disk size: 15281.6 Kb)
+0042.479 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.1 Mb, 3206 files batched, 501 (2506) added so far); re-opening (prior size: 15281.6 Kb)
+0047.831 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 2600 files added (on-disk size: 15970.8 Kb)
+0047.924 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 2700 files added (on-disk size: 15970.8 Kb)
+0047.994 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 2800 files added (on-disk size: 15970.8 Kb)
+0048.053 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 2900 files added (on-disk size: 15970.8 Kb)
+0048.127 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 3000 files added (on-disk size: 15970.8 Kb)
+0048.139 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.8 Mb, 3206 files batched, 501 (3007) added so far); re-opening (prior size: 15970.8 Kb)
+0056.000 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 3100 files added (on-disk size: 17909.6 Kb)
+0056.093 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip.tmp: 3200 files added (on-disk size: 17909.6 Kb)
+0059.941 (0) Created plugins zip (0) - 18880.4 Kb in 58.9 s (320.3 Kb/s) (SHA1 checksum: 7cf2611442bd62733442cc8df9ac2c993e5a4882)
+0059.951 (0) Beginning creation of dump of themes (split every: 800 Mb)
+0061.183 (0) Total entities for the zip file: 57 directories, 546 files (0 skipped as non-modified), 13.8 Mb
+0061.238 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0061.294 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0061.347 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0061.396 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0061.443 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0061.448 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13 Mb, 546 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0072.571 (0) Created themes zip (0) - 6822.6 Kb in 12.6 s (540.9 Kb/s) (SHA1 checksum: ecae202cabe3d6f692651578c57db937e5df5f39)
+0072.583 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0072.601 (0) Looking for candidates to back up in: D:\virtualservers\vlnrapfo\www.systass.org\wwwroot\wordpress/wp-content/uploads
+0072.607 (0) finding files: 2013: adding to list (1)
+0072.613 (0) finding files: 2014: adding to list (2)
+0072.616 (0) finding files: 2015: adding to list (3)
+0072.620 (0) finding files: 2016: adding to list (4)
+0072.626 (0) finding files: download-manager-files: adding to list (5)
+0072.633 (0) finding files: suffusion: adding to list (6)
+0072.637 (0) Beginning creation of dump of uploads (split every: 800 Mb)
+0075.226 (0) Total entities for the zip file: 35 directories, 1106 files (0 skipped as non-modified), 53.3 Mb
+0075.232 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0075.340 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip.tmp: 100 files added (on-disk size: 21 Kb)
+0075.385 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip.tmp: 200 files added (on-disk size: 21 Kb)
+0075.427 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip.tmp: 300 files added (on-disk size: 21 Kb)
+0075.475 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip.tmp: 400 files added (on-disk size: 21 Kb)
+0075.517 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip.tmp: 500 files added (on-disk size: 21 Kb)
+0075.522 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.2 Mb, 1106 files batched, 501 (502) added so far); re-opening (prior size: 21 Kb)
+0079.727 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip.tmp: 600 files added (on-disk size: 7253.2 Kb)
+0079.775 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip.tmp: 700 files added (on-disk size: 7253.2 Kb)
+0079.826 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip.tmp: 800 files added (on-disk size: 7253.2 Kb)
+0079.880 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip.tmp: 900 files added (on-disk size: 7253.2 Kb)
+0079.933 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip.tmp: 1000 files added (on-disk size: 7253.2 Kb)
+0079.939 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.2 Mb, 1106 files batched, 501 (1003) added so far); re-opening (prior size: 7253.2 Kb)
+0084.689 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (26.4 Mb, 1106 files batched, 68 (1071) added so far); re-opening (prior size: 15128.4 Kb)
+0098.019 (0) A useful amount of data was added after this amount of zip processing: 14 s (normalised: 13.3 s, rate: 1929 Kb/s)
+0098.046 (0) Zip: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip.tmp: 1100 files added (on-disk size: 39600.6 Kb)
+0102.921 (0) Created uploads zip (0) - 47777.6 Kb in 30.3 s (1578.1 Kb/s) (SHA1 checksum: b6e6502291ea754fe3f5b281cd864e3115ee21f3)
+0103.003 (0) Beginning backup of other directories found in the content directory (index: 0)
+0103.010 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0103.015 (0) Looking for candidates to back up in: D:\virtualservers\vlnrapfo\www.systass.org\wwwroot\wordpress/wp-content
+0103.020 (0) finding files: index.php: adding to list (1)
+0103.027 (0) finding files: plugins: skipping: this is the plugins directory
+0103.032 (0) finding files: themes: skipping: this is the themes directory
+0103.037 (0) finding files: updraft: skipping: this is the updraft directory
+0103.041 (0) finding files: upgrade: skipping: excluded by options
+0103.046 (0) finding files: uploads: skipping: this is the uploads directory
+0103.060 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 Mb
+0103.083 (0) Created others zip (0) - 0.1 Kb in 0 s (4.8 Kb/s) (SHA1 checksum: 92ad789bfc787fee100e0480e5faee42238544a2)
+0103.105 (0) Saving backup status to database (elements: 8)
+0103.161 (0) No database backup (wp) - not part of this run
+0103.167 (0) Saving backup history
+0103.172 (0) backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0103.177 (0) backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0103.181 (0) backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0103.186 (0) backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-others.zip: others: This file has not yet been successfully uploaded: will queue
+0103.202 (0) Requesting upload of the files that have not yet been successfully uploaded (4)
+0103.219 (0) Cloud backup selection (1/1): ftp (last)
+0103.224 (0) Beginning dispatch of backup to remote (ftp)
+0103.513 (0) FTP upload attempt: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip -> ftp://SystAssBackup@rupes.net//SystAssBackup/backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip
+0103.609 (0) Ftp chunked upload: 2.7 % uploaded
+0103.705 (0) Ftp chunked upload: 5.5 % uploaded
+0103.789 (0) Ftp chunked upload: 8.2 % uploaded
+0103.880 (0) Ftp chunked upload: 10.9 % uploaded
+0103.967 (0) Ftp chunked upload: 13.7 % uploaded
+0104.084 (0) Ftp chunked upload: 16.4 % uploaded
+0104.167 (0) Ftp chunked upload: 19.1 % uploaded
+0104.297 (0) Ftp chunked upload: 21.9 % uploaded
+0104.377 (0) Ftp chunked upload: 24.6 % uploaded
+0104.472 (0) Ftp chunked upload: 27.3 % uploaded
+0104.573 (0) Ftp chunked upload: 30.1 % uploaded
+0104.662 (0) Ftp chunked upload: 32.8 % uploaded
+0104.746 (0) Ftp chunked upload: 35.5 % uploaded
+0104.847 (0) Ftp chunked upload: 38.3 % uploaded
+0104.953 (0) Ftp chunked upload: 41 % uploaded
+0105.053 (0) Ftp chunked upload: 43.7 % uploaded
+0105.150 (0) Ftp chunked upload: 46.4 % uploaded
+0105.230 (0) Ftp chunked upload: 49.2 % uploaded
+0105.328 (0) Ftp chunked upload: 51.9 % uploaded
+0105.434 (0) Ftp chunked upload: 54.6 % uploaded
+0105.517 (0) Ftp chunked upload: 57.4 % uploaded
+0105.612 (0) Ftp chunked upload: 60.1 % uploaded
+0105.701 (0) Ftp chunked upload: 62.8 % uploaded
+0105.797 (0) Ftp chunked upload: 65.6 % uploaded
+0105.904 (0) Ftp chunked upload: 68.3 % uploaded
+0106.005 (0) Ftp chunked upload: 71 % uploaded
+0106.094 (0) Ftp chunked upload: 73.8 % uploaded
+0106.524 (0) Ftp chunked upload: 76.5 % uploaded
+0106.615 (0) Ftp chunked upload: 79.2 % uploaded
+0106.699 (0) Ftp chunked upload: 82 % uploaded
+0106.786 (0) Ftp chunked upload: 84.7 % uploaded
+0106.870 (0) Ftp chunked upload: 87.4 % uploaded
+0106.956 (0) Ftp chunked upload: 90.2 % uploaded
+0107.054 (0) Ftp chunked upload: 92.9 % uploaded
+0107.135 (0) Ftp chunked upload: 95.6 % uploaded
+0107.236 (0) Ftp chunked upload: 98.4 % uploaded
+0107.490 (0) FTP upload attempt successful (18880.4Kb in 3.97s)
+0107.513 (0) Recording as successfully uploaded: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip (1377765a53c8054a3f629b0adfca2654)
+0107.534 (0) Deleting local file: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-plugins.zip: OK
+0107.538 (0) FTP upload attempt: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-themes.zip -> ftp://SystAssBackup@rupes.net//SystAssBackup/backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-themes.zip
+0107.637 (0) Ftp chunked upload: 7.6 % uploaded
+0107.746 (0) Ftp chunked upload: 15.1 % uploaded
+0107.871 (0) Ftp chunked upload: 22.7 % uploaded
+0107.955 (0) Ftp chunked upload: 30.2 % uploaded
+0108.047 (0) Ftp chunked upload: 37.8 % uploaded
+0108.246 (0) Ftp chunked upload: 45.4 % uploaded
+0108.435 (0) Ftp chunked upload: 52.9 % uploaded
+0108.596 (0) Ftp chunked upload: 60.5 % uploaded
+0108.728 (0) Ftp chunked upload: 68.1 % uploaded
+0108.817 (0) Ftp chunked upload: 75.6 % uploaded
+0108.933 (0) Ftp chunked upload: 83.2 % uploaded
+0109.024 (0) Ftp chunked upload: 90.7 % uploaded
+0109.160 (0) Ftp chunked upload: 98.3 % uploaded
+0109.194 (0) FTP upload attempt successful (6822.6Kb in 1.65s)
+0109.218 (0) Recording as successfully uploaded: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-themes.zip (aae358bdd9faccb1b6bd0fdb04916a5e)
+0109.280 (0) Deleting local file: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-themes.zip: OK
+0109.285 (0) FTP upload attempt: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip -> ftp://SystAssBackup@rupes.net//SystAssBackup/backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip
+0109.395 (0) Ftp chunked upload: 1.1 % uploaded
+0109.505 (0) Ftp chunked upload: 2.2 % uploaded
+0109.598 (0) Ftp chunked upload: 3.2 % uploaded
+0109.750 (0) Ftp chunked upload: 4.3 % uploaded
+0109.867 (0) Ftp chunked upload: 5.4 % uploaded
+0109.981 (0) Ftp chunked upload: 6.5 % uploaded
+0110.111 (0) Ftp chunked upload: 7.6 % uploaded
+0110.188 (0) Ftp chunked upload: 8.6 % uploaded
+0110.273 (0) Ftp chunked upload: 9.7 % uploaded
+0110.386 (0) Ftp chunked upload: 10.8 % uploaded
+0110.504 (0) Ftp chunked upload: 11.9 % uploaded
+0110.606 (0) Ftp chunked upload: 13 % uploaded
+0110.707 (0) Ftp chunked upload: 14 % uploaded
+0110.813 (0) Ftp chunked upload: 15.1 % uploaded
+0110.900 (0) Ftp chunked upload: 16.2 % uploaded
+0111.024 (0) Ftp chunked upload: 17.3 % uploaded
+0111.123 (0) Ftp chunked upload: 18.4 % uploaded
+0111.211 (0) Ftp chunked upload: 19.4 % uploaded
+0111.323 (0) Ftp chunked upload: 20.5 % uploaded
+0111.442 (0) Ftp chunked upload: 21.6 % uploaded
+0111.529 (0) Ftp chunked upload: 22.7 % uploaded
+0111.633 (0) Ftp chunked upload: 23.8 % uploaded
+0111.757 (0) Ftp chunked upload: 24.8 % uploaded
+0111.850 (0) Ftp chunked upload: 25.9 % uploaded
+0111.947 (0) Ftp chunked upload: 27 % uploaded
+0112.047 (0) Ftp chunked upload: 28.1 % uploaded
+0112.152 (0) Ftp chunked upload: 29.2 % uploaded
+0112.245 (0) Ftp chunked upload: 30.2 % uploaded
+0112.452 (0) Ftp chunked upload: 31.3 % uploaded
+0112.588 (0) Ftp chunked upload: 32.4 % uploaded
+0112.691 (0) Ftp chunked upload: 33.5 % uploaded
+0112.790 (0) Ftp chunked upload: 34.6 % uploaded
+0112.876 (0) Ftp chunked upload: 35.6 % uploaded
+0112.979 (0) Ftp chunked upload: 36.7 % uploaded
+0113.081 (0) Ftp chunked upload: 37.8 % uploaded
+0113.174 (0) Ftp chunked upload: 38.9 % uploaded
+0113.297 (0) Ftp chunked upload: 40 % uploaded
+0113.409 (0) Ftp chunked upload: 41 % uploaded
+0113.512 (0) Ftp chunked upload: 42.1 % uploaded
+0113.606 (0) Ftp chunked upload: 43.2 % uploaded
+0113.731 (0) Ftp chunked upload: 44.3 % uploaded
+0113.838 (0) Ftp chunked upload: 45.3 % uploaded
+0113.925 (0) Ftp chunked upload: 46.4 % uploaded
+0114.024 (0) Ftp chunked upload: 47.5 % uploaded
+0114.108 (0) Ftp chunked upload: 48.6 % uploaded
+0114.211 (0) Ftp chunked upload: 49.7 % uploaded
+0114.286 (0) Ftp chunked upload: 50.7 % uploaded
+0114.389 (0) Ftp chunked upload: 51.8 % uploaded
+0114.481 (0) Ftp chunked upload: 52.9 % uploaded
+0114.572 (0) Ftp chunked upload: 54 % uploaded
+0114.664 (0) Ftp chunked upload: 55.1 % uploaded
+0114.771 (0) Ftp chunked upload: 56.1 % uploaded
+0114.865 (0) Ftp chunked upload: 57.2 % uploaded
+0114.977 (0) Ftp chunked upload: 58.3 % uploaded
+0115.079 (0) Ftp chunked upload: 59.4 % uploaded
+0115.172 (0) Ftp chunked upload: 60.5 % uploaded
+0115.268 (0) Ftp chunked upload: 61.5 % uploaded
+0115.352 (0) Ftp chunked upload: 62.6 % uploaded
+0115.469 (0) Ftp chunked upload: 63.7 % uploaded
+0115.559 (0) Ftp chunked upload: 64.8 % uploaded
+0115.679 (0) Ftp chunked upload: 65.9 % uploaded
+0115.763 (0) Ftp chunked upload: 66.9 % uploaded
+0115.858 (0) Ftp chunked upload: 68 % uploaded
+0115.957 (0) Ftp chunked upload: 69.1 % uploaded
+0116.054 (0) Ftp chunked upload: 70.2 % uploaded
+0116.167 (0) Ftp chunked upload: 71.3 % uploaded
+0116.254 (0) Ftp chunked upload: 72.3 % uploaded
+0116.386 (0) Ftp chunked upload: 73.4 % uploaded
+0116.487 (0) Ftp chunked upload: 74.5 % uploaded
+0116.584 (0) Ftp chunked upload: 75.6 % uploaded
+0116.673 (0) Ftp chunked upload: 76.7 % uploaded
+0116.768 (0) Ftp chunked upload: 77.7 % uploaded
+0116.881 (0) Ftp chunked upload: 78.8 % uploaded
+0116.973 (0) Ftp chunked upload: 79.9 % uploaded
+0117.066 (0) Ftp chunked upload: 81 % uploaded
+0117.171 (0) Ftp chunked upload: 82.1 % uploaded
+0117.273 (0) Ftp chunked upload: 83.1 % uploaded
+0117.391 (0) Ftp chunked upload: 84.2 % uploaded
+0117.503 (0) Ftp chunked upload: 85.3 % uploaded
+0117.597 (0) Ftp chunked upload: 86.4 % uploaded
+0117.703 (0) Ftp chunked upload: 87.5 % uploaded
+0117.784 (0) Ftp chunked upload: 88.5 % uploaded
+0117.881 (0) Ftp chunked upload: 89.6 % uploaded
+0117.978 (0) Ftp chunked upload: 90.7 % uploaded
+0118.073 (0) Ftp chunked upload: 91.8 % uploaded
+0118.186 (0) Ftp chunked upload: 92.9 % uploaded
+0118.296 (0) Ftp chunked upload: 93.9 % uploaded
+0118.387 (0) Ftp chunked upload: 95 % uploaded
+0118.479 (0) Ftp chunked upload: 96.1 % uploaded
+0118.566 (0) Ftp chunked upload: 97.2 % uploaded
+0118.665 (0) Ftp chunked upload: 98.3 % uploaded
+0118.985 (0) Ftp chunked upload: 99.3 % uploaded
+0119.047 (0) FTP upload attempt successful (47777.6Kb in 9.76s)
+0119.166 (0) Recording as successfully uploaded: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip (f7198f7129b78954a3ca678a8ef403d6)
+0119.211 (0) Deleting local file: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-uploads.zip: OK
+0119.247 (0) FTP upload attempt: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-others.zip -> ftp://SystAssBackup@rupes.net//SystAssBackup/backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-others.zip
+0119.271 (0) FTP upload attempt successful (0.1Kb in 0.02s)
+0119.283 (0) Recording as successfully uploaded: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-others.zip (a62e10d0715e9abcc732727a2bded6db)
+0119.297 (0) Deleting local file: backup_2016-01-30-1924_Systematics_Association_1b724a6d304e-others.zip: OK
+0119.307 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0119.313 (0) Number of backup sets in history: 5
+0119.318 (0) Examining backup set with datestamp: 1454181890 (Jan 30 2016 19:24:50)
+0119.322 (0) 1454181890: this backup set remains non-empty (1/0); will retain in history
+0119.326 (0) Examining backup set with datestamp: 1454134025 (Jan 30 2016 06:07:05)
+0119.330 (0) 1454134025: this backup set remains non-empty (0/1); will retain in history
+0119.335 (0) Examining backup set with datestamp: 1454016355 (Jan 28 2016 21:25:55)
+0119.340 (0) 1454016355: this backup set remains non-empty (0/1); will retain in history
+0119.345 (0) Examining backup set with datestamp: 1453565158 (Jan 23 2016 16:05:58)
+0119.349 (0) 1453565158: this backup set remains non-empty (1/0); will retain in history
+0119.353 (0) Examining backup set with datestamp: 1452996598 (Jan 17 2016 02:09:58)
+0119.357 (0) plugins: 1452996598: over retain limit (2); will delete this file (backup_2016-01-17-0209_Systematics_Association_fcad73783148-plugins.zip)
+0119.362 (0) themes: 1452996598: over retain limit (2); will delete this file (backup_2016-01-17-0209_Systematics_Association_fcad73783148-themes.zip)
+0119.365 (0) uploads: 1452996598: over retain limit (2); will delete this file (backup_2016-01-17-0209_Systematics_Association_fcad73783148-uploads.zip)
+0119.370 (0) others: 1452996598: over retain limit (2); will delete this file (backup_2016-01-17-0209_Systematics_Association_fcad73783148-others.zip)
+0119.374 (0) Delete file: backup_2016-01-17-0209_Systematics_Association_fcad73783148-plugins.zip, service=ftp
+0119.378 (0) Delete file: backup_2016-01-17-0209_Systematics_Association_fcad73783148-themes.zip, service=ftp
+0119.382 (0) Delete file: backup_2016-01-17-0209_Systematics_Association_fcad73783148-uploads.zip, service=ftp
+0119.388 (0) Delete file: backup_2016-01-17-0209_Systematics_Association_fcad73783148-others.zip, service=ftp
+0119.397 (0) FTP delete: succeeded (/SystAssBackup/backup_2016-01-17-0209_Systematics_Association_fcad73783148-plugins.zip)
+0119.404 (0) FTP delete: succeeded (/SystAssBackup/backup_2016-01-17-0209_Systematics_Association_fcad73783148-themes.zip)
+0119.446 (0) FTP delete: succeeded (/SystAssBackup/backup_2016-01-17-0209_Systematics_Association_fcad73783148-uploads.zip)
+0119.455 (0) FTP delete: succeeded (/SystAssBackup/backup_2016-01-17-0209_Systematics_Association_fcad73783148-others.zip)
+0119.463 (0) 1452996598: this backup set is now empty; will remove from history
+0119.468 (0) 1452996598: deleting log file (log.fcad73783148.txt)
+0119.473 (0) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0119.490 (0) Resume backup (1b724a6d304e, 0): finish run
+0119.503 (0) Decremented the semaphore (f) by 1
+0119.512 (0) Semaphore (f) unlocked
+0119.516 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0119.529 (0) An email has been scheduled for this job, because we are in debug mode
+0119.533 (0) Fetching RSS news feed
+0120.554 (0) Fetched RSS news feed; result is a: SimplePie
+0120.562 (0) Sending email ('Files only (database was not part of this particular schedule) (Full backup)') report (attachments: 1, size: 25.1 Kb) to: rgw.s...
+0120.767 (0) The backup apparently succeeded and is now complete

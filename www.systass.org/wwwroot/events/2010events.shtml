@@ -1,0 +1,212 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Events in 2010</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Lectures,<br>
+Conferences and Workshops</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Past Events</P>
+<!--#include virtual="/events/PastEventsKey.inc" -->
+		 <hr>
+<P class="title">Forthcoming Events
+</P><!--#include virtual="/events/FutureEventsKey.inc" -->
+		 <hr>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+
+<a name="2010"></a><p class="title">Events for 2010</p>
+
+<table summary="Forthcoming Events" width="100%">
+<tr class="alternate"><td class="quarter">Date</td><td class="threequarter">Event</td><td class="quarter">Contact</td></tr>
+<!-- Insert events below here -->
+
+	<tr class="alternate"><td class="quarter">15 April 2010</td>
+    <td colspan="2"><strong>Biodiversity Policy Lecture</strong>
+    <br>Speaker: Martin Sharman, EU 
+		<br>Title: The obvious solution to biodiversity loss: a bigger planet
+		<br>Starts: 6pm Linnean Society (5.30pm for Tea)
+		<br><a href="http://linnean.org/fileadmin/events2/events.php?detail=222" rel="external">Further details</a></td>
+	</tr>
+
+
+	<tr><td>Postponed until July <s>20-22 April 2010</s></td>
+    <td class="threequarter"><strong>Early Events in Monocot Evolution</strong>
+		<br>Linnean Society / Royal Botanic Gardens, Kew
+		<br><a href="http://www.linnean.org/fileadmin/events2/attachments/1259945948_Monocots%20Programme.doc.pdf" rel="external">Programme details</a>
+		<br><a href="http://www.linnean.org/fileadmin/events2/attachments/1259945952_Monocots%20Meeting%20Registration%20Form.pdf" rel="external">Registration details</a></td>
+		<td>Organiser: Paul Wilkin
+		<script type="text/javascript"><!--
+    var usr = "p.wilkin";
+    var dom = "kew";
+    var tld = "org";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+    //--></script></td>
+	</tr>
+
+	<tr class="alternate"><td class="quarter">23 April, Day Meeting</td>
+	   <td colspan="2"><strong>UK Taxonomy &amp; Systematics Review: Community Consultation Workshop</strong>
+		 <br>Venue: University College London
+	   <br><a href="http://linnean.org/fileadmin/events2/events.php?detail=228" rel="external">Further details</a></td>		 
+	</tr>
+	
+
+
+	<tr><td class="quarter">10 June 2010, 4:30pm</td>
+	   <td colspan="2"><strong>Sequencing the Red and the Dead</strong>
+		 <br>Organisers: David Rollinson, Tim Littlewood &amp; Richard Sabin, Venue: The Linnean Society of London
+	   <br><a href="http://linnean.org/fileadmin/events2/events.php?detail=224" rel="external">Further details</a>		 
+		 <br>This meeting will be followed by a workshop at the Natural History Museum on 
+		 11th June, "Unlocking and developing collections for genomic research"</td>
+	</tr>
+
+	<tr class="alternate"><td class="quarter">29 - 30 June 2010</td>
+	   <td colspan="2"><strong>iEvoBio</strong>
+		 <br>Informatics for Phylogenetics, Evolution and Biodiversity Conference
+		 <br>Portland, Oregon, USA
+	   <br><a href="http://ievobio.org/" rel="external">Further details</a></td>
+	</tr>
+	
+	
+	<tr><td class="quarter">7 July 2010</td>
+    <td colspan="2"><strong>The Sir Julian Huxley Lecture</strong>
+    <br>Speaker: Professor Andy Purvis, 
+		<br>Department of Life Sciences, Imperial College, London 
+		<br>Title: Species for Macroevolution
+		<br>Starts: 6pm Linnean Society
+		<br><a href="/events/JH-Lecture-2010.shtml">Further details</a></td>
+	</tr>
+
+	
+	<tr class="alternate"><td><strong>Re-scheduled </strong>20-22 July 2010</td>
+    <td class="threequarter"><strong>Early Events in Monocot Evolution</strong>
+		<br>Linnean Society / Royal Botanic Gardens, Kew
+		<br><a href="http://www.linnean.org/fileadmin/events2/attachments/1259945948_Monocots%20Programme.doc.pdf" rel="external">Programme details</a>
+		<br><a href="http://www.linnean.org/fileadmin/events2/attachments/1259945952_Monocots%20Meeting%20Registration%20Form.pdf" rel="external">Registration details</a></td>
+		<td>Organiser: Paul Wilkin
+		<script type="text/javascript"><!--
+    var usr = "p.wilkin";
+    var dom = "kew";
+    var tld = "org";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+    //--></script></td>
+	</tr>
+
+
+	
+	<tr><td class="quarter">2-4 September 2010</td>
+     <td colspan="2"><strong>XI International Conference of International Organization of Plant Biosystematists</strong>
+		 <br>Aurangabad, Maharashtra, India
+		<br>Organiser: Dr. Arvind S. Dhabe
+		<script type="text/javascript"><!--
+    var usr = "11iopbindia2010";
+    var dom = "gmail";
+    var tld = "com";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+    //--></script>		 
+     <br><a href="http://www.asdhabe.com/iopb/" rel="external">Further details</a>		 
+		</td>
+	</tr>
+
+	
+	<tr class="alternate"><td class="quarter">29 November - 3 December 2010</td>
+     <td colspan="2"><strong>Australian Systematic Botany Society Conference "Systematic botany across the ditch: links between Australia and New Zealand"</strong>
+		 <br>Including palaeobotany, biogeography, phylogeny, algae, hybridisation, and biosecurity/weeds
+		 <br>Lincoln University, Lincoln, New Zealand
+		 <br>Organised by Landcare Research, Australian Systematic Botany Society, and the New Zealand Plant Radiation Network.
+		<script type="text/javascript"><!--
+    var usr = "ASBS2010";
+    var dom = "landcareresearch.co";
+    var tld = "nz";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+    //--></script>		 
+     <br><a href="http://www.landcareresearch.co.nz/news/conferences/asbs2010/" rel="external">Further details</a>		 
+		</td>
+	</tr>		 
+
+	
+	<tr><td class="quarter">1 December 2010</td>
+    <td><strong>12th Young Systematists' Forum,</strong>
+    <br>Flett Lecture Theatre, The Natural History Museum, London, UK
+		<br><a href="/ysf/index.shtml">Further details</a>
+    </td>
+		   <td class="quarter">David Bass
+       <script type="text/javascript"><!--
+       var usr = "d.bass";
+       var dom = "nhm.ac";
+       var tld = "uk";
+       var ady = usr + "@" + dom + "." + tld;
+       document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+       //--></script>
+		</td>
+	</tr>
+
+	<tr class="alternate"><td class="quarter"><a name="_Next"></a>8 December 2010 - 5.00pm</td>
+     <td colspan="2"><strong>Annual General Meeting</strong>
+		 <br>The Linnean Society, Burlington House, London, UK
+		 <br>Download <a href="/events/AGM_Agenda_2010.pdf">Agenda</a>, <a href="/events/AGM_Minutes_2009.pdf">minutes of 2009 AGM</a>
+		</td>
+	</tr>	
+	
+	<tr><td class="quarter">8 December 2010 - 6.00pm</td>
+     <td colspan="2"><strong>The President's Lecture</strong>
+		 <br><a href="http://www.eawag.ch/about/personen/homepages/seehauso/index_EN" rel="external">Professor Ole Seehausen</a>, Head of the Department Fish Ecology and Evolution, Eawag, Switzerland
+		 <br><em>Cichlid fish as a model for studying the microevolution to macroevolution continuum</em>
+		 <br>The Linnean Society, Burlington House, London, UK
+		 <br><a href="/events/AGM_Lecture_2010.shtml">Further details</a>
+		</td>
+	</tr>
+
+
+<!-- Insert events above here -->
+</table>
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 19 January 2011
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,256 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Biennial 2007 Symposia Page</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<a name="_top"></a>
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/biennial2007-100px.png" width="90" height="90" 
+alt="Professor David G. Mann Arachne's Disc, Puget Sound, Washington, USA. Used for the SA Biennial 2007"
+title="Professor David G. Mann Arachne's Disc, Puget Sound, Washington, USA. Used for the SA Biennial 2007" />
+<p>6th Biennial Meeting: August 2007<br>
+Royal Botanic Garden, Edinburgh</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<p class="title">Quick links</p>
+		 <div class="textsmall">
+		 <p style="text-align: right">
+		 <a href="delegate-info.shtml">Delegate Information</a> <strong>New!</strong><br>		 
+		 <a href="index.shtml#Introduction">Introduction</a><br> 
+		 <a href="index.shtml#Bursaries">Bursaries</a><br>
+		 <a href="index.shtml#Deadlines">Deadlines!</a><br> 
+		 <a href="index.shtml#Themes">Themes</a><br>
+		 <a href="symposia.shtml">Symposia</a><br>
+		 <a href="index.shtml#Programme">Programme</a><br>
+		 <a href="registration.shtml#Registration">Registration</a><br>
+		 <a href="registration.shtml#Fees">Fees</a><br>
+		 <a href="registration.shtml#Students">Students</a><br>
+		 <a href="registration.shtml#Abstracts">Abstracts</a><br>
+		 <a href="registration.shtml#Posters">Posters</a><br>
+		 <a href="registration.shtml#Accommodation">Accommodation</a><br>
+		 <a href="registration.shtml#Meals">Meals</a><br>
+		 <a href="location.shtml#Edinburgh">Edinburgh</a><br>
+		 <a href="location.shtml#Travel">Travel</a><br>
+		 <a href="location.shtml#Venues">Venues</a><br>
+		 <a href="location.shtml#Weather">Weather</a><br>
+		 <a href="index.shtml#Organisers">Contacts information</a><br>
+		 <a href="/membership/"><strong>Join</strong> the Systematics Association!</a></p>
+		 <hr>
+		 <p><!-- some other text --></p>
+		 </div>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+Jump to: <a href="#floras">Floras &amp; Faunas Serving Biodiversity Research</a> | <a href="#UKresearch">UK Research Councils Systematics Symposium</a> | <a href="#speciation"><Q>Speciation</Q></a>
+
+<hr>
+
+	 <a name="floras"></a><p class="title">Floras &amp; Faunas Serving Biodiversity Research - Tuesday 28 to Wednesday 29 August</p>
+<p><strong>Organisers:</strong> Mark Watson and Christopher Lyal</p>
+<p><strong>Sponsors:</strong></p>
+<p>The Systematics Association, <a href="http://www.linnean.org/" rel="external">The Linnean Society</a>.</p>
+
+<p>Floras and Faunas are critical for understanding the organisms of a region and 
+the formulation of conservation strategies. Electronic data management is radically 
+transforming Flora and Fauna projects and online dissemination enables unparalleled 
+access to data in a variety of formats tailored to specific user requirements. This 
+symposium will bring together scientists working on Flora and Fauna projects and 
+their user groups with the aim of creating a more outward looking, integrated approach 
+to Floras and Faunas which better serves the needs of the end users.</p>
+
+<p><strong>Programme:</strong> <span style="background-color: #cc6633"><a href="SA_2007_timetable_for_printing_v1.pdf" rel="external">Download a copy</a> of the talk timetable.</span></p>
+
+<p>Day 1: Tues 28 August</p>
+
+<table summary="Opportunity knocks: are the products of descriptive taxonomy fit for purpose?" width="100%">
+<tr><th colspan="2">Opportunity knocks: are the products of descriptive taxonomy fit for purpose?</th></tr> 
+<tr><td class="quarter">13.00</td>  <td class="threequarter">Session 1: <strong>The widening audience</strong> - Chair Mark Watson (RBGE)<br>
+Taxonomists' view of Floras and Faunas yesterday, today and tomorrow - Tony Miller (RBGE)<br>
+The Ecologists' Perspective -  Jan Dick (CEH, Edinburgh)<br>
+The Conservation Biologists' Perspective - Ben Collen (ZSL, London)<br>
+The Publishers' Perspective  - Jane Connor (Timber Press, USA)</td></tr>
+<tr><td class="quarter">15.00</td>  <td class="threequarter">Tea/Coffee</td></tr>
+<tr><td class="quarter">15.30</td>  <td class="threequarter">Session 2: <strong>The products</strong> - Chair Christopher Lyal (BM)<br>
+Flora Europaea, Euro+Med - Stephen Jury (Reading)<br>
+Army disease vectors - Tony Gutierrez (USA)<br>
+Kew's African Floras - Alan Paton (Kew)<br>
+Cuban Fungi - Dave Minter (CABI)<br>
+Dragonflies - Steve Brooks (BM)<br>
+Millenium Seedbank collector guides - Della Lindsay (Kew)</td></tr>
+<tr><td class="quarter">18.00</td>  <td class="threequarter"><strong>Drinks reception with project and software demonstrations</strong><br>
+Those wishing to demonstrate their project/software should contact Mark Watson directly 
+ <script type="text/javascript"><!--
+  var disp = "m.watson";
+  var usr = "m.watson";
+  var dom = "rbge.org";
+  var tld = "uk";
+  var ady = disp + "@" + dom + "." + tld;
+	var dispady = usr + "@" + dom + "." + tld;
+  document.write("(<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>)")
+//--></script>
+.</td></tr>
+</table>
+
+<p>Day 2: Wed 29 August</p>
+ 
+<table summary="New ways of handling data: the technical aspects" width="100%">
+<tr><th colspan="2">New ways of handling data: the technical aspects</th></tr> 
+<tr><td class="quarter">9.00</td>  <td class="threequarter">Session 3: <strong>Influence of technology on data gathering</strong> - Chair Andy Polaszek (BM)<br>
+The Changing Role of Collections and Field Research - Sandy Knapp (BM)<br>
+Fieldwork techniques for tropical botany - Bill Baker (Kew)<br>
+Fieldwork techniques for temperate botany - Mark Watson (RBGE)<br>
+Fieldwork techniques for insects - Christoph H&auml;user (SMN Stuttgart, Germany)<br>
+Fieldwork techniques for marine zoology - to be confirmed</td></tr>
+<tr><td class="quarter">10.30</td>  <td class="threequarter">Tea/Coffee</td></tr>
+<tr><td class="quarter">11.00</td>  <td class="threequarter">Session 4: <strong>Interoperability &amp; reuse of data: using new technologies</strong> - Chair Martin Pullan (RBGE)<br>
+Adding value to Flora and Fauna outputs - Anna Weitzman (SI, USA &amp; Chris Lyal, BM)<br>
+Facilitating data exchange within institutes and globally - Donald Hobern (GBIF)<br>
+Scope for use of data by broad web projects - Rod Page (University of Glasgow)</td></tr>
+<tr><td class="quarter">12.30</td>  <td class="threequarter">End of thematic session</td></tr>
+</table>
+
+<div style="display: block; margin-left: auto; margin-right: auto; background-color: #ffffff; float: left;">
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association" title="Systematics Association" />
+<img src="/images/LinnSocLogo-100.jpg" width="77" height="100" alt="The Linnean Society of London" title="The Linnean Society of London" />
+</div>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+
+	 <a name="UKresearch"></a><p class="title">UK Research Councils Systematics Symposium - Wednesday 29 August from 2pm</p>
+<p><strong>Organisers: Amanda Read (BBSRC), Sarah Collinge (NERC), and Pete Hollingsworth (RBGE)</strong> </p>
+<p><strong>Sponsors:</strong></p>
+<p><a href="http://www.bbsrc.ac.uk/" rel="external">The Biotechnology and Biological Sciences Research Council</a>, <a href="http://www.nerc.ac.uk/" rel="external">Natural Environment Research Council</a>.</p>
+
+<p><strong>Programme:</strong> <span style="background-color: #cc6633"><a href="SA_2007_timetable_for_printing_v1.pdf" rel="external">Download a copy</a> of the talk timetable.</span></p>
+
+<table summary="Session 1 - Chair Amanda Read (BBSRC)" width="100%">
+<tr><th colspan="2">Session 1 - Chair Amanda Read (BBSRC)</th></tr> 
+<tr><td class="quarter">14.00-14.10</td>  <td class="threequarter">Introduction - Amanda Read</td></tr>
+<tr><td class="quarter">14.10-14.35</td>  <td class="threequarter">Dr Mark Wilkinson (Natural History Museum)<br>Assembling the tree of life: supertree methods for comparative biology</td></tr>
+<tr><td class="quarter">14.35-15.00</td>  <td class="threequarter">Dr Malcolm Scoble (Natural History Museum)<br>Creating a taxonomic E-science</td></tr>
+<tr><td class="quarter">15.00-15.25</td>  <td class="threequarter">Professor Roger Thorpe (University of Wales, Bangor)<br>A molecular investigation of the impact of divergence in allopatry, and other factors, on biodiversity</td></tr>
+<tr><td class="quarter">15.25-15.55</td>  <td class="threequarter">Tea/Coffee</td></tr>
+</table>
+
+<table summary="Session 2 - Chair Sarah Collinge (NERC)" width="100%">
+<tr><th colspan="2">Session 2 - Chair Sarah Collinge (NERC)</th></tr>
+<tr><td class="quarter">15.55-16.20</td>  <td class="threequarter">Dr Lee Hastie (University of Aberdeen)<br>A Taxonomic marine plankton identification manual for North European seas</td></tr>
+<tr><td class="quarter">16.20-16.45</td>  <td class="threequarter">Professor Sandie Baldauf (University of York)<br>Molecular and morphological evolution in choanoflagellates, and the nature of their relationship to animals</td></tr>
+<tr><td class="quarter">16.45-17.10</td>  <td class="threequarter">Dr Tim Littlewood (Natural History Museum)<br>Origins and radiation of parasite life history strategies - resolving patterns and processes in tapeworm evolution</td></tr>
+<tr><td class="quarter">17.10-17.30</td>  <td class="threequarter">Closing Remarks - Sarah Collinge<br>Funding questions</td></tr>
+<tr><td class="quarter">17.30</td>  <td class="threequarter">End</td></tr>
+</table>
+
+<div style="display: block; margin-left: auto; margin-right: auto; background-color: #ffffff; float: left;">
+<img src="/images/bbsrcsmallcolour.png" width="126" height="80" alt="Biotechnology and Biological Sciences Research Council" title="Biotechnology and Biological Sciences Research Council" />
+<img src="/images/nerclogo200.gif" width="200" height="63" alt="Natural Environment Research Council" title="Natural Environment Research Council" />
+</div> 	 
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="speciation"></a><p class="title"><Q>Speciation</Q> - Thursday 30 August</p>
+<p><strong>Organisers:</strong> Richard Abbott and Pete Hollingsworth</p>
+
+<p><strong>Programme:</strong> <span style="background-color: #cc6633"><a href="SA_2007_timetable_for_printing_v1.pdf" rel="external">Download a copy</a> of the talk timetable.</span></p>
+
+<table summary="Species delimitation" width="100%">
+<tr><th colspan="2">Species delimitation</th></tr> 
+<tr><td class="quarter">9.00-9.10</td>  <td class="threequarter">Introduction</td></tr>
+<tr><td class="quarter">9.10-9.40</td>  <td class="threequarter">Jim Mallet (UC London)<br> Hybridization and the maintenance of species distinctness</td></tr>
+<tr><td class="quarter">9.40-10.10</td> <td class="threequarter">Alfried Vogler (Imperial London)<br> Success and failure of species delimitation in DNA taxonomy</td></tr>
+</table>
+
+<table summary="Divergence and speciation" width="100%">
+<tr><th colspan="2">Divergence and speciation</th></tr>
+<tr><td class="quarter">10.10-10.40</td>  <td class="threequarter">Nick Barton (Edinburgh)<br> How plausible is sympatric speciation?</td></tr>
+<tr><td class="quarter">10.40-11.10</td>  <td class="threequarter">Tea/Coffee</td></tr>
+<tr><td class="quarter">11.10-11.40</td>  <td class="threequarter">Christian Lexer (Kew)<br>	The genetics of species differentiation: insights from genomic studies of laboratory crosses and natural populations</td></tr>
+<tr><td class="quarter">11.40-12.10</td>  <td class="threequarter">H.P. Comes (Salzburg), G. Hochschartner (St Andrews), and	G. Fischer (Salzburg)<br> Disentangling historic effects of dispersal, fragmentation, and reconnection in speciation.</td></tr>
+<tr><td class="quarter">12.10-12.40</td>  <td class="threequarter">Mike Ritchie (St Andrews)<br> Phylogeography and speciation</td></tr>  
+<tr><td class="quarter">12.40-12.45</td>  <td class="threequarter">Presentation of 2007 <a href="http://www.blackwellpublishing.com/mec" rel="external">Molecular Ecology</a> Prize to Pierre Taberlet</td></tr>
+<tr><td class="quarter">12.45-13.45</td>  <td class="threequarter">Lunch</td></tr>
+</table>
+
+<table summary="Reproductive isolation" width="100%">
+<tr><th colspan="2">Reproductive isolation</th></tr>
+<tr><td class="quarter">13.45-14.15</td>  <td class="threequarter">Roger Butlin (Sheffield)<br> Local adaptation and reproductive isolation in <em>Littorina</em></td></tr>
+<tr><td class="quarter">14.15-14.45</td>  <td class="threequarter">John Willis (Duke)<br> Genetic analysis of ecological isolation and hybrid incompatibilities in <em>Mimulus</em></td></tr>
+<tr><td class="quarter">14.45-15.15</td>  <td class="threequarter">Salvatore Cozzolino (Naples)<br> Deceptive orchids: the promise of sex or food and its consequence on reproductive isolation</td></tr>  
+<tr><td class="quarter">15.15-15.45</td>  <td class="threequarter">Tea/Coffee</td></tr>
+</table>
+
+<table summary="Hybrid Speciation" width="100%">
+<tr><th colspan="2">Hybrid Speciation</th></tr>
+<tr><td class="quarter">15.45-16.15</td>  <td class="threequarter">Simon Hiscock (Bristol) and Richard Abbott (St Andrews)<br>	Rapid changes in gene expression associated with hybrid speciation</td></tr>
+<tr><td class="quarter">16.15-16.45</td>  <td class="threequarter">Chris Jiggins (Edinburgh)<br> Hybrid speciation in <em>Heliconius</em> butterflies</td></tr>
+</table>
+		
+<table summary="Species Radiations" width="100%">
+<tr><th colspan="2">Species Radiations</th></tr>
+<tr><td class="quarter">16.45-17.15</td>  <td class="threequarter">Peter Linder (Zurich)<br> Species radiations: where, when, why?</td></tr>
+<tr><td class="quarter">17.15-17.25</td>  <td class="threequarter">Close</td></tr>
+</table>
+
+
+<div style="display: block; margin-left: auto; margin-right: auto; background-color: #ffffff; float: left; clear: right;">
+<img src="/images/GeneticsSoc_logo.gif" width="268" height="50" alt="The Genetics Society" title="The Genetics Society" /><br>
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association" title="Systematics Association" />
+<img src="/images/LinnSocLogo-100.jpg" width="77" height="100" alt="The Linnean Society of London" title="The Linnean Society of London" />
+<img src="/images/BSBI.jpg" width="128" height="111" alt="Botanical Society of the British Isles" title="Botanical Society of the British Isles" />
+<img src="/images/MolecularEcology.gif" width="95" height="125" alt="Molecular Ecology" title="Molecular Ecology" />
+</div>
+
+<div style="display: block; clear: left;"><p><strong>Sponsors:</strong></p>The Systematics Association, <a href="http://www.linnean.org/" rel="external">The Linnean Society</a>, <a href="http://www.genetics.org.uk/" rel="external">The Genetics Society</a> and <a href="http://www.blackwellpublishing.com/mec" rel="external">Molecular Ecology</a>.  Thanks are due to the Botanical Society of the British Isles for arranging support from a charitable trust.</div>
+
+<!--#include virtual="/incl/topofpage.inc" -->	 
+
+<p><strong class="big">Contacts</strong><br>
+For further information on the conference email: 
+ <script type="text/javascript"><!--
+  var disp = "edinburgh.biennial";
+  var usr = "edinburgh.biennial";
+  var dom = "systass";
+  var tld = "org";
+  var ady = disp + "@" + dom + "." + tld;
+	var dispady = usr + "@" + dom + "." + tld;
+  document.write("(<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>)")
+//--></script>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<p></p>		 
+		 
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Bar ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 25 July 2007
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - Biennial 2007 Registration Page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top" id="_top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/biennial2007-100px.png" width="90"
+        height="90" alt=
+        "Professor David G. Mann Arachne's Disc, Puget Sound, Washington, USA. Used for the SA Biennial 2007"
+        title=
+        "Professor David G. Mann Arachne's Disc, Puget Sound, Washington, USA. Used for the SA Biennial 2007">
+        <p>
+          6th Biennial Meeting: August 2007<br>
+          Royal Botanic Garden, Edinburgh
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Quick links
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right">
+            <a href=
+            "index.shtml#Introduction">Introduction</a><br>
+            <a href="index.shtml#Themes">Themes</a><br>
+            <a href="symposia.shtml">Symposia</a><br>
+            <a href="/membership/"><strong>Join</strong> the
+            Systematics Association!</a>
+          </p>
+          <hr>
+          <p>
+            <!-- some other text -->
+          </p>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <p class="title">
+          28th - 31st August 2007
+        </p><a name="Registration" id="Registration"></a>
+        <p class="title">
+          Registration
+        </p>
+        <p>
+          The conference has now finished and this information is
+          no longer relevant. Please <a href=
+          "/biennial2007/">return</a> to the home page.
+        </p><!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom Bar ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+          Last updated: 13 September 2007 
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

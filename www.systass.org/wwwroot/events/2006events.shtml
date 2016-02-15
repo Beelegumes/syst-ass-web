@@ -1,0 +1,124 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Events in 2006</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Lectures,<br>
+Conferences and Workshops</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Past Events</P>
+<!--#include virtual="/events/PastEventsKey.inc" -->
+		 <hr>
+<P class="title">Forthcoming Events
+</P><!--#include virtual="/events/FutureEventsKey.inc" -->
+		 <hr>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">Events in 2006</p>
+
+<table summary="Past Events" width="90%">
+<tr><td class="quarter">Date</td><td class="quarter">Event</td><td class="quarter">Contact</td></tr>
+<!-- Insert events below here -->
+
+  <tr><td class="quarter">11-12 April 2006</td>
+    <td><strong>Symposium on the State of Molecular Systematics in Algae</strong>
+		<br>The Natural History Museum, London
+		<br><!-- <a href="[flier]" target="_blank">[Further details]</a> (Acrobat PDF) -->
+    </td>
+		<td class="quarter">Juliet Brodie and Jane Lewis</td>
+  </tr>
+
+	
+	<tr><td class="quarter">10-13 April 2006</td>
+    <td><strong>Palaeogeography and Palaeobiogeography: Biodiversity in Space and Time </strong>
+		<br>University of Cambridge</td>
+    <td class="quarter">Claire Slater</td>
+	</tr>
+
+	
+	<tr><td class="quarter">5 July 2006</td>
+    <td><strong>The Sir Julian Huxley Lecture</strong> - Species Evolution
+		<br>Loren Rieseberg, University of Indiana
+    <br>Society of Antiquaries, London</td>
+    <td class="quarter"></td>
+	</tr>	
+
+	
+	<tr><td class="quarter">4 August 2006</td>
+    <td><strong>Advances in Economic Botany</strong>
+		<br>Meeting to mark retirement of Barbara Pickersgill
+		<br>Linnean Society, London</td>
+    <td class="quarter">Julie Hawkins</td>
+	</tr>
+
+	
+	<tr><td class="quarter">18-22 September 2006</td>
+    <td><strong>Third International Rubiaceae Conference: Rubiaceae Systematics in the 21st Century</strong>
+		<br>University of Leuven, Belgium</td>
+    <td class="quarter">Erik Smets</td>
+	</tr>
+
+	
+	<tr><td class="quarter">6 December 2006</td>
+    <td><strong>Annual General Meeting and Annual Lecture</strong> - Simple but Smart: 
+		How our Closest Protozoan Relatives (The Choanoflagellates) Conquered the World
+		<br>Barry Leadbeater
+		<br>Linnean Society, London</td>
+    <td class="quarter"></td>
+	</tr>
+
+	
+	<tr><td class="quarter">7 December 2006</td>
+    <td><strong>Young Systematists' Forum</strong>
+		<br>The Natural History Museum, London</td>
+    <td class="quarter">Juliet Brodie and Jonathan Bennett</td>
+	</tr>
+	
+	
+<!-- Insert events above here -->
+</table>
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 2 January 2008
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

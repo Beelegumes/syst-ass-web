@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Events in 2004</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Lectures,<br>
+Conferences and Workshops</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Past Events</P>
+<!--#include virtual="/events/PastEventsKey.inc" -->
+		 <hr>
+<P class="title">Forthcoming Events
+</P><!--#include virtual="/events/FutureEventsKey.inc" -->
+		 <hr>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">Events in 2004</p>
+
+<table summary="Forthcoming Events" width="90%">
+<tr><td class="quarter">Date</td><td class="quarter">Event</td><td class="quarter">Contact</td></tr>
+<!-- Insert events below here -->
+
+  <tr><td class="quarter">3-5 July 2004</td>
+    <td><strong>Evolution of the Cape flora</strong>
+		<br>Institute of Systematic Botany, Z&uuml;rich</td>
+		<td class="quarter">Peter Linder</td>
+  </tr>
+
+	
+	<tr><td class="quarter">7 July 2004</td>
+    <td><strong>The Sir Julian Huxley Lecture</strong> - Dating origins: Reconciling palaeontological and molecular dates
+		<br>Professor Mike Benton 
+    <br>Linnean Society, London</td>
+    <td class="quarter"></td>
+	</tr>	
+
+	
+	<tr><td class="quarter">1-3 September 2004</td>
+    <td><strong>Evolution of the pleurocarpous mosses</strong>
+		<br>National Museum and Gallery of Wales, Cardiff</td>
+    <td class="quarter">Angela Newton, Ray Tangney</td>
+	</tr>
+
+	
+	<tr><td class="quarter">13 September 2004</td>
+    <td><strong>Early events in Protozoan Evolution</strong>
+		<br>Linnean Society, London</td>
+    <td class="quarter">Alan Warren, Terry Preston</td>
+	</tr>
+	
+	
+	<tr><td class="quarter">8 December 2005</td>
+    <td><strong>Annual General Meeting and Annual Lecture</strong> - Mechanics of Biological Diversification 
+		<br>Joel Cracraft
+		<br>Linnean Society, London</td>
+    <td class="quarter"></td>
+	</tr>
+
+
+	<tr><td class="quarter">9 December 2005</td>
+    <td><strong>Young Systematists' Forum</strong>
+		<br>The Natural History Museum, London</td>
+    <td class="quarter">Mark Carine</td>
+	</tr>
+	
+	
+<!-- Insert events above here -->
+</table>
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 2 January 2008
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

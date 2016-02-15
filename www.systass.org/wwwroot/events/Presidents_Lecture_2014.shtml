@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - 2014 President's Lecture</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>2014 President's Lecture<br>
+preceeded by AGM</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<p class="title">AGM</p>
+		 <div class="textsmall">
+		 <p style="text-align: right;">
+		 <strong>Annual General Meeting<br>
+		 Thursday, 27 November 2014 at 4.30pm</strong><br>
+		 Linnean Society<br>
+		 Burlington House<br>
+		 London, UK</p>
+		 <p style="text-align: right;">
+<!--  		 Download poster<br>
+		 Download 2014 AGM agenda<br>
+		 Download Draft 2013 AGM minutes<br> -->
+		 <a href="/Council/SystAss%20Job%20Descriptions.pdf" rel="external">Officers roles</a><br>
+		 The Rules of the Association<br>
+		 <a href="/about/Rules_(as_of_October_2012).pdf" rel="external">can be dowloaded here</a>
+		 <p>
+		 </div>
+
+<hr>
+<P class="title">New events</P>
+		 <div class="textsmall"><p>
+		 Please contact us if have an event which you wish to promote.  
+		 If we feel it is appropriate to the Association then it will be listed here.  
+		 Send details to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">Is e-taxonomy a distraction or a solution?</p>
+<p class="title">5.30pm Thursday 27 November 2014 at the Linnean Society, London</p>
+
+<a href="http://www.plants.ox.ac.uk/plants/staff/RobertScotland.aspx" rel="external" style="background: transparent; text-decoration: none;"><img src="/images/RobertScotland.gif" width="138" height="210" alt="Robertc Scotland" /></a>
+<a href="http://vsmith.info/" rel="external" style="background: transparent; text-decoration: none;"><img src="/images/VinceSmith.jpg" style="float: right; margin-right: auto; margin-left: 5px;" width="210" height="210" alt="Vince Smith" /></a>
+<p style="float: right; margin-right: auto; margin-left: 5px;"><strong><a href="http://vsmith.info/" rel="external">Dr. Vincent S. Smith</a></strong>
+<br>Informatics Research Leader
+<br>The Natural History Museum
+<br>London, UK</p>
+<p><strong><a href="http://www.plants.ox.ac.uk/plants/staff/RobertScotland.aspx" rel="external">Robert Scotland</a> 
+<br>Reader in Systematic Botany</strong>
+<br>Department of Plant Sciences, 
+<br>University of Oxford, UK</p>
+
+<br><br>
+
+<p>Ten years ago, Robert Scotland &amp; Colleagues wrote an opinion piece contrasting 
+the efforts of taxonomists with the promise of web-based, DNA taxonomy ("<a href="/documents/BigMachine.pdf" rel="external">The Big Machine and the much-maligned
+taxonomist</a>"). 
+More than a decade later, what happened? This debate will take the form of a twenty 
+minute intro by Robert Scotland President of the SA and Vince Smith cyber-taxonomist 
+at the NHM who will debate the underlying issues facing taxonomy today and enquire 
+whether the promise of e-taxonomy has been fulfilled?</p>
+
+<p class="title">Podcast available:</p>
+
+<a href="http://backdoorbroadcasting.net/2014/11/robert-scotlandvincent-s-smith-is-e-taxonomy-a-distraction-or-a-solution/"  
+title="Robert Scotland &amp; Vincent S. Smith - Is e-taxonomy a distraction or a solution?" rel="external">
+<img src="/images/podcast_new.png" width="72" height="72" alt="Podcast" style="border: 0;" /> click to listen</a>
+<p>Podcast provided by Backdoor Broadcasting Company (<a href="http://backdoorbroadcasting.net/" rel="external">website</a>)</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 28 November 2014
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

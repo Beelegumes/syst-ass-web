@@ -1,0 +1,145 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - Newsletter Page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/SystAssLogo-100.png" width="81" height=
+        "100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          Newsletters of<br>
+          the Systematics Association
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Back issues
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            <a href="TheSystematist34.pdf" rel="external">The Systematist
+            34</a><br>
+            <a href="TheSystematist33.pdf" rel="external">The Systematist
+            33</a><br>
+						<a href="TheSystematist32.pdf" rel="external">The Systematist
+            32</a><br>
+            <a href="TheSystematist31.pdf" rel="external">The Systematist
+            31</a><br>
+            <a href="TheSystematist30.pdf" rel="external">The Systematist
+            30</a><br>
+            <a href="TheSystematist29.pdf" rel="external">The Systematist
+            29</a><br>
+            <a href="TheSystematist28.pdf" rel="external">The Systematist
+            28</a><br>
+            <a href="TheSystematist27.pdf" rel="external">The Systematist
+            27</a><br>
+            <a href="TheSystematist26.pdf" rel="external">The Systematist
+            26</a><br>
+            <a href="TheSystematist25.pdf" rel="external">The Systematist
+            25</a><br>
+            <a href="TheSystematist24.pdf" rel="external">The Systematist
+            24</a><br>
+            <a href="TheSystematist23.pdf" rel="external">The Systematist
+            23</a><br>
+            <a href="newsletter1203.pdf">The Systematist
+            22</a><br>
+            <a href="newsletter0603.pdf" rel="external">June 2003</a><br>
+            <a href="newsletter1102.pdf" rel="external">November 2002</a><br>
+            <a href="newsletter0702.pdf" rel="external">July 2002</a><br>
+            <a href="newsletter0102.pdf" rel="external">January 2002</a><br>
+            <a href="newsletter0501.pdf" rel="external">May 2001</a><br>
+            <a href="newsletter1100.pdf" rel="external">November 2000</a><br>
+            <a href="newsletter0300.pdf" rel="external">March 2000</a><br>
+            <a href="oct1999.pdf" rel="external">October 1999</a><br>
+            <a href="july1999.pdf" rel="external">July 1999</a><br>
+            <a href="feb1999.pdf" rel="external">February 1999</a><br>
+            <a href="sept1998.pdf" rel="external">September 1998</a><br>
+            <a href="apr1998.pdf" rel="external">April 1998</a>
+          </p>
+          <hr>
+          <p>
+            <a href=
+            "http://www.adobe.com/products/acrobat/readstep2.html"
+            rel="external">Download a FREE copy of the
+            Adobe&copy; Acrobat Reader.</a>
+          </p>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <p class="title">
+          Editor
+        </p>
+        <dl>
+          <dt>
+            Dr. Jane Droop (Newsletter editor)
+          </dt>
+          <dd>
+            contact: <script type="text/javascript">
+<!--
+        var usr = "newsletter";
+        var dom = "systass";
+        var tld = "uk";
+        var ady = usr + "@" + dom + "." + tld;
+        document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+        //-->
+</script>
+          </dd>
+        </dl>
+        <p class="title">
+          Current issue - <em style="background-color: #cc6633;">published Nov 2013&nbsp;</em>
+        </p>
+        <p>
+          <img style=
+          "float: left; margin-right: 5px; background-color: #ffffff;"
+          src="TheSystematist35.png" width="320" height="400"
+          alt="The Systematist issue 35" title="The Systematist issue 35">The current issue is
+          sent to all individuals whose membership of the
+          association is in good standing. 
+          <!-- If you are not a member and would like to see the contents of the latest edition (Summer 2005) click here Adobe&copy; Acrobat (640 KB file). -->
+           For details on how to become a member, which costs as
+          little as &pound;10 (sterling) please, visit the
+          <a href="/membership/">Membership page</a>.
+        </p>
+        <div style="clear:both;"></div>
+        <p class="title">
+          Contribute?
+        </p>
+        <p>
+<img style="float: left; margin-right: 5px; background-color: #ffffff;" src="/images/kitchener.png" width="227" height="300" alt="Kitchener" title="Kitchener"/>
+          Would you like to contribute an article to the
+          newsletter, or would you like to get involved with the
+          editorial process? If so then please contact Jane
+          <script type="text/javascript">
+<!--
+        var usr = "newsletter";
+        var dom = "systass";
+        var tld = "org";
+        var ady = usr + "@" + dom + "." + tld;
+        document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+        //-->
+</script>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+        </p><!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom Banner ?links? -->
+        <!--#include virtual="/incl/w3c.inc" -->
+        Last updated: 19 November 2013 
+        <!--#include virtual="/incl/webmaster-email.inc" -->
+         <!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

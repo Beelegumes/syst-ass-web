@@ -1,0 +1,189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - About Page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/SystAssLogo-100.png" alt=
+        "Systematics Association Logo" width="81" height="100"
+        title="Systematics Association Logo">
+        <p>
+          About<br>
+          the Systematics Association
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Nominations
+        </p>
+        <div class="textsmall">
+          <p>
+            We are seeking nominations for the Council of
+            the Systematics Association, <a href=
+            "/about/">find out more</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          Join
+        </p>
+        <div class="textsmall">
+          <p>
+            To join the Systematics Association, visit the
+            <a href="/membership/">Membership page</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          Officers
+        </p>
+        <div class="textsmall">
+          <p>
+            For further details of the officers and their
+            <a href="/Council/SystAss%20Job%20Descriptions.pdf">roles</a>,
+            visit the <a href=
+            "/council/2015council.shtml#officers">Officers
+            page</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          Council
+        </p>
+        <div class="textsmall">
+          <p>
+            For further details of the council members, visit the
+            <a href="/council/2015council.shtml">Council members
+            page</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          Constitution/Rules
+        </p>
+        <div class="textsmall">
+          <p>
+            The Rules of the Association<br>
+            <a href="/about/Rules_(as_of_October_2012).pdf">can
+            be found here</a>
+          </p>
+        </div>
+        <hr>
+        <p>
+          Other Systematics Associations
+        </p>
+        <div class="textsmall">
+          <p>
+            <a href="http://sfs.snv.jussieu.fr/" rel=
+            "external">Soci&eacute;t&eacute; Fran&ccedil;aise de
+            Syst&eacute;matique</a><br>
+            <a href="http://www.gfbs-home.de/" rel=
+            "external">Gesellschaft f&uuml;r Biologische
+            Systematik</a><br>
+            <a href="http://www.swiss-systematics.ch/" rel=
+            "external">Swiss Systematics Society</a><br>
+            <a href="http://www.cladistics.org/" rel=
+            "external">Willi Hennig Society</a><br>
+            <a href="http://systbiol.org/" rel="external">Society
+            of Systematic Biologists</a><br>
+            <a href="http://www.sasb.org.au/" rel=
+            "external">Society of Australian Systematic
+            Biologists</a>
+          </p>
+        </div>
+        <hr>
+        <!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <img src="../images/SystAssLogo.png" width="162" height=
+        "200" alt="Systematics Association" title=
+        "Systematics Association" style=
+        "float: left; margin-right: 10px;">
+        <p>
+          The Systematics Association is committed to furthering
+          all aspects of Systematic biology. It organises a
+          vigorous programme of international conferences on key
+          themes in Systematics, including a series of major
+          biennial conferences to be launched in 1997. The
+          association also supports a variety of training courses
+          in systematics and awards grants in support of
+          systematics research.
+        </p>
+        <p>
+          Membership is open to amateurs and professionals with
+          interests in any branch of biology, including
+          microbiology and palaeontology. Members are generally
+          entitled to attend the conferences at a reduced
+          registration rate, to apply for grants from the
+          Association and to receive Newsletters and mailings of
+          information.
+        </p>
+        <p>
+          The Systematics Association was founded in May 1937 as
+          the "Committee on Systematics in Relation to General
+          Biology" to provide a forum for the discussion of the
+          general theoretical and practical problems of taxonomy.
+          An outline of the original objectives of the
+          Association was published in <a href=
+          "http://dx.doi.org/10.1038/140163b0" rel=
+          "external"><em>Nature</em> 140:163-164 (1937)</a>
+          [1,2]. The first of the Association's publications, The
+          New Systematics, edited by the late Sir Julian Huxley,
+          focused on new data from cytogenics, ecology and other
+          fields.
+        </p>
+        <p>
+          Since then the Association has pioneered discussion on
+          many new developments in systematics and more than 50
+          Special Volumes have been published. These have
+          included systematic surveys of groups as diverse as
+          haptophyte algae, tetrapods, lichens, free-living
+          flagellates and haematophagous insects. Other volumes
+          have explored fields such as phylogenetic
+          reconstruction, systematics and conservation, genome
+          evolution and the emergence of the biosphere. The
+          Association also publishes books derived from training
+          courses and on general aspects of systematics.
+        </p>
+        <ol>
+          <li style="list-style: none">References
+          </li>
+          <li>Association for the study of systematics in
+          relation to general biology. 1937. <a href=
+          "/about/140163b0.pdf" rel="external">Nature
+          140:163-164</a>
+          </li>
+          <li>Systematics in relation to general biology. 1937.
+          <a href="/about/140211a0.pdf" rel="external">Nature
+          140:211-212</a>
+          </li>
+        </ol>
+        <p>
+          To join the Systematics Association, visit the <a href=
+          "/membership/">Membership page</a>.
+        </p><br>
+        <br>
+        <br>
+        <p style="text-align: center">
+          <strong>Registered Charity Number 270429</strong>
+        </p><!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom banner ?links? -->
+        <!--#include virtual="/incl/w3c.inc" -->
+        Last updated: 2 January 2015 
+        <!--#include virtual="/incl/webmaster-email.inc" -->
+         <!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

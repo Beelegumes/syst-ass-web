@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - SRF 2008/09 round results page</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<a name="_top"></a>
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Systematics Research Fund (SRF)<br>Results of 2008/09 round</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">SRF</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">Systematics Research Fund<br>
+		 1 Oct - 31 Dec<br>
+		 <a href="srf.shtml">Further details</a><br>
+		 Results</p>
+<p>         <!--#include virtual="/awards/SRF_previous_rounds_link.inc" --></p>
+		 </div>
+		 <hr>
+<P class="title">CoSyst</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">Collaborative Scheme for Systematics Research<br>
+		 <a href="cosyst.shtml">Further details</a><br>
+		 <a href="cosyst.shtml#results">Results</a></p>
+		 </div>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<a name="results"></a>
+<div style="display: block; margin-left: 5px; margin-right: 5px; background-color: #ffffff; float: right;">
+<img src="../images/SystAssLogo.png" width="162" height="200" alt="Systematics Association" title="Systematics Association" />
+<img src="../images/LinnSocLogo.jpg" width="140" height="181" alt="Linnean Society of London" title="Linnean Society of London" />
+</div>
+
+<p>The SRF received a total of 184 applications for the 2008/09 round. Twenty five of 
+the applications were funded. Successful applicants have been contacted by email - 
+if you applied this year you may like to check the list of funded applications to 
+see if your name appears.</p>
+
+<hr>
+
+<table summary="List of successful applicants for the 2008/09 SRF round">
+<caption class="title">List of successful applicants for the 2008/09 SRF round</caption>
+<tr><td>Andrew Foote (United Kingdom)</td> <td>Worldwide phylogeny of killer whales (<em>Orcinus orca</em>) based upon whole mitochondrial DNA genome sequences.</td></tr>
+<tr><td>Molly Pankey (United States)</td> <td>Molecular evolution of bioluminescent squid</td></tr>
+<tr><td>Joanna Browne (Australia)</td> <td>Life-cycles and spatial variation of digenean parasites of the upside-down jellyfish <em>Cassiopea</em></td></tr>
+<tr><td>Nestor Ardila (Colombia)</td> <td>Systematics of the precious corals (Octocorallia: Coralliidae) based on morphology and DNA</td></tr>
+<tr><td>Steven Worthington (United States)</td> <td>Orangutan Taxonomy: Ecto- versus Endocranial Signals and Covariation.</td></tr>
+<tr><td>Daniel Thomas (United Kingdom)</td> <td>Phylogeny and historical biogeography of Sulawesi <em>Begonia</em>: Dispersal across Wallace's Line?</td></tr>
+<tr><td>Rodrigo Gon&ccedil;alves (Brazil)</td> <td>Systematics and biogeography of Corynurine bees (Hymenoptera, Apidae s.l., Halictinae)</td></tr>
+<tr><td>Vinita Gowda (United States)</td> <td>Breeding and Pollination Patterns of Island-Gingers (Zingiberaceae), the Andaman and Nicobar Islands</td></tr>
+<tr><td>Olaoluwa Akinwale (Nigeria)</td> <td>DNA barcoding of bulinus snail intermediate hosts of <em>Schistosoma haematobium</em> in Nigeria</td></tr>
+<tr><td>Samuel Brockington (United States)</td> <td>Floral development, Pigmentation and Pollination Biology in early diverging lineages of Caryophyllales</td></tr>
+<tr><td>Jessica Litman (United States)</td> <td>Phylogeny, historical biogeography, and host-plant associations of the tribe Fideliini (Hymenoptera: Apoidea)</td></tr>
+<tr><td>Hannah Caine (United Kingdom)</td> <td>A monograph on the Upper Liassic Ichthyosauria from Strawberry Bank, Ilminster, England</td></tr>
+<tr><td>Daniel Henk (United Kingdom)</td> <td><em>Basidobolus</em> species ?host specialists, generalist gut symbionts, or ubiquitous fungal saprophytes?</td></tr>
+<tr><td>Richard Brown (United Kingdom)</td> <td>Speciation times in the lizard genus <em>Phrynocephalus</em> from the Tibetan Plateau</td></tr>
+<tr><td>Mark Statham (United States)</td> <td>Phylogeography of South Asian Red Fox (<em>Vulpes vulpes</em>)</td></tr>
+<tr><td>Kevin Conway (United States)</td> <td>Torrent Minnow Biogeography</td></tr>
+<tr><td>Diana Jolles (United States)</td> <td>Phylogeographic diversification within the <em>Pyrola picta</em> species complex (Ericaceae)</td></tr>
+<tr><td>Erik Koenen (Netherlands)</td> <td>Taxonomy and conservation of the African species in the genus <em>Guarea</em> (Meliaceae)</td></tr>
+<tr><td>James Harrison (United Kingdom)</td> <td>Investigating the endosymbiotic origins of the orange algal plastid</td></tr>
+<tr><td>Eve Lucas (United Kingdom)</td> <td>An annotated checklist of <em>Calyptranthes</em> (Myrtaceae); field-work in the Dominican Republic.</td></tr>
+<tr><td>Axel Barlow (United Kingdom)</td> <td>Systematics of the African puff adder, <em>Bitis arietans</em> (Serpentes: Viperidae: Viperinae)</td></tr>
+<tr><td>Steven Edgington (United Kingdom)</td> <td>Detailed observations of entomopathogenic nematodes of Tierra del Fuego in Chile</td></tr>
+<tr><td>Jean-Francois Agnese (France)</td> <td>Developing geometric morphometrics and RGB analyses in Killifish systematics through images acquisition</td></tr>
+<tr><td>Bonnie Blaimer (United States)</td> <td>Untangling Malagasy ant diversity: Molecular taxonomy of the Decacrema-group (Crematogaster: Formicidae)</td></tr>
+<tr><td>S&eacute;bastien Lavou&eacute; (United Kingdom)</td> <td>Presence and cryptic diversity of the paedomorphic freshwater fish Sundasalanx in Thailand</td></tr>
+</table>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="contact"></a>
+<p class="title">Contact</p>
+
+<p>Questions about the application procedure can be sent to  
+
+ <script type="text/javascript">
+ <!--
+  var usr = "b.klitgaard";
+  var dom = "systass";
+  var tld = "org";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+//-->
+</script>
+
+</p>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Banner ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 27 April 2009
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

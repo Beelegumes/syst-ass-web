@@ -1,0 +1,257 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - Biennial 2011 Page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top" id="_top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+         <img src="/images/SystAssLogo-100.png" width="81"
+        height="100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          8th Biennial Meeting: July 2011<br>
+          Queen's University, Belfast
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Quick links
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right">
+            <a href="#Introduction">Introduction</a><br>
+            <a href="#Themes">Themes</a><br>
+            <em>new</em> <a href="#Timetable">Timetable</a><br>
+            <a href="#Venue">Venue</a><br>
+            <a href="#Bursaries">Student bursaries</a><br>
+            <a href="#Registration">Registration</a><br>
+            <a href="#Abstract">Abstracts</a><br>
+            <a href="#Accommodation">Accommodation</a><br>
+            <a href="#Travel">Travel</a><br>
+            <a href="#Organisers">Conference organising
+            committee&lt;/&gt;<br></a> <a href=
+            "#Queries">Queries&lt;/&gt;<br></a> <a href=
+            "#Links">Links</a><br>
+            <a href="/membership/"><strong>Join</strong> the
+            Systematics Association!</a>
+          </p>
+          <hr>
+          <p>
+            <!-- some other text -->
+          </p>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <p class="title">
+          4th - 8th July 2011 (hash tags #SAbiennial #SystAss)
+        </p><a name="Introduction" id="Introduction"></a>
+        <p class="title">
+          Introduction
+        </p>
+        <p>
+          <!-- <img style="float: right; margin-left: 5px;" src="250px-QUB.jpg" width="250" height="188" alt="Lanyon Building, Queen's University Belfast; by Fasach Nua" /> -->
+           <img style="float: right; margin-left: 5px;" src=
+          "SA_BiennialPoster_310x448.jpg" width="310" height=
+          "448" alt="SA Biennial 2011 poster" title=
+          "SA Biennial 2011 poster"> The Biennial conferences of
+          the Systematics Association provide a forum for
+          systematists from different disciplines to present and
+          discuss their research. The Sixth Biennial Conference
+          was held at Royal Botanic Garden Edinburgh in August
+          2007. The conference was attended by about 240
+          delegates from a broad international audience. The
+          format was a mixture of open sessions and focussed
+          thematic symposia.
+        </p>
+        <p>
+          <a href="SA_BiennialPoster_720x1040.jpg">View a larger
+          version of the poster</a>
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Themes" id="Themes"></a>
+        <p class="title">
+          Themes and Symposia
+        </p>
+        <p>
+          Symposia will include:
+        </p>
+        <ul>
+          <li>
+            <em>Next Generation Systematics - studying evolution
+            and diversity in an era of ubiquitous genomics</em>
+          </li>
+          <li>
+            <em>Arthropod Systematics: are morphology,
+            palaeontology and molecules coming together?</em>
+          </li>
+          <li>
+            <em>Algal Systematics: where next?</em>
+          </li>
+          <li>
+            <em>Advances in using museum specimens and ancient
+            DNA in systematics research</em>
+          </li>
+        </ul><!--#include virtual="/incl/topofpage.inc" -->
+        <!--#include virtual="/biennial2011/timetable_v3.inc" -->
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Venue" id="Venue"></a>
+        <p class="title">
+          Venue
+        </p><!--#include virtual="/biennial2011/venue2.inc" -->
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Registration" id="Registration"></a>
+        <p class="title">
+          Registration
+        </p>
+        <!--#include virtual="/biennial2011/registration.inc" -->
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Bursaries" id="Bursaries"></a>
+        <p class="title">
+          Student Bursaries
+        </p>
+        <p>
+          There deadline for student bursaries has now passed.
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Abstract" id="Abstract"></a>
+        <p class="title">
+          Abstracts
+        </p>
+        <!--#include virtual="/biennial2011/abstracts.inc" -->
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Accommodation" id="Accommodation"></a>
+        <p class="title">
+          Accommodation
+        </p>
+        <!--#include virtual="/biennial2011/accommodation.inc" -->
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Travel" id="Travel"></a>
+        <p class="title">
+          Travel
+        </p><!--#include virtual="/biennial2011/travel.inc" -->
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Organisers" id="Organisers"></a>
+        <p class="title">
+          Conference organising committee:
+        </p>
+        <!--#include virtual="/biennial2011/organisers.inc" -->
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Queries" id="Queries"></a>
+        <p class="title">
+          Queries:
+        </p>
+        <p>
+          Please direct any queries regarding the 2011 Biennial
+          to
+        </p>
+        <ul>
+          <li class="compact">Christine Maggs<br>
+            (School of Biological Sciences, Queen's University
+            Belfast)<br>
+            <script type="text/javascript">
+
+
+<!--
+
+
+
+
+
+
+
+
+
+
+
+  var usr = "systass";
+
+
+
+
+
+
+
+
+
+
+
+  var dom = "qub.ac";
+
+
+
+
+
+
+
+
+
+
+
+  var tld = "uk";
+
+
+
+
+
+
+
+
+
+
+
+  var ady = usr + "@" + dom + "." + tld;
+
+
+
+
+
+
+
+
+
+
+
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+
+
+
+
+
+
+
+
+
+
+
+//-->
+
+
+</script>
+          </li>
+        </ul><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Links" id="Links"></a>
+        <p class="title">
+          Links
+        </p>
+        <!--#include virtual="/biennial2011/biennial2011links.inc" -->
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom Bar ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+           Last updated: 29 June 2011 
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

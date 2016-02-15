@@ -1,0 +1,140 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - SRF 2006 round results page</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<a name="_top"></a>
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Systematics Research Fund (SRF)<br>Results of 2006 round</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">SRF</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">Systematics Research Fund<br>
+		 1 Oct - 31 Dec<br>
+		 <a href="srf.shtml">Further details</a></p>
+<p>         <!--#include virtual="/awards/SRF_previous_rounds_link.inc" --></p>
+		 </div>
+		 <hr>
+<P class="title">CoSyst</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">Collaborative Scheme for Systematics Research<br>
+		 Closing date 31 January 2007<br>
+		 <a href="cosyst.shtml">Further details</a><br>
+		 <a href="cosyst.shtml#form">Application form</a><br>
+		 <a href="cosyst.shtml#results">Results</a></p>
+		 </div>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<a name="results"></a>
+<div style="display: block; margin-left: 5px; margin-right: 5px; background-color: #ffffff; float: right;">
+<img src="../images/SystAssLogo.png" width="162" height="200" alt="Systematics Association" title="Systematics Association" />
+<img src="../images/LinnSocLogo.jpg" width="140" height="181" alt="Linnean Society of London" title="Linnean Society of London" />
+</div>
+
+<p>The SRF received a total of 97 applications for the 2006 round. The applications came 
+from twenty two countries, with most applicants from the UK (32) and USA (20). The judges 
+agreed that on the whole this year's applications were of a high standard. Thirty seven 
+applications were funded this year. Emails have gone out to the successful and to the 
+unsuccessful applicants - <strong>IF your name appears here and you haven't received a 
+confirmation email, please get in touch as soon as possible.</strong></p>
+
+<hr>
+
+<table summary="List of successful applicants for the 2006 SRF round">
+<caption class="title">List of successful applicants for the 2006 SRF round</caption>
+<tr><td>David Allen (United States)</td> <td>Reevaluating the early evolutionary history of Crocodylomorpha</td></tr>
+<tr><td>Christos Astaras (Germany)</td> <td>Molecular phylogeny of drill (<em>Mandrillus leucophaeus</em>) populations: taxonomic, biogeographic and conservation implications</td></tr>
+<tr><td>Arden Bashforth (Denmark)</td> <td>Pennsylvanian plant fossils from upland environments of the Czech Republic</td></tr>
+<tr><td>Karla Biebouw (United Kingdom)</td> <td>Clarification of <em>Microcebus</em> spp. presence in Andasibe, Central Eastern Madagascar</td></tr>
+<tr><td>Matthew Brandley (United States)</td> <td>The phylogeny of Plestiodon and new empirical perspective on molecular dating methods</td></tr>
+<tr><td>Seth Bybee (United States)</td> <td>Winging-it through the ages: What fossils reveal about odonate flight evolution</td></tr>
+<tr><td>Yu-Cheng Chang (Taiwan)</td> <td>How to fold wings? Phylogenetic significance of wing-base morphology of Epipleminae (Lepidoptera)</td></tr>
+<tr><td>Simon Coppard (United Kingdom)</td> <td>Identifying informative mitochondrial genes for a speciation study of Encope sand dollars</td></tr>
+<tr><td>Alison Davis (United States)</td> <td>Molecular phylogeography and the evolutionary dynamics of polymorphism</td></tr>
+<tr><td>Susanne Feist-Burkhardt (United Kingdom)</td> <td>Ultrastructure of Middle Triassic angiosperm-like pollen from the Barents Sea</td></tr>
+<tr><td>Geoffrey Gadd (United Kingdom)</td> <td>Rock-dwelling fungal communities: identification of cultivable members</td></tr>
+<tr><td>Luciana Genio (United Kingdom)</td> <td>Identification of <em>Bathymodiolus</em> sp. (Bivalvia: Mytilidae) in NE Atlantic cold seeps using molecular genetics</td></tr>
+<tr><td>Michelle Harvey (United Kingdom)</td> <td>A key to the Forensically Important Calliphoridae (Diptera) of southern Hampshire</td></tr>
+<tr><td>Victoria Herridge (United Kingdom)</td> <td>Dwarf elephant systematics: producing the framework for analysing broad scale ecotypic trends</td></tr>
+<tr><td>Dawn Higginson (United States)</td> <td>Gametic innovation and species radiation in diving beetles</td></tr>
+<tr><td>Anna Hundsd&ouml;rfer (Germany)</td> <td>Phylogeny of cucujoid and tenebrionoid beetles (Insecta: Coleoptera)</td></tr>
+<tr><td>Eugeny Karasev (Russia)</td> <td>Peltasperms from unique Permian/Triassic localities of Russia</td></tr>
+<tr><td>Boris Korotyaev (Russia)</td> <td>Annotated list of weevils of the Taman' Peninsula, Northwestern Caucasus (Coleoptera: Curculionoidea)</td></tr>
+<tr><td>Terezie Mand&aacute;kov&aacute; (Czech Republic)</td> <td>Karyotype evolution in the genus <em>Heliophila</em> (Brassicaceae)</td></tr>
+<tr><td>Natalia Maslova (Russia)</td> <td>Revision of the family assignment of the Cretaceous platanoid plants</td></tr>
+<tr><td>Anthony Mitchell (United Kingdom)</td> <td>Fossil Insect Database</td></tr>
+<tr><td>Jeanmaire Molina (United States)</td> <td>The Arcane Ancestor of the Grapes: Unraveling Leea's Evolutionary History</td></tr>
+<tr><td>Zolt&aacute;n Tam&aacute;s Nagy (Hungary)</td> <td>Comparative phylogeography of Malagasy snakes</td></tr>
+<tr><td>Abby Othman (United Kingdom)</td> <td>Triassic fossil wood from New Brunswick, Canada: insights into vegetation and climate during the early evolution of dinosaurs</td></tr>
+<tr><td>Frank Rheindt (Australia)</td> <td>Evolutionary dynamics of Elaenia flycatchers (Aves; Tyrannidae)</td></tr>
+<tr><td>Thomas Richards (United Kingdom)</td> <td>Phylogeny of novel fungi using a multi-gene environmental DNA approach</td></tr>
+<tr><td>Ainsley Seago (United States)</td> <td>Systematics of Leiodidae (Coleoptera): a new perspective on insect diversification</td></tr>
+<tr><td>Erik Sperling (United States)</td> <td>Multi-locus approaches to the phylogenetic position of the lophophorate phyla</td></tr>
+<tr><td>James Thorn (United Kingdom)</td> <td>Taxonomy and Biogeography of Slow Lorises (Genus Nycticebus) in Indonesia</td></tr>
+<tr><td>Kim Timmermann (Germany)</td> <td>Taxonomic revision of the South African endemic bee-genus <em>Patellapis</em> (Insecta, Hymenoptera, Apoidea)</td></tr>
+<tr><td>Mehdi Zarrei (United Kingdom)</td> <td>Species relationships and hybridization pattern in the <em>Gagea reticulata</em> (Liliaceae) species complex</td></tr>
+<tr><td>Michael Zuykov (Russia)</td> <td>Cosmopolitan brachiopod taxa: realistic faunal migrations or taxonomic errors?</td></tr> 
+</table>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<div style="display: block; margin-left: auto; margin-right: auto; background-color: rgb(255, 255, 255);">
+<img style="display: block; margin-left: auto; margin-right: auto;" src="/images/nerclogo200.gif" alt="Natural Environment Research Council" title="Natural Environment Research Council" height="63" width="200">
+</div>
+
+<table summary="List of successful applicants for the 2006 NERC fund for Taxonomic publication round">
+<caption class="title">List of successful applicants for the 2006 NERC fund for Taxonomic publication round</caption>
+<tr><td>Jonathan Bennett (United Kingdom)</td> <td>A Taxonomic Revision of <em>Solanum</em> section Regmandra</td></tr>
+<tr><td>Nigel Collar (United Kingdom)</td> <td>Completing the BirdLife Checklist of the World's Bird Species</td></tr>
+<tr><td>Alex Monro (United Kingdom)</td> <td>Illustrations of five new species of <em>Pilea</em> (Urticaceae)</td></tr>
+<tr><td>Norman Robson (United Kingdom)</td> <td>World monograph of the genus <em>Hypericum</em></td></tr>
+<tr><td>Paul Upchurch (United Kingdom)</td> <td>The early evolution of sauropodomorph dinosaurs: new information from China</td></tr>
+</table>
+
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="contact"></a>
+<p class="title">Contact</p>
+
+<P>Questions about the application procedure can be sent to the webmaster at the address below.</P>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Banner ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 15 July 2007
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

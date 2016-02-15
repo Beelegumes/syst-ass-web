@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - SRF 2007 round results page</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<a name="_top"></a>
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Systematics Research Fund (SRF)<br>Results of 2007 round</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">SRF</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">Systematics Research Fund<br>
+		 1 Oct - 31 Dec<br>
+		 <a href="srf.shtml">Further details</a><br>
+		 Results</p>
+<p>         <!--#include virtual="/awards/SRF_previous_rounds_link.inc" --></p>
+		 </div>
+		 <hr>
+<P class="title">CoSyst</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">Collaborative Scheme for Systematics Research<br>
+		 Closing date 31 January 2008<br>
+		 <a href="cosyst.shtml">Further details</a><br>
+		 <a href="cosyst.shtml#form">Application form</a><br>
+		 <a href="cosyst.shtml#results">Results</a></p>
+		 </div>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<a name="results"></a>
+<div style="display: block; margin-left: 5px; margin-right: 5px; background-color: #ffffff; float: right;">
+<img src="../images/SystAssLogo.png" width="162" height="200" alt="Systematics Association" title="Systematics Association" />
+<img src="../images/LinnSocLogo.jpg" width="140" height="181" alt="Linnean Society of London" title="Linnean Society of London" />
+</div>
+
+<p>The SRF received a total of 137 applications for the 2007 round. Thirty five of 
+the applications were funded. Successful applicants have been contacted by email - 
+if you applied this year you may like to check the list of funded applications to 
+see if your name appears.</p>
+
+<hr>
+
+<table summary="List of successful applicants for the 2007 SRF round">
+<caption class="title">List of successful applicants for the 2007 SRF round</caption>
+<tr><td>Paul Parker (United Kingdom)</td> <td>Digital Herbarium Sheets of the Genus <em>Fuchsia</em> (Onagraceae) Sect. Quelusia</td></tr>
+<tr><td>Salma Shalla (United Kingdom)</td> <td>Taxonomy of Taxonomy of Shallow Water British Cumaceans- rewriting Linnean Society Synopsis no 7</td></tr>
+<tr><td>Jan Strugnell (United Kingdom)</td> <td>Speciation in Antarctic octopus: the effect of climate change.</td></tr>
+<tr><td>Richard Butler (United Kingdom)</td> <td>Systematics of ornithischian dinosaurs from the Early Cretaceous of China</td></tr>
+<tr><td>Nathan Smith (United States)</td> <td>Preparation of the Most Complete Basal Dinosauromorph from North America</td></tr>
+<tr><td>Holly Bik (United Kingdom)</td> <td>Molecular and Morphological Diversity of Deep-sea Nematodes from the Southern Indian Ocean</td></tr> 
+<tr><td>Thomas Richards (United Kingdom)</td> <td>Cellular Morphology and Ecology of Novel Deep Branching Fungi</td></tr>
+<tr><td>Christina Bredenkamp (South Africa)</td> <td>Flora of the Eastern Cape</td></tr>
+<tr><td>Andre Morandini (Brazil)</td> <td>Revision of the jellyfish genus <em>Chrysaora</em> P&eacute;ron &amp; Lesueur, 1810 (Scyphozoa, Cnidaria)</td></tr>
+<tr><td>David Bass (United Kingdom)</td> <td>Comparative Genome Size in Sarcomonad Protozoa</td></tr>
+<tr><td>Joe Bartoszek (United States)</td> <td>Phylogeny of hybrid unisexual Amystomatid salamanders, a new genome</td></tr>
+<tr><td>Kate Armstrong (United Kingdom)</td> <td>Testing Wallace's Line as a biogeographical barrier for the pantropical tree Manilkara</td></tr>
+<tr><td>Katharina Wollenberg (Germany)</td> <td>Speciation in Malagasy amphibians</td></tr>
+<tr><td>Omar Torres-Carvajal (United States)</td> <td>The Neotropical Lizard Clade Hoplocercinae (Squamata: Iguanidae): A Taxonomic Revision</td></tr>
+<tr><td>Carol Pe&ntilde;a (Chile)</td> <td>Taxonomic revision of <em>Copiapoa</em> Briton &amp; Rose (Cactaceae) in Chile</td></tr>
+<tr><td>Carolina Cuezzo (Argentina)</td> <td>Neotropical termites (Insecta): Nasutitermitinae phylogenetic analysis</td></tr>
+<tr><td>Jennifer Tate (New Zealand)</td> <td>Evolution of gender dimorphism in the xeric-adapted plant genus <em>Lawrencia</em> (Malvaceae)</td></tr>
+<tr><td>Manju C.Nair (India)</td> <td>A Resource Centre for South Indian Bryology</td></tr>
+<tr><td>Mark Stevens (New Zealand)</td> <td>Taxonomic assessment of New Zealand's springtails</td></tr>
+<tr><td>Dennis Higgs (Canada)</td> <td>Evolution of Hearing in the Sciaenidae</td></tr>
+<tr><td>Alexandre Antonelli (Sweden)</td> <td>Is pollination triggering speciation in <em>Cypripedium calceolus</em> (Orchidaceae)?</td></tr>
+<tr><td>Aylin Alegre (Cuba)</td> <td>Compared morphology, Biogeography and Natural History of the family Biantidae in Cuba</td></tr> 
+<tr><td>Francesco Paoli (Italy)</td> <td>Adaptations to terrestrial life in fiddler crabs</td></tr>
+<tr><td>Wendy Untereiner (Canada)</td> <td>Molecular characterization of the mycoflora of the fur of polar bears</td></tr>
+<tr><td>Simon queenborough (United Kingdom)</td> <td>Functional Traits of Reproduction in Tropical Forest Trees</td></tr>
+<tr><td>Ellinor Michel (United Kingdom)</td> <td>The Tanganyika Problem: Origins of Endemic Gastropods in the East African Rift</td></tr>  
+<tr><td>Alexander Bannikov (Russia)</td> <td>Systematic Composition of the Bartonian Assemblage of Marine Fishes, the North Caucasus</td></tr>
+<tr><td>Peter Konstantinidis (United Kingdom)</td> <td>Evolution and Biogeography of the freshwater puffers of South East Asia</td></tr>
+<tr><td>James Beck (United States)</td> <td>Using Astrolepis integerrima (Pteridaceae) to understand the initial stages of polyploid evolution</td></tr>
+<tr><td>Santiago Herrera (Colombia)</td> <td>Genetic connectivity across the deep ocean: phylogeography of the octocoral <em>Paragorgia arborea</em></td></tr>
+<tr><td>Timothy Whitfeld (United States)</td> <td>A community phylogenetics approach to analyzing rainforest structure in Papua New Guinea</td></tr> 
+<tr><td>Robin van Velzen (Netherlands)</td> <td>DNA barcoding, taxonomy, biogeography, and evolution of host plant associations of <em>Cymothoe</em> (Nymphalidae)</td></tr>
+<tr><td>Magdalena Vaio (Uruguay)</td> <td>Systematics and evolutionary studies in <em>Oxalis</em> (Oxalidaceae) from Uruguay</td></tr>
+<tr><td>Vladimir Vladimirov (Bulgaria)</td> <td>Taxonomy and species relationships within <em>Hieracium olympicum</em> group (Asteraceae)</td></tr>
+<tr><td>Jennifer Zaspel (United States)</td> <td>Systematics and taxonomy of the vampire moths and their fruit-piercing relatives (Lepidoptera: Noctuidae)</td></tr>
+</table>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="contact"></a>
+<p class="title">Contact</p>
+
+<P>Questions about the application procedure can be sent to the webmaster at the address below.</P>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Banner ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 3 Nov 2008
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

@@ -1,0 +1,199 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Publications Catalogue</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Systematics Association Publications</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Quick links</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;"><a href="/publications/#buy">Buying books</a><br>
+		 <a href="/publications/specvol.shtml">Special volume series</a><br>
+ 		 <a href="/publications/#newbook">Looking for somewhere to publish systematics?</a><br>
+		 <a href="/publications/catalogue.shtml">Our publications</a></p>		 
+		 </div>
+<hr>
+<!--#include virtual="/publications/member-discount.inc" -->
+		 <hr>
+<p class="title">Looking for somewhere to publish systematics?</p>
+<p class="textsmall">In partnership with our new publisher, Cambridge University Press, The Systematics 
+Association offers great opportunities for authors and editors seeking to publish 
+their work. If you have an idea for a themed multiauthor volume (not necessarily 
+based on a symposium) or a textbook, and would like this to be produced at high quality 
+and promoted by both the Association and CUP, then please contact 
+the Editor-in-Chief, David Gower (
+<script type="text/javascript"><!--
+  var usr = "d.gower";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//--></script>).</p>
+		 <hr>
+<p class="title">Attention Authors</p>
+		 <div class="textsmall">A complete guide of <a href="https://authornet.cambridge.org/information/proposaluk/stm/" rel="external">'instructions
+		 to authors'</a> is available on the CUP <a href="https://authornet.cambridge.org/information/proposaluk/stm/" rel="external">website</a> which you
+		 should read in conjunction with the <a href="CUP_A_Guide_To_Preparing_Your_Proposal.doc" rel="external">CUP - A Guide To Preparing Your Proposal</a>.
+		 </div>
+<hr>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p>The first of the Systematics Association's publications <em>The New Systematics</em> (1940) 
+was a classic work edited by its then-president Sir Julian Huxley. Since then, more 
+than 70 volumes have been published, often in rapidly expanding areas of science 
+where a modern synthesis is required.  A full list of publications is <a href="SystematicsAssociationPublicationList.pdf" rel="external">available</a>.</p>
+
+<hr>
+
+<p class="title">Recent titles</p>
+
+<p>The following titles are published by <a href="http://www.cambridge.org/" rel="external">Cambridge University Press</a> and can be ordered from their <a href="http://www.cambridge.org/gb/knowledge/series/series_display/item5692692" rel="external">online website</a></p>
+
+        <p class="title">
+          <em>Biotic Evolution and Environmental Change in Southeast Asia</em>
+        </p>
+        <div style=
+        "display: block; margin-left: auto; margin-right: 5px; float: left;">
+        <img src="covers/v83.png" width="150" height="197" alt=
+        "Early Events in Monocot Evolution, volume 83"
+          title=
+          "Early Events in Monocot Evolution, volume 83">
+          </div>
+        <p>
+          Edited by: Paul Wilkin, Royal Botanic Gardens, Kew<br>
+					Edited by: Simon J. Mayo, Royal Botanic Gardens, Kew<br>
+        </p>
+        <p class="textsmall">
+          Hardback (ISBN-13: 9781107012769)<br>
+					378 pages 88 b/w illus. 40 colour illus. 9 tables<br>
+          Dimensions: 246 x 189 mm<br>
+          Weight: 1.02 kg<br>
+          Publication date: May 2013<br>
+          <a href=
+          "http://www.cambridge.org/gb/academic/subjects/life-sciences/plant-science/early-events-monocot-evolution"
+          rel="external">Order online now</a>
+        </p>
+        <p class="textsmall">
+				Tracing the evolution of one of the most ancient major branches of flowering 
+				plants, this is a wide-ranging survey of state-of-the-art research on the 
+				early clades of the monocot phylogenetic tree. It explores a series of broad 
+				but linked themes, providing for the first time a detailed and coherent 
+				view of the taxa of the early monocot lineages, how they diversified and 
+				their importance in monocots as a whole. Featuring contributions from leaders 
+				in the field, the chapters trace the evolution of the monocots from largely 
+				aquatic ancestors. Topics covered include the rapidly advancing field of 
+				monocot fossils, aquatic adaptations in pollen and anther structure and 
+				pollination strategies and floral developmental morphology. The book also 
+				presents a new plastid sequence analysis of early monocots and a review 
+				of monocot phylogeny as a whole, placing in an evolutionary context a plant 
+				group of major ecological, economic and horticultural importance.      
+        </p>
+<hr>
+
+<p>Other volumes published by <a href="http://www.cambridge.org/" rel="external">Cambridge University Press</a> and can be ordered from their <a href="http://www.cambridge.org/gb/academic/subjects/life-sciences/evolutionary-biology/series/systematics-association-special-volume-series" rel="external">online website</a></p>
+
+<div style="display: block; margin-left: auto; margin-right: 5px; background-color: #808080;">
+
+<a href="http://www.cambridge.org/gb/academic/subjects/life-sciences/ecology-and-conservation/biotic-evolution-and-environmental-change-southeast-asia" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external">
+<img src="covers/v82.png" width="140" height="184" alt="Biotic Evolution and Environmental Change in Southeast Asia, volume 82" title="Biotic Evolution and Environmental Change in Southeast Asia, volume 82"></a>
+<a href="http://www.cambridge.org/gb/academic/subjects/life-sciences/evolutionary-biology/evolution-plant-pollinator-relationships" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external">
+<img src="covers/v81.png" width="140" height="184" alt="Evolution of Plant-Pollinator Relationships, volume 81" title="Evolution of Plant-Pollinator Relationships, volume 81"></a>
+<a href="http://www.cambridge.org/gb/academic/subjects/life-sciences/plant-science/flowers-tree-life" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external">
+<img src="covers/v80.png" width="140" height="184" alt="Flowers on the Tree of Life, volume 80" title="Flowers on the Tree of Life, volume 80"></a>
+<a href="http://www.cambridge.org/gb/academic/subjects/life-sciences/ecology-and-conservation/biogeography-microscopic-organisms-everything-small-everywhere" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external">
+<img src="covers/v79.png" width="140" height="184" alt="Biogeography of Microscopic Organisms, volume 79" title="Biogeography of Microscopic Organisms, volume 79" /></a>
+<a href="http://www.cambridge.org/gb/academic/subjects/earth-and-environmental-science/climatology-and-climate-change/climate-change-ecology-and-systematics" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external">
+<img src="covers/v78.png" width="140" height="184" alt="Climate Change, Ecology and Systematics, volume 78" title="Climate Change, Ecology and Systematics, volume 78" /></a>
+</div>
+
+<hr>
+
+<p>The following titles are published by <a href="http://www.crcpress.com/" rel="external">CRC Press</a> and can be ordered via their <a href="http://www.crcpress.com/browse/series/crcsysassspe" rel="external">online website</a></p>
+
+<div style="display: block; margin-left: auto; margin-right: 5px; background-color: #808080;">
+<!-- <img src="covers/v74.jpg" height="150" width="100" alt="volume 73" title="volume 74" /> -->
+<a href="http://www.crcpress.com/product/isbn/9781420045512" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v77.jpg" height="150" width="100" alt="volume 77" title="volume 77" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780849390883" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v76.jpg" height="150" width="94" alt="volume 76" title="volume 76" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780849379895" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v75.jpg" height="150" width="100" alt="volume 75" title="volume 75" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780849382055" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v74.jpg" height="150" width="100" alt="volume 74" title="volume 74" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780415332903" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v73.jpg" height="150" width="100" alt="volume 73" title="volume 73" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780849395796" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v72.jpg" height="150" width="100" alt="volume 72" title="volume 72" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780849338564" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v71.jpg" height="150" width="99" alt="volume 71" title="volume 71" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780849380389" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v70.jpg" height="150" width="95" alt="volume 70" title="volume 70" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780849329876" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v69.jpg" height="150" width="100" alt="volume 69" title="volume 69" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780415299046" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v68.jpg" height="150" width="100" alt="volume 68" title="volume 68" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780415280327" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v67.jpg" height="150" width="98" alt="volume 67" title="volume 67" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780415275248" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v66.jpg" height="150" width="100" alt="volume 66" title="volume 66" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780415257916" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v65.jpg" width="101" height="144" alt="volume 65" title="volume 65" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780415240741" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v64.jpg" height="150" width="108" alt="volume 64" title="volume 64" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780748409211" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v63.jpg" height="144" width="102" alt="volume 63" title="volume 63" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780748409211" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v62.jpg" width="101" height="144" alt="volume 62" title="volume 62" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780415233705" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v61.jpg" height="150" width="108" alt="volume 61" title="volume 61" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780748409037" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v60.jpg" height="144" width="93" alt="volume 60" title="volume 60" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780748409143" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v59.jpg" height="144" width="102" alt="volume 59" title="volume 59" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780748409204" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v58.jpg" height="150" width="108" alt="volume 58" title="volume 58" /></a>
+<a href="http://www.crcpress.com/product/isbn/9780748409082" style="background: transparent; text-decoration: none;padding-right: 0px;" rel="external"><img src="covers/v57.jpg" height="144" width="102" alt="volume 57" title="volume 57" /></a>
+</div>
+
+<hr>
+
+<p>The following titles are published by <a href="http://www.springer.com/" rel="external">Springer</a> and can be ordered via their <a href="http://www.springer.com/series/6511?detailsPage=titles" rel="external">online website</a></p>
+
+<div style="display: block; margin-left: auto; margin-right: 5px; background-color: #808080;">
+<a href="http://www.springer.com/life+sciences/animal+sciences/book/978-0-412-79800-9" rel="external">Volume 56: Evolutionary Relationships among Protozoa (1998)</a><br>
+<a href="http://www.springer.com/life+sciences/evolutionary+%26+developmental+biology/book/978-0-412-75420-3" rel="external">Volume 55: Arthropod Relationships (1998)</a><br>
+<a href="http://www.springer.com/life+sciences/evolutionary+%26+developmental+biology/book/978-0-412-63120-7" rel="external">Volume 54: Species: the Units of Diversity (1997)</a><br>
+<a href="http://www.springer.com/life+sciences/forestry/book/978-0-412-62190-1" rel="external">Volume 53: The Ecology of Agricultural Pests: Biochemical Approaches (1996)</a>
+</div>
+
+<p>The following titles are published by <a href="http://www.oup.com/uk/" rel="external">Oxford University Press</a> and can be ordered via their <a href="http://ukcatalogue.oup.com/" rel="external">online website</a></p>
+
+<a href="http://ukcatalogue.oup.com/product/9780198548249.do" rel="external">Volume 52: Models in Phylogeny Reconstruction (1994)</a><br>
+<a href="http://ukcatalogue.oup.com/product/9780198577720.do" rel="external">Volume 51: The Haptophyte Algae (1994)</a><br>
+<a href="http://ukcatalogue.oup.com/product/9780198577713.do" rel="external">Volume 50: Systematics and Conservation Evaluation (1994)</a><br>
+<a href="http://ukcatalogue.oup.com/product/9780198577690.do" rel="external">Volume 49: Plant Galls: Organisms, Interactions, Populations (1994)</a><br>
+<a href="http://ukcatalogue.oup.com/product/9780198577607.do" rel="external">Volume 48: Designs for a Global Plant Species Information System (1993)</a><br>
+
+<hr>
+
+<p>A full list of publications is <a href="SystematicsAssociationPublicationList.pdf" rel="external">available</a>.</p>
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<!--#include virtual="/incl/w3c.inc" -->
+Last updated: 13 October 2014
+<!--#include virtual="/incl/webmaster-email.inc" -->
+
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+
+</body>
+</html>

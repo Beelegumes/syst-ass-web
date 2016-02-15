@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Rewilding debate</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>the<br>
+rewilding debate</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Directions</P>
+		 <div class="textsmall">
+		 <p><a href="http://www.linnean.org/Contact+Us/Find+Us" rel="external">
+		 Getting to the Linnean Society</a></p>
+		 </div>
+<!--#include virtual="/incl/directions-linnsoc.inc" -->
+		 <hr>
+
+<P class="title">Events</P>
+		 <div class="textsmall">
+		 <p><a href="index.shtml">Events for 2013</a></p>
+<!--#include virtual="/events/past-events.inc" -->
+		 </div>
+		 <hr>
+
+<P class="title">New events</P>
+		 <div class="textsmall"><p>
+		 Please contact us if have an event which you wish to promote.  
+		 If we feel it is appropriate to the Association then it will be listed here.  
+		 Send details to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title"><em>'The British conservation model: unambitious, irrational and 
+							afraid of nature?'</em> A debate between conservationists and rewilders</p>
+
+<a title="By Per Harald Olsen (User made.) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC-BY-SA-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons" 
+href="http://commons.wikimedia.org/wiki/File%3ABeaver_pho34.jpg">
+<img width="431" alt="Beaver pho34" src="//upload.wikimedia.org/wikipedia/commons/c/cc/Beaver_pho34.jpg" 
+style="border: none;" /></a>
+
+<p><strong>6.00pm Wednesday 13 November 2013<br> The Linnean Society, London, UK</strong></p>
+
+<p class="title">Abstract:</p> 
+<p>
+Humans have been impacting on the landscape of Britain for thousands of years; in 
+our highly-developed country nature and wilderness are struggling to survive. NGOs, 
+organisations and conservators are now struggling to repair the damage made by humans 
+in order to allow Nature to recover. We are in need of mass restoration to combat 
+the impacts of mass destruction. In an ideal world many are now promoting the idea 
+of rewilding, allowing nature to recover by steeping back and letting it go 'feral'. 
+It is about giving space for spontaneous nature to develop in a modern society. 
+The idea and scientific approach of rewilding was developed by Michael Soul&egrave; in 
+the mid-1990s, there are 3 fundamentals to the idea, the three C's: Cores, Corridors, 
+and Carnivores.</p> 
+
+<p>Why are trees cut down in lowlands? Why is land grazed in uplands? Why can't we 
+let it all be natural without us? Can the land truly 'recover' without our intervention? 
+Many wildlife management and conservation organisations will argue that our terrestrial 
+species rely on habitats that must be managed in order to exist. In which case, 
+have we reached the position where are we ready to let go and potentially lose much 
+more?</p> 
+
+<p>This debate will consider what we can learn from countries that already practice 
+rewilding over vast areas and what would this mean for nature in Britain? These 
+questions and many more will be explored during our joint debate with the Systematics 
+Association.</p> 
+
+<p class="title">Panelists:</p> 
+
+<p><strong>George Monbiot</strong>, Best-selling author (including the new book <em>'Feral'</em>) and columnist. 
+<br><strong>Clive Hambler</strong>, Stipendiary Lecturer in Biological and Human Sciences, Hetford College - University of Oxford 
+<br><strong>Aidan Lonergan</strong>, Futurescapes Manager, RSPB 
+<br><strong>Miles King</strong> FLS, Conservationist and Commentator</p>
+
+<p class="title">Registration:</p>
+<p>This event is free and open to all however, <a href="http://www.linnean.org/rewildingdebate" rel="external">registration is required</a></p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 09 July 2013
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - 2013 President's Lecture</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>2013 President's Lecture<br>
+preceeded by AGM</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<p class="title">Downloads</p>
+		 <div class="textsmall">
+		 <p style="text-align: right;">
+ 		 <a href="/events/AGM_Lecture_2013_Poster.pdf" rel="external">Download poster</a><br>
+		 <a href="/events/AGM_Agenda_2013.pdf" rel="external">Download 2013 AGM agenda</a> [<em><strong>updated</strong></em>]<br>
+		 <a href="/events/AGM_Minutes_2012_draft.pdf" rel="external">Download Draft 2012 AGM minutes</a><br>
+		 The Rules of the Association<br>
+		 <a href="/about/Rules_(as_of_October_2012).pdf" rel="external">can be dowloaded here</a>
+		 <p>
+		 </div>
+		 <hr>
+<P class="title">New events</P>
+		 <div class="textsmall"><p>
+		 Please contact us if have an event which you wish to promote.  
+		 If we feel it is appropriate to the Association then it will be listed here.  
+		 Send details to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">Plant Hunting in the 21<sup>st</sup> century.</p>
+<p>6.00pm Thursday 28 November 2013 at the Linnean Society, London</p>
+
+<img src="/images/JohnWood.jpg" width="314" height="195" alt="John Wood" title="John Wood" />
+
+<p><strong><a href="http://www.plants.ox.ac.uk/plants/staff/JohnWood.aspx" rel="external">John Wood</a>, Senior Research Associate</strong>
+<br>Department of Plant Sciences, 
+<br>University of Oxford, South Parks Road,
+<br>Oxford, OX1 3RB, UK</p>
+
+<p class="title">Podcast available:</p>
+
+<a href="http://backdoorbroadcasting.net/2013/12/john-wood-plant-hunting-in-the-21st-century/"  
+title="John Wood: Plant hunting in the 21st Century" rel="external">
+<img src="/images/podcast_new.png" width="72" height="72" alt="Podcast" style="border: 0;" /> click to listen</a>
+<p>Podcast provided by Backdoor Broadcasting Company (<a href="http://backdoorbroadcasting.net/" rel="external">website</a>)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Abstract</strong></p>
+
+<p>The speaker will illustrate trends in plant hunting using his experience in the 
+field and the herbarium as a means of highlighting changing methods and priorities. 
+During the 20<sup>th</sup> century the steady fall in the number of botanically unexplored 
+regions of the world combined with a series of developments in both politics and 
+conservation has made traditional botanical exploration increasingly a thing of 
+the past. However the extensive unworked collections in many leading herbaria remain 
+an important source of new species and inter-institutional and international collaboration 
+in both field and herbarium will ensure that we continue to advance towards achieving 
+a complete inventory of the world's flowering plants.</p>
+
+<p><a href="http://dx.doi.org/10.1038/484436a">dx.doi.org/10.1038/484436a</a></p>
+
+<p class="title">The meeting is open to visitors<br>
+Wine will be served after the lecture to members and guests</p>
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 28 October 2013
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

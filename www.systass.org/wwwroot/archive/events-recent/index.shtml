@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      SystAss beta site - Archive Events Page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/systlogo.gif" alt=
+        "Photo courtesy PDPhoto.org">
+        <p>
+          Past Lectures,<br>
+          Conferences and Workshops
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Archive
+        </p>
+        <div class="textsmall">
+          <p>
+            <a href="/archive/events-archive/2005/">Events in
+            2005</a>
+          </p>
+          <p>
+            <a href="/archive/events-archive/2004/">Events in
+            2004</a>
+          </p>
+          <p>
+            <a href="/archive/events-archive/2003/">Events in
+            2003</a>
+          </p>
+          <p>
+            <a href="/archive/events-archive/2002/">Events in
+            2002</a>
+          </p>
+          <p>
+            <a href="/archive/events-archive/2001/">Events in
+            2001</a>
+          </p>
+          <hr>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <p>
+          This page gives links to the events that have taken
+          place in the current year.
+        </p><!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Right Column ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+           Last updated: 3 December 2006 
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+           <!-- Close id=Content -->
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

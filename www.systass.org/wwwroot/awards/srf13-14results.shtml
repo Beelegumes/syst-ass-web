@@ -1,0 +1,392 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - SRF 2013/14 round results page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/SystAssLogo-100.png" width="81" height=
+        "100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          Systematics Research Fund (SRF)<br>
+          Results of 2013/14 round
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          SRF
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            Systematics Research Fund<br>
+            1 Oct - 31 Dec<br>
+            <a href="srf.shtml">Further details</a>
+          </p>
+<p>         <!--#include virtual="/awards/SRF_previous_rounds_link.inc" --></p>
+        </div>
+        <hr>
+        <p class="title">
+          Join
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            To join the Systematics Association, visit the
+            <a href="/membership/">Membership page</a>.
+          </p>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <a name="results" id="results"></a>
+        <div style=
+        "display: block; margin-left: 5px; margin-right: 5px; background-color: #ffffff; float: right;">
+        <img src="../images/SystAssLogo.png" width="162"
+          height="200" alt="Systematics Association" title=
+          "Systematics Association"> <img src=
+          "../images/LinnSocLogo.jpg" width="140" height="181"
+          alt="Linnean Society of London" title=
+          "Linnean Society of London">
+        </div>
+        <p>
+          The SRF received a total of 96 applications for the
+          2013/14 round. Thirty of the applications were
+          funded. Successful applicants have been contacted by
+          email - if you applied this year you may like to check
+          the list of funded applications to see if your name
+          appears.
+        </p>
+        <hr>
+        <table summary=
+        "List of successful applicants for the 2013/14 SRF round">
+        <caption class="title">
+            List of successful applicants for the 2013/14 SRF
+            round
+          </caption>
+          <tr>
+            <th>
+              Name (Country)
+            </th>
+            <th>
+              Project title
+            </th>
+          </tr>
+          <tr>
+            <td>
+              Eleanor Adamson (U.K.)
+            </td>
+            <td>
+              Myanmar freshwater biogeography; understanding a biogeographical transition zone.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Anahita Aebli (Switzerland)
+            </td>
+            <td>
+              Diversification of Malagasy Mimosoids and assembly of the biota of Madagascar.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Patricia &Aacute;lvarez-Campos (Spain)
+            </td>
+            <td>
+              Phylogenetic study of <em>Syllinae</em> polychaetes (Annelida, Syllidae).
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Maria Bas (Spain)
+            </td>
+            <td>
+              Marine microbial taxonomic characterization of biofilms associated to whale bones.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Fred Benham (U.S.A.)
+            </td>
+            <td>
+              Historical and demographic influences on saltmarsh adaptation in Savannah Sparrows.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Bonnie Blaimer (U.S.A.)
+            </td>
+            <td>
+              Uncovering arboreal ant diversity in a montane rainforest in Madagascar.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Adam Brunke (Denmark)
+            </td>
+            <td>
+              Relicts of Ancient Forests: Uncovering Evolution of Hyperdiverse Staphylinini (Insecta: Coleoptera).
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Anne Brysting (Norway)
+            </td>
+            <td>
+              Initial phylogeographic survey of two Laminariales along a latitudinal gradient.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Sammy De Grave (U.K.)
+            </td>
+            <td>
+              Unravelling the systematic importance of the nebenauge (ocellus) in caridean shrimp.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Daniela Da'Costa (Guatemala)
+            </td>
+            <td>
+              Molecular biogeography of the New World Bess beetle, <em>Passalus punctiger</em> (Coleoptera: Passalidae).
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Tiffany Doan Costa (U.S.A.)
+            </td>
+            <td>
+              Alpha Taxonomy in the Andes of Peru: Novel Montane Lizards.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Alfredo Garcia (Spain)
+            </td>
+            <td>
+              Unraveling the <em>Cheirolophus webbianus</em> complex in the north of Tenerife Island.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Will Goodall-Copestake (U.K.)
+            </td>
+            <td>
+              Sourcing and characterising salps for genomic studies.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              D. James, Harris (Portugal)
+            </td>
+            <td>
+              Systematics of the high-altitude montane lizard <em>Atlantolacerta andreanskyi</em> in Morocco.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Orlando Jara Mu&ntilde;oz (Colombia)
+            </td>
+            <td>
+              Diversity and Biogeographic History of Andean Begonias.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Francesca Jarero (U.K.)
+            </td>
+            <td>
+              Collection of a 'hopeful monster': the relict tapeworm <em>Haplobothrium globuliforme</em>.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              &Aacute;ki L&aacute;ruson (U.s.A.)
+            </td>
+            <td>
+              Morphological correlation with genome implied species: elucidating the sea urchin genus Tripneustes.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Jefferson Maciel (Brazil)
+            </td>
+            <td>
+              Phylogeny and Evolution of the gigantic bromeliads (<em>Aechmea</em> subg. <em>Chevaliera</em>).
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Robert McKenzie (South Africa)
+            </td>
+            <td>
+              Phylogenetic relationships of <em>Haplocarpha hastata</em> and generic revision of subtribe Arctotidinae (Asteraceae)
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Alex Monro (U.K.)
+            </td>
+            <td>
+              Documenting the threatened cave flora of SW China.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Andrew Novikoff (Ukraine)
+            </td>
+            <td>
+              Publication of the book "Modern Systematics of Higher Plants: an Introductory Guide".
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Javier Ortega-Hernandez (U.K.)
+            </td>
+            <td>
+              The middle Cambrian lobopodian <em>Aysheaia pedunculata</em> revisited: significance for early arthropod evolution.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Ana Riesgo (Spain)
+            </td>
+            <td>
+              Species delineation in the sponge genus <em>Ircinia</em> using multigene datasets.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Marcela Rodriguero (Argentina)
+            </td>
+            <td>
+              Delimitation of evolutionary units and transitions between sexuality and asexuality in the South American weevil <em>Pantomorus postfaciatus</em> (Coleoptera: Curculionidae).
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Bruno Rossaro (Italy)
+            </td>
+            <td>
+              Molecular taxonomy of <em>Diamesa</em> (Diptera, Chironomidae): DNA repository and dichotomous key.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Paula Sim&otilde;es (Portugal)
+            </td>
+            <td>
+              Cicada species diversity: survey for a poorly known group in North Africa.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Vincent Trunzv (Switzerland)
+            </td>
+            <td>
+              Molecular phylogeny of the leaf-cutter bees (Apoidea: Megachilidae, tribe Megachilini).
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Timothy Utteridge (U.K.)
+            </td>
+            <td>
+              Systematics of <em>Ardisia</em> (Primulaceae: Myrsinoideae).
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Mohammad Vatanparast (Japan)
+            </td>
+            <td>
+              A comprehensive species-level phylogeny of the rosewoods (Dalbergia, Fabaceae).
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Aida Verdes Gorin (U.S.A.)
+            </td>
+            <td>
+              Systematics and evolution of bioluminescence in polychaetes of the genus <em>Odontosyllis</em>.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Name (Country)
+            </td>
+            <td>
+              Title
+            </td>
+            <td></td>
+          </tr>
+
+        </table><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="contact" id="contact"></a>
+        <p class="title">
+          Contact
+        </p>
+        <p>
+          Questions about the application procedure can be sent
+          to Dr. Mark Carine <script type=
+          "text/javascript">
+<!--
+          var usr = "m.carine";
+          var dom = "systass";
+          var tld = "org";
+          var ady = usr + "@" + dom + "." + tld;
+          document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+          //-->
+          </script>
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom Banner ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+          Last updated: 3 May 2014 
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

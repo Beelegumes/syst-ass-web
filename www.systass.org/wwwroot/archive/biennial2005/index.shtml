@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      SystAss beta site - Archive Biennial 2005 Page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/systlogo.gif" alt=
+        "Photo courtesy PDPhoto.org">
+        <p>
+          the Systematics Association
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Highlight
+        </p>
+        <div class="textsmall">
+          <p>
+            6th Biennial Meeting: August 2007
+          </p>
+          <p>
+            The 2007 Biennial Conference of the Systematics
+            Association will be held at the Royal Botanic Garden,
+            Edinburgh between the 28th - 31st August 2007.
+          </p>
+          <p>
+            The conference will consist of a mix of an open
+            programme of contributed talks and posters, along
+            with two thematic symposia. The two planned thematic
+            symposia are 'Speciation' and 'Floras and Faunas
+            serving Biodiversity Research'.
+          </p>
+          <p>
+            Further details of the meeting, registration details,
+            and the procedures for applying for student bursaries
+            will be posted on the Systematics Association web
+            page in early November 2006.
+          </p>
+          <hr>
+          <p>
+            some other text
+          </p>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <p>
+          The Systematics Association is commited to furthering
+          all aspects of Systematic biology. It organises a
+          vigorous programme of international conferences on key
+          themes in systematics, including a series of major
+          biennial conferences launched in 1997 (the sixth will
+          be held in Edinburgh in August 2007). The association
+          also supports a variety of training courses in
+          systematics and awards grants in support of systematics
+          research.
+        </p>
+        <!-- <P>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse leo. Pellentesque enim mi, aliquam mattis, ornare quis, hendrerit in, ligula. Vestibulum aliquet nisl volutpat est. Curabitur ante. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sem erat, luctus et, dignissim non, sodales eget, mauris. Maecenas dolor felis, viverra non, aliquam sed, rhoncus vel, elit. Maecenas congue, ipsum vitae eleifend tempor, arcu massa condimentum ante, ut tincidunt nunc ante sed ante. Nulla faucibus justo vel massa. Vestibulum sed diam in tellus volutpat venenatis. Donec sit amet turpis quis justo condimentum blandit. Mauris ultricies adipiscing sem. Morbi pretium metus tincidunt pede.</P>
+
+
+
+
+
+<P>Quisque eu mi quis massa pretium porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut tortor. Vivamus tellus nulla, dictum ac, interdum vulputate, euismod in, leo. Etiam malesuada, orci nec pretium convallis, pede magna molestie lorem, vitae blandit lectus urna vel ipsum. Donec at justo. Quisque at est vitae nibh pellentesque semper. In accumsan tortor vel elit. Praesent in lorem. Nam ut est a nisl auctor nonummy. Curabitur eget est. Nam et sapien. Donec dapibus vulputate erat.</P> -->
+        <p>
+          Maecenas at odio. Aliquam erat volutpat. Aenean quam.
+          Cras malesuada magna ac ligula. Donec accumsan aliquam
+          mi. Phasellus dictum metus adipiscing orci. Etiam
+          aliquam, ligula vel tempus porttitor, tortor lorem
+          rutrum leo, id adipiscing lacus ipsum a nunc. Nunc
+          imperdiet accumsan eros. Fusce feugiat. Nullam ut ante
+          ut turpis venenatis dictum. Donec porttitor, odio at
+          vulputate cursus, neque quam ultricies sem, sit amet
+          tincidunt urna massa quis sapien. Nam ultrices diam in
+          risus. Ut a urna vitae erat ultricies tincidunt.
+        </p>
+        <p>
+          Suspendisse dapibus luctus nibh. Maecenas vel erat ut
+          arcu malesuada adipiscing. Aenean elementum, nisi sed
+          facilisis tincidunt, dolor nisi elementum nulla, ut
+          posuere augue libero sit amet nisi. Aliquam ipsum
+          ligula, lacinia ac, fringilla ac, eleifend non, tortor.
+          Proin accumsan sem eu sem. Vestibulum molestie nulla
+          laoreet metus. Suspendisse lectus elit, cursus id,
+          laoreet vel, hendrerit non, nisl. In id est. Cras
+          nonummy. Curabitur eu dolor quis odio convallis
+          egestas. Pellentesque habitant morbi tristique senectus
+          et netus et malesuada fames ac turpis egestas.
+          Phasellus ipsum. Integer ut nunc pellentesque sem
+          hendrerit pharetra. Curabitur eget ligula id dolor
+          tempor fringilla. Fusce tempus. Quisque ante enim,
+          accumsan interdum, tempor ut, tincidunt non, mi. In hac
+          habitasse platea dictumst. Aliquam erat volutpat. Donec
+          luctus neque sed neque. Fusce vulputate luctus neque.
+        </p>
+        <p>
+          <!-- Close id=centerCol -->
+        </p>
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Right Column ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+           Last updated: 3 December 2006 
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

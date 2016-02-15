@@ -1,0 +1,143 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - CoSyst Page</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<a name="_top"></a>
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Collaborative Scheme<br> for Systematics Research (CoSyst)</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+
+<P class="title">CoSyst</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">Collaborative Scheme for Systematics Research<br>
+		 <strong>This scheme has now finished</strong><br>
+		 <a href="#results">3rd round results</a><br>
+		 <a href="#2ndresults">2nd round results</a><br>
+		 <a href="#1stresults">1st round results</a></p>		 
+		 </div>
+		 <hr>
+<P class="title">SRF</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">Systematics Research Fund<br>
+		 <a href="srf.shtml">Further details</a><br>
+		 <a href="srf.shtml#form">Application form</a><br>
+		 <a href="srf.shtml#results">Results</a></p>
+		 </div>
+		 <hr>
+<P class="title">SynTax</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;"><span style="background-color: #cc6633">Systematics &amp; Taxonomy research</span><br><br>
+		 <strong>Closing date: 31 January 2011</strong><br>
+		 <a href="syntax.shtml">Further details</a><br>
+		 <a href="syntax.shtml#form">Application form</a><br>
+		 <a href="syntax.shtml#results">Results</a></p>		 
+		 </div>
+<P class="title">Join</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">To join the Systematics Association, visit the <a href="/membership/">Membership page</a>.</p>
+		 </div>
+		 <hr>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">CoSyst</p>
+
+<p class="title">Sponsors</p>
+<div style="display: block; margin-left: auto; margin-right: 5px; background-color: #ffffff; float: left;">
+<img src="../images/SystAssLogo.png" width="162" height="200" alt="Systematics Association" title="Systematics Association" />
+<img src="../images/LinnSocLogo.jpg" width="141" height="164" alt="Linnean Society of London" title="Linnean Society of London" />
+<img src="../images/new_bbsrc_colour.png" width="238" height="90" alt="Biotechnology and Biological Sciences Research Council" title="Biotechnology and Biological Sciences Research Council" />
+<img src="../images/nerclogo200.gif" width="200" height="63" alt="Natural Environment Research Council" title="Natural Environment Research Council" />
+</div>
+<div style="clear:both;"></div>
+
+<p>The BBSRC Collaborative Scheme for Systematics Research (Co-Syst) is designed 
+to provide short-term funding for new collaborative research in systematics. The 
+initiative is intended to support preliminary collaborative research that will form 
+the basis of novel responsive mode proposals to either BBSRC or NERC.</p>
+
+<p>Details of the scheme, which will provide funding of &pound;2k to &pound;20k for collaborative 
+projects with a substantial systematic/phylogenetic/taxonomic component are 
+<a href="guidelines_Cosyst2009.pdf" rel="external">here</a>. The scheme is available only to UK-based applicants.</p> 
+
+<p class="title">Guidelines</p>
+<p><a href="guidelines_CoSyst2009.pdf" rel="external">Guidelines for applying for CoSyst funding</a><br>
+A FREE copy of the Adobe<sup>&copy;</sup> Acrobat Reader is available from <a href="http://www.adobe.com/products/acrobat/readstep2.html" rel="external">here.</a></p>
+
+
+<!--#include virtual="/awards/CoSyst-round3-panel.inc" -->
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="form"></a>
+<p class="title">CoSyst - Online Application Form</p>
+
+<p style="background-color: #cc6633">Applications for the third round closed on 
+15 March 2009.  The applications have been assessed, please see the <a href="#results">results</a> section below.</p>
+
+<!-- CoSyst-wufoo-3rd.inc -->
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="results"></a>
+<p class="title">Results</p>
+
+<!--#include virtual="/awards/CoSyst-round3-results.inc" -->
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="2ndresults"></a>
+<!--#include virtual="/awards/CoSyst-round2-results.inc" -->
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="1stresults"></a>
+<!--#include virtual="/awards/CoSyst-round1-results.inc" -->
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="contact"></a>
+<p class="title">Contact</p>
+
+<p>This scheme has now finished.
+</p>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Banner ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 23 October 2012
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

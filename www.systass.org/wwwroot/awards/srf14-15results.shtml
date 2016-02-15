@@ -1,0 +1,399 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - SRF 2014/15 round results page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+         <img src="/images/SystAssLogo-100.png" width="81"
+        height="100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          Systematics Research Fund (SRF)<br>
+          Results of 2014/15 round
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          SRF
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            Systematics Research Fund<br>
+            1 Oct - 31 Dec<br>
+            <a href="srf.shtml">Further details</a>
+          </p>
+<p>         <!--#include virtual="/awards/SRF_previous_rounds_link.inc" --></p>					
+        </div>
+        <hr>
+        <p class="title">
+          Join
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            To join the Systematics Association, visit the
+            <a href="/membership/">Membership page</a>.
+          </p>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <a name="results" id="results"></a>
+        <div style=
+        "display: block; margin-left: 5px; margin-right: 5px; background-color: #ffffff; float: right;">
+        <img src="../images/SystAssLogo.png" width="162"
+          height="200" alt="Systematics Association" title=
+          "Systematics Association"> <img src=
+          "../images/LinnSocLogo.jpg" width="140" height="181"
+          alt="Linnean Society of London" title=
+          "Linnean Society of London">
+        </div>
+        <p>
+          The SRF received a total of 173 applications for the
+          2014/15 round, with a total value of &pound;181,156.23.
+          Thirty one of the applications were funded at a total
+          cost of &pound;32,136.28. Successful applicants have
+          been contacted by email - if you applied this year you
+          may like to check the list of funded applications to
+          see if your name appears.
+        </p>
+        <p>
+          A summary report of the 2014/15 application round can
+          be <a href="2015_SRF_report.pdf" target="_blank">found
+          here</a>.
+        </p>
+        <hr>
+        <table summary=
+        "List of successful applicants for the 2014/15 SRF round">
+        <caption class="title">
+            List of successful applicants for the 2014/15 SRF
+            round
+          </caption>
+          <tr>
+            <th>
+              Name (Country)
+            </th>
+            <th>
+              Project title
+            </th>
+          </tr>
+          <tr>
+            <td>
+              Mary Aime (U.S.A.)
+            </td>
+            <td>
+              Macrofungal diversity on the Guiana Shield: Year 15
+              of a long-term expeditionary field study
+            </td>
+          </tr>
+          <tr>
+            <td>
+              David Bilton (U.K.)
+            </td>
+            <td>
+              Aquatic biodiversity in a semi-arid hotspot:
+              Systematics of Extra Cape water beetles
+            </td>
+          </tr>
+          <tr>
+            <td>
+              James Burgon (U.K.)
+            </td>
+            <td>
+              Genome-wide phylogenetic analysis of a diverse
+              Palaearctic salamander lineage, <em>Salamandra</em>
+              spp.
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Juan Calleja (Spain)
+            </td>
+            <td>
+              Unraveling the diversity pole of <em>Volutaria</em>
+              (Compositae) in the Horn of Africa
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Adrian Di Giacomo (Argentina)
+            </td>
+            <td>
+              Evaluation of the taxonomic status of the
+              Ruddy-headed Goose (<em>Chloephaga rubidiceps</em>)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Davide Foffa (U.K.)
+            </td>
+            <td>
+              Mesozoic marine reptiles of Scotland
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Merce Galbany Casals (Spain)
+            </td>
+            <td>
+              The colonization of the American continent by the
+              genus <em>Pseudognaphalium</em>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Olwen Grace (U.K.)
+            </td>
+            <td>
+              Systematics and biogeography of the tree aloes
+            </td>
+          </tr>
+          <tr>
+            <td>
+              James Hansford (U.K.)
+            </td>
+            <td>
+              Investigating sexual-dimorphism in the
+              Aepyornithidae
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Gustavo Hassemer (Denmark)
+            </td>
+            <td>
+              Taxonomic revision of the <em>Plantago
+              commersoniana</em> complex (Plantaginaceae)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Stacy Krueger (U.S.A.)
+            </td>
+            <td>
+              Genetic diversity in the non-native, monoecious,
+              red seaweed <em>Grateloupia turuturu</em>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Fu Long-Fei (China)
+            </td>
+            <td>
+              Reproduction mode and sexual system research of
+              <em>Elatostema</em> (Urticaceae) from China
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Daniel Martin (Spain)
+            </td>
+            <td>
+              Cryptic fish bait: resolving the taxonomy of
+              commercially exploited <em>Marphysa</em> (Annelida,
+              Eunicidae)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Brezo Mart&iacute;nez (Spain)
+            </td>
+            <td>
+              Species delimitation and phylogeographic origin of
+              a tropical hydrocoral appeared in Tenerife
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Juan Moles (Spain)
+            </td>
+            <td>
+              Description of two new Antarctic nudibranchs by
+              micro-CT
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Rayner N&uacute;&ntilde;ez (Cuba)
+            </td>
+            <td>
+              DNA barcoding of Greater Antillean butterflies:
+              testing the current based morphologically taxonomy
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Marianne Nyegaard (Australia)
+            </td>
+            <td>
+              Investigations into sunfish taxonomy in New Zealand
+              waters
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Trond Roger Oskars (Norway)
+            </td>
+            <td>
+              Speciation and biogeography in the deep sea: review
+              and phylogenetic analysis <em>Scaphander</em>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              M<sup>a</sup> Rocio Perez-Portela (Spain)
+            </td>
+            <td>
+              Systematics of brittlestars from European deep
+              waters using morphological and molecular data
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Anna Pienkowski (U.K./Canada)
+            </td>
+            <td>
+              Foraminifera from Arctic Canada: a 21st Century
+              baseline for biomonitoring and palaeoclimatology
+            </td>
+          </tr>
+          <tr>
+            <td>
+              P&eacute;ter Poczai (Finland)
+            </td>
+            <td>
+              The molecular phylogeny of ragweeds
+              (<em>Ambrosia</em>, Asteraceae)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Heritiana Ranarivelo (U.S.A.)
+            </td>
+            <td>
+              Species delimitation of the Malagasy
+              <em>Psorospermum</em> (Hypericaceae): Integrating
+              morphological and molecular data
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Pilar Rios (Spain)
+            </td>
+            <td>
+              Barcoding of Antarctic sponges from shallow waters
+              of Deception Island (South Shetland)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Marcos Roca-Cusachs L&oacute;pez-Balcells (Spain)
+            </td>
+            <td>
+              Testing ecological release and species boundaries
+              in multi-island species
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Sonia Rowley (U.S.A.)
+            </td>
+            <td>
+              Exploration and Systematics of Twilight Reef
+              Gorgonian Corals at Pakin Atoll, Micronesia
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Davide Sassi (Italy)
+            </td>
+            <td>
+              Systematic review of substribe Pachybrachina
+              (Chrysomelidae, Cryptocephalini) of central and
+              south America
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Christie Sukhdeo (U.S.A.)
+            </td>
+            <td>
+              Comparative Phylogeography of the Cameroonian
+              Highlands Dung Beetle (Coleoptera: Scarabaeidae)
+              Fauna
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Kristin Walovich (U.S.A.)
+            </td>
+            <td>
+              Taxonomic resolution of southern African
+              <em>Hydrolagus</em> chimaeras: Implications on
+              conservation and management
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Kim Warren (U.K.)
+            </td>
+            <td>
+              <em>Rhinolophus philippinensis</em> in Indonesia:
+              species, or species complex?
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Mark Wilkinson (U.K.)
+            </td>
+            <td>
+              Systematic Implications of Caecilian Squamation
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dongwei Zhao (Ireland)
+            </td>
+            <td>
+              Systematics of <em>Camellia</em> (Theaceae) in
+              Vietnam
+            </td>
+          </tr>
+        </table><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="contact" id="contact"></a>
+        <p class="title">
+          Contact
+        </p>
+        <p>
+          Questions about the application procedure can be sent
+          to Dr. Mark Carine <script type="text/javascript">
+<!--
+          var usr = "m.carine";
+          var dom = "systass";
+          var tld = "org";
+          var ady = usr + "@" + dom + "." + tld;
+          document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+          //-->
+          </script>
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom Banner ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+           Last updated: 08 June 2015 
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

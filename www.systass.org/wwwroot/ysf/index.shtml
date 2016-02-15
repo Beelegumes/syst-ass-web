@@ -1,0 +1,251 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - YSF Page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top" id="_top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+         <img src="/images/SystAssLogo.png" width="81"
+        height="100" alt="Celebrating Systematics - 75 years"
+        title="Celebrating Systematics - 75 years">
+        <p>
+          Young Systematists' Forum
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+         <p class="title">
+          Official Hashtag: <a href="http://twitter.com/search?f=realtime&q=%23YSF2015&src=typd"
+          rel="external">#YSF2015</a>
+        </p>
+        <!-- <p>
+          <img src="/images/lanyrd-48x48.png" width="48" height=
+          "48" alt="Lanyrd.com" title="Lanyrd.com"><a href=
+          "http://lanyrd.com/cdywc" title=
+          "get more out of conferences - find out who is attending"
+          rel="external">http://lanyrd.com/cdywc</a>
+        </p>
+        <hr> -->
+        <p class="title">
+          Quick links
+        </p>
+        <p style="text-align: right;">
+          <a href="#Introduction">Introduction</a><br>
+          <!-- <a href="#Programme">Programme</a><br> -->
+          <a href="#Registration">Registration</a><br>
+<!--           NEW: <a href="16th(2014)YSF_Abstract_Booklet_v2.pdf" rel="external">Download abstracts and programme</a><br> -->
+          <a href="#Download">Archive</a><br>
+					<a href="#Contact">Queries</a>
+        </p>
+        <hr>
+<P class="title">Directions</P>
+		 <div class="textsmall">
+		 <p><a href="http://www.nhm.ac.uk/visit-us/getting-here/index.html" rel="external">
+		 Getting to the NHM</a>, the Flett Lecture Threatre is on Floor 1 of the Red Zone.</p>
+		 </div>
+<!--#include virtual="/incl/directions-nhm.inc" -->
+		 <hr>
+        <p class="title">
+          Join
+        </p>
+        <div class="textsmall">
+          <p>
+            To join the Systematics Association, visit the
+            <a href="/membership/">Membership page</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          Archive
+        </p>
+        <div class="textsmall">
+          <!--#include virtual="/ysf/archive.inc" -->
+        </div>
+        <hr>
+        <!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+
+<!-- <p class = "title" style="background-color: #cc6633;">Details of 16th YSF announced</p> -->
+
+        <p class="title">
+          2015 YSF<br>
+          Friday, 20th November 2015</p>
+
+	
+         <p class="centre">
+          <strong><span style="margin: 5px 0px;"><a href=
+          "http://commons.wikimedia.org/wiki/Image:Natural_History_Museum_London_Jan_2006.jpg"
+          rel="external" title=
+          "The Natural History Museum, by David Iliff"><img src=
+          "/ysf/NHM_David_Iliff.png" width="314" height="200"
+          alt="The Natural History Museum, by David Iliff" style=
+          "border: none;"></a></span><br>
+          Flett Lecture Theatre<br>
+          The Natural History Museum<br>
+          London, UK</strong>
+        </p>
+         <p>
+          Sponsors
+        </p>
+<div style=
+        "display: block; margin-left: auto; margin-right: auto; background-color: #ffffff; padding-left: 25px;">
+        <img src="/images/SystAssLogo.png" height="70" alt=
+        "Systematics Association" title=
+        "Systematics Association"> <img src=
+        "/images/new-nhm-logo.gif" height="70" alt=
+        "The Natural History Museum" title=
+        "The Natural History Museum">
+				<a href="http://www.mdpi.com/journal/data" rel="external"><img src="/images/dataMDPIlogo.png" width="218" height="80" alt="Data - a new open access journal on data in science"  title="Data - a new open access journal on data in science"/></a>
+        </div>
+
+<!--				<div style=
+        "display: block; margin-left: auto; margin-right: auto; background-color: #ffffff; padding-left: 25px;">
+        <img src="/images/SystAssLogo.png" height="100" alt=
+        "Systematics Association" title=
+        "Systematics Association"> <img src=
+        "/images/new-nhm-logo.gif" height="100" alt=
+        "The Natural History Museum" title=
+        "The Natural History Museum">
+				<a href="http://www.mdpi.com/journal/data" rel="external"><img src="/images/dataMDPIlogo.png" width="382" height="140" alt="Data - a new open access journal on data in science"  title="Data - a new open access journal on data in science"/></a>
+				<img src="/images/200px-Cambridge_University_Press_logo.svg.png" 
+				height="42" alt="Cambridge University Press" 
+				title="Cambridge University Press">
+				<a href="https://peerj.com/" rel="external"><img src="/images/peerJ_logo_transparent.png" width="175" height="77" 
+				alt="peerJ (a peer-reviewed academic journal)" title="peerJ (a peer-reviewed academic journal)"/></a>
+        </div> -->
+        <p class="centre">
+          <strong>Organisers:</strong> Dr. Ellinor Michel (Dept Life Science, NHM), Xavier Aubriot (Dept Life Science, NHM), Dr. Ross Mounce (Dept Life Science ,NHM)
+					</p>
+
+        <p class="title" style="background-color: #cc6633;">
+          Official Hashtag: <a href="http://twitter.com/search?f=realtime&q=%23YSF2015&src=typd"
+          rel="external">#YSF2015</a>
+        </p>
+<hr>
+					<a name="Introduction" id="Introduction"></a>
+        <p class="title">
+          Introduction
+        </p>
+        <p>
+          The annual <strong>Young Systematists' Forum</strong>
+          represents an exciting setting for Masters, PhD and
+          young postdoctoral researchers to present their data,
+          often for the first time, to a scientific audience
+          interested in taxonomy, systematics and phylogenetics.
+          This well-established event provides an important
+          opportunity for budding systematists to discuss their
+          research in front of their peers within a supportive
+          environment. Supervisors and other established
+          systematists are also encouraged to attend.
+        </p>
+        <p>
+          Prizes will be awarded for the most promising oral and
+          poster presentations as judged by a small panel on the
+          day.
+        </p>
+ 				<img src="../images/MalacSoc-logo100px.jpg" width=
+        "100" height="100" alt="The Malacological Society" title=
+        "The Malacological Society" style=
+        "float: left; margin-right: 10px;">
+        <p>
+          Again the YSF will be held the day after the <a href=
+          "http://www.malacsoc.org.uk/MolluscanForum.htm" rel=
+          "external">Molluscan Forum</a> of the
+          <strong>Malacological Society</strong>, which is aimed at the same stage
+          participants, also at the <acronym title=
+          "The Natural History Museum">NHM</acronym>. 
+					This has been arranged so both meetings can be attended, although if attending 
+					both you will have to register for both meetings separately.  There will 
+					also be a meeting on Natural History Collections and Climate Change Research 
+					on the 17th (details to be announced shortly). Come for a full week!
+        </p>
+        <!--#include virtual="/incl/topofpage.inc" -->				
+				<a name="Registration" id="Registration"></a>
+        <p class="title">
+          Registration - <span>Open</span>
+        </p>
+				<!-- #include virtual="/ysf/summary.inc" -->
+				<!-- #include virtual="/ysf/registration-open.inc" -->
+								
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Programme" id="Programme"></a>
+        <p class="title">
+          Programme
+        </p>
+				<!-- add include virtual="/ysf/14th(2012)_YSF_programme.inc" -->
+        <!-- add link and update programme.inc file when necessary -->
+        <!-- #include virtual="/ysf/summary.inc" -->
+<!-- 				<a href="16th(2014)YSF_Abstract_Booklet_v2.pdf" rel="external">Download abstracts and programme</a> -->
+        <!-- #include virtual="/incl/topofpage.inc" -->
+        <a name="Abstracts" id="Abstracts"></a>
+        <p class="title">
+          Abstracts
+        </p>
+				<!--#include virtual="/ysf/abstract_rules.inc" -->
+
+<!--         <p>
+          Download a copy of the current abstracts and timetable <a href=
+          "/ysf/14th(2012)_YSF_Abstract_Booklet-v5.pdf">here</a>.
+        </p> -->
+				
+				<!-- add link to abstract_rules when necessary-->
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Download" id="Download"></a>
+        <p class="title">
+          Archive
+        </p>
+				<!--#include virtual="/ysf/archive.inc" -->
+        <!--#include virtual="/incl/topofpage.inc" -->
+
+        <a name="Contact" id="Contact"></a>
+        <p class="title">
+          Contact
+        </p>
+				<p>Any questions about the YSF including the registration process should 
+				be sent to <script type="text/javascript"><!--
+  var usr = "YSF.SystematicsAssociation";
+  var dom = "gmail";
+  var tld = "com";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+  //--></script>.
+					</p>
+<p>The organisers are Dr. Ellinor Michel (Dept Life Science, NHM), Xavier Aubriot (Dept Life Science, NHM), Dr. Ross Mounce (Dept Life Science ,NHM)</p>
+
+         <p>
+          Sponsors
+        </p>
+
+<div style=
+        "display: block; margin-left: auto; margin-right: auto; background-color: #ffffff; padding-left: 25px;">
+        <img src="/images/SystAssLogo.png" height="70" alt=
+        "Systematics Association" title=
+        "Systematics Association"> <img src=
+        "/images/new-nhm-logo.gif" height="70" alt=
+        "The Natural History Museum" title=
+        "The Natural History Museum">
+				<a href="http://www.mdpi.com/journal/data" rel="external"><img src="/images/dataMDPIlogo.png" width="218" height="80" alt="Data - a new open access journal on data in science"  title="Data - a new open access journal on data in science"/></a>
+        </div>
+
+
+        <!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom Banner ?links? -->
+        <!--#include virtual="/incl/w3c.inc" -->
+        Last updated: 13 November 2015 
+        <!--#include virtual="/incl/webmaster-email.inc" -->
+         <!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

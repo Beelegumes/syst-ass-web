@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Membership Page</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Membership of<br>the Systematics Association</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Download application forms:</P>
+		 <div class="textsmall">
+		 <p><a href="Application_form_2008.pdf">Membership application form</a></p>
+		 <p><a href="Standing_Order_form_2008.pdf">Standing Order form (only)</a></p>
+		 </div>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+<img src="../images/SystAssLogo.png" width="162" height="200" alt="Systematics Association" 
+title="Systematics Association" style="float: left; margin-right: 10px;">
+<p>The Systematics Association welcomes anyone interested in the study or teaching 
+of Systematics. Membership entitles you to reduced registration at our many Conferences, 
+and major reductions on the books published by the Association. You will also receive 
+our Newsletter, and can apply for the Association's grants.</p>
+<p>Membership rates are &pound;10, and &pound;5 for students. UK members are encouraged 
+to pay by annual banker's order.  We can also accept cash payment in US dollars and 
+EUROs ($20 / &euro;20 for normal membership and $10 / &euro;10 for student members).</p>
+
+<p class="title">Membership benefits</p>
+<p>Quarterly Newsletter</p>
+<p>Discount on Society Publications</p>
+<p>Reduced registration fee for Society Conferences</p>
+<p>Systematics Association News mailing list - <a href="http://www.jiscmail.ac.uk/SYSTASS-NEWS" title="Sign-up here." rel="external">Sign-up here.</a></p>
+
+<p class="title">How to apply</p>
+
+<!--#include virtual="/membership/subscribe-mailform.inc" -->
+
+<hr>
+
+<p>If you have any questions please contact the  
+	<script type="text/javascript">
+	<!--
+	var disp = "membership secretary by e-mail";
+	var usr = "membership";
+	var dom = "systass";
+	var tld = "org";
+	var ady = disp;
+	var dispady = usr + "@" + dom + "." + tld;
+	document.write("<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>")
+	//-->
+	</script>
+</p>
+
+<p style="text-align: center"><strong>Registered Charity Number 270429</strong></p>
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Banner ?links? -->
+<!--#include virtual="/incl/w3c.inc" -->
+Last updated: 31 July 2008
+<!--#include virtual="/incl/webmaster-email.inc" -->
+
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

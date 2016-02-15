@@ -1,0 +1,216 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - Links Page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top" id="_top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+         <img src="/images/SystAssLogo-100.png" width="81"
+        height="100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          Other links<br>
+          which may be of interest
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          RSS Feeds
+        </p>
+        <div class="textsmall">
+          <p style="background-color: #cc6633">
+            To view feeds from related sites, visit the <a href=
+            "/links/other-feeds.shtml">Feeds page</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          Join
+        </p>
+        <div class="textsmall">
+          <p>
+            To join the Systematics Association, visit the
+            <a href="/membership/">Membership page</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          YSF
+        </p>
+        <div class="textsmall">
+          <p>
+            Young Systematists Forum, visit the <a href=
+            "/ysf/">YSF page</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          Council
+        </p>
+        <div class="textsmall">
+          <p>
+            For further details of the council members, visit the
+            <a href="/council/2007council.shtml">Council members
+            page</a>.
+          </p>
+        </div>
+        <hr>
+        <!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <p class="title">
+          Other Systematics Associations
+        </p>
+        <p>
+				Federation of European Biological Systematic Societies - 
+				<a href="http://www.biosyst.eu/" rel="external">BioSyst EU</a><br><br>
+          <a href="http://sfs.snv.jussieu.fr/" rel=
+          "external">Soci&eacute;t&eacute; Fran&ccedil;aise de
+          Syst&eacute;matique (France)</a><br>
+          <a href="http://www.gfbs-home.de/" rel=
+          "external">Gesellschaft f&uuml;r Biologische Systematik
+          (Germany)</a><br>
+          <a href="http://www.swiss-systematics.ch/" rel=
+          "external">Swiss Systematics Society
+          (Switzerland)</a><br>
+          <a href="http://www.nobis-austria.at/" rel=
+          "external">Network of Biological Systematics
+          (Austria)</a><br>
+          <a href="http://www.cladistics.org/" rel=
+          "external">Willi Hennig Society (International)</a><br>
+          <a href="http://systbiol.org/" rel="external">Society
+          of Systematic Biologists (USA)</a><br>
+          <a href="http://www.sasb.org.au/" rel=
+          "external">Society of Australian Systematic Biologists
+          (Australia)</a><br>
+					<a href="http://www.anbg.gov.au/asbs/" rel="external">
+					Australasian Systematic Botany Society</a>
+					</p>
+        <p>
+          in addition, the Systematics Association maintains
+          especially strong links with the <a href=
+          "http://www.linnean.org/" rel="external">Linnean
+          Society of London</a>
+        </p>
+        <p class="title">
+          related sites
+        </p>
+        <p>
+          <a href="http://www.e-taxonomy.eu/" rel=
+          "external">EDIT: European Distributed Institute of
+          Taxonomy</a><br>
+          <a href="http://www.synthesys.info/" rel=
+          "external">SYNTHESYS: the European Union-funded
+          Integrated Activities grant.</a>
+        </p>
+        <p class="title">
+          Journals
+        </p>
+        <p>
+          <a href="http://www.mapress.com/zootaxa/" rel=
+          "external">ZOOTAXA</a> - a rapid international journal
+          for animal taxonomists<br>
+          <a href="http://www.uac.pt/~seba/?q=node/12" rel=
+          "external">Biogeography &amp; Systematics</a> - The
+          journal aims to become a forum for larger papers (i.e.
+          monographs) in biogeography and systematics that cover
+          the fields of systematic and evolutionary biogeography,
+          phylogenetic systematics, its history, theory,
+          methodology and epistemology. <a href=
+          "http://www.uac.pt/~seba/?q=node/11" rel=
+          "external">Read more</a><br>
+          <a href="http://urhomology.blogspot.com/" rel=
+          "external">Foundations of Systematics and Biogeography
+          Blog</a> - the Companion Blog for topics addressed in
+          the book <em>Foundations of Systematics and
+          Biogeography</em>.
+        </p>
+				<!--#include virtual="/incl/topofpage.inc" -->				
+        <p class="title">
+          Systematic Biology &amp; Biodiversity in the UK
+        </p>
+        <ul>
+          <li>A copy of the Systematics Association response to
+          the House of Lords request for evidence for their
+          enquiry on 'Systematic Biology and Biodiversity in the
+          UK' <a href="systass-hol.shtml">can be found here</a>.
+          </li>
+          <li>a transcript of the House of Lords Committee on
+          'Systematic Biology and Biodiversity in the UK' held on
+          5 February 2002 <a href=
+          "systass-lords-transcript.shtml">can be found here</a>.
+          </li>
+          <li>the House of Lords debate on Friday 12 July 2002.
+          (Sustainable Development) the Science and Technology
+          Committee report <em>"What on Earth? The Threat to the
+          Science Underpinning Conservation."</em> <a href=
+          "http://www.publications.parliament.uk/pa/ld200102/ldselect/ldsctech/118/11802.htm"
+            rel="external">can be found here</a>.
+          </li>
+          <li>
+            <span style="background-color: #cc6633">February
+            2008:</span> Response to the House of Lords Science
+            &amp; Technology Committee call for evidence:
+            Systematics and taxonomy. <a href=
+            "/documents/Systematics_HoL_2008v2.pdf">Read the
+            Systematics Association submission</a>
+          </li>
+        </ul>
+				<!--#include virtual="/incl/topofpage.inc" -->
+        <p class="title">
+          Phylocode
+        </p>
+        <ul>
+          <li>
+            <strong>'From Cladograms to Classification: the Road
+            to DePhylocode'</strong><br>
+            Dr. Norman Platnick gave the Annual Address on
+            Wednesday 5th December, 2001 in the Lecture Room of
+            the Linnean Society of London.<br>
+            The text of his address <a href=
+            "/archive/events-archive/2001/platnick.pdf">can be
+            found here</a>
+          </li>
+          <li>you may also be interested to read the <a href=
+          "/archive/events-archive/2001/phylocode-debate.shtml">
+            following debate</a><br>
+            between Mike Lee (for); Gary Nelson (against)held
+            during the Joint Conference of the Australasian
+            Evolution Society and the Society of Australian
+            Systematic Biologists, 16-18 July 2001, University of
+            Melbourne."
+          </li>
+          <li>Read <em>'The future of biological taxonomy? Does
+          the PhyloCode offer a viable alternative to traditional
+          Linnaean taxonomy?'</em> an essay by Jake
+          Alexander.<br>
+            <a href=
+            "/archive/events-archive/2001/Jake_Alexander_Essay.pdf">
+            Available here</a>.
+          </li>
+          <li>The official PhyloCode web site can be found here
+          <a href="http://www.ohiou.edu/phylocode/" rel=
+          "external">http://www.ohiou.edu/phylocode/</a>.
+          </li>
+        </ul><!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom banner ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+           Last updated: 26 April 2012 
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

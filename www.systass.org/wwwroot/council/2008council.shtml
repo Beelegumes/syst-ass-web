@@ -1,0 +1,703 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - Officers &amp; Council (2008)
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top" id="_top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/SystAssLogo-100.png" width="81" height=
+        "100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          Officers &amp; Council of the<br>
+          Systematics Association (2008)
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Quick links
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            <a href="#officers">Officers</a><br>
+            <a href="#retiring2008">Council retiring in
+            2008</a><br>
+            <a href="#retiring2009">Council retiring in
+            2009</a><br>
+            <a href="#retiring2010">Council retiring in 2010</a>
+          </p>
+          <hr>
+          <p>
+            <a href="/membership/"><strong>Join</strong> the
+            Systematics Association!</a>
+          </p>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <a name="officers" id="officers"></a>
+        <p class="title">
+          Officers
+        </p>
+        <table summary="Systematics Association 2008 Officers"
+        class="textsmall" width="100%">
+          <tr>
+            <td colspan="2">
+              <b>President</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Professor R. Bateman<br>
+              Jodrell Laboratory<br>
+              Royal Botanic Gardens<br>
+              Kew, Richmond<br>
+              Surrey TW9 3DS<br>
+              <script type="text/javascript">
+<!--
+  var usr = "r.bateman";
+  var dom = "rbgkew.org";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/batemanophrys.png" width="89"
+              height="110" alt="Ophrys" title="Ophrys" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/rmbateman.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <b>Secretary</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr. Z. Griffiths (nee Lawrence)<br>
+              3 Sunray Avenue<br>
+              West Drayton<br>
+              Middlesex UB7 7AH<br>
+              <script type="text/javascript">
+<!--
+  var usr = "griffithsacari";
+  var dom = "aol";
+  var tld = "com";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-woman.PNG" width="83"
+              height="90" alt="head-woman (3K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/zgriffiths.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <b>Meetings Secretary</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr. W. Baker<br>
+              Herbarium<br>
+              Royal Botanic Gardens<br>
+              Kew, Richmond<br>
+              Surrey TW9 3AS<br>
+              <script type="text/javascript">
+<!--
+  var usr = "w.baker";
+  var dom = "rbgkew.org";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+              "90" alt="head-man (2K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/wjbaker.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <b>Grants &amp; Awards Secretary</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr. T.A. Richards<br>
+              School of Biosciences<br>
+              University of Exeter<br>
+              Stocker Road<br>
+              Exeter EX4 4QD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "t.a.richards";
+  var dom = "systass";
+  var tld = "org";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+              "90" alt="head-man (2K)" title="head-man (2K)"
+              style="float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/notsupplied.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <b>Membership Secretary</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr J.Bennett<br>
+              St Pauls School<br>
+              Lonsdale Road<br>
+              London SW13 9JT<br>
+              <script type="text/javascript">
+<!--
+  var usr = "bennettj";
+  var dom = "stpaulsschool.org";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/Jon-Bennett-thumbnail.jpg" width=
+              "77" height="89" alt="Jon Bennett" title=
+              "Jon Bennett" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/jbennett.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <b>Treasurer</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr. C.E. Hughes<br>
+              Dept. Plant Sciences<br>
+              University of Oxford<br>
+              South Parks Rd<br>
+              Oxford OX1 3RB<br>
+              <script type="text/javascript">
+<!--
+  var usr = "colin.hughes";
+  var dom = "plants.ox.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/chughes.png" width="82" height=
+              "90" alt="Colin Hughes" title="Colin Hughes" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/cehughes.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <b>Editor in Chief</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr. A. Warren<br>
+              Department of Zoology<br>
+              The Natural History Museum<br>
+              Cromwell Road<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "A.Warren";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+              "90" alt="head-man (2K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/awarren.inc" -->
+            </td>
+          </tr>
+        </table><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="retiring2008" id="retiring2008"></a>
+        <p class="title">
+          Council members retiring in 2008
+        </p>
+        <table summary=
+        "Systematics Association Council members retiring in 2008"
+        class="textsmall" width="100%">
+          <tr>
+            <td>
+              Dr R. Cowan<br>
+              Royal Botanic Gardens<br>
+              Kew, Richmond<br>
+              Surrey TW9 3AS<br>
+              <script type="text/javascript">
+<!--
+  var usr = "r.cowan";
+  var dom = "kew";
+  var tld = "org";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-woman.PNG" width="83"
+              height="90" alt="head-woman (3K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/notsupplied.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr S. Jansen<br>
+              Jodrell Laboratory<br>
+              Royal Botanic Gardens<br>
+              Kew, Richmond<br>
+              Surrey TW9 3AS<br>
+              <script type="text/javascript">
+<!--
+  var usr = "s.jansen";
+  var dom = "kew";
+  var tld = "org";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/jansen.png" width="77" height=
+              "90" alt="Steven Jansen" title="Steven Jansen"
+              style="float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/sjansen.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <b>Newsletter Editor</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr R.A. Jenner<br>
+              Dept.of Biology &amp; Biochemistry<br>
+              University of Bath<br>
+              Bath BA2 7AY<br>
+              <script type="text/javascript">
+<!--
+  var usr = "rj223";
+  var dom = "bath.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/jenner.png" width="76" height=
+              "90" alt="Ronald Jenner" title="Ronald Jenner"
+              style="float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/rajenner.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr J. Richardson<br>
+              Royal Botanic Gardens<br>
+              20A Inverleith Row<br>
+              Edinburgh EH3 5LR<br>
+              <script type="text/javascript">
+<!--
+  var usr = "j.richardson";
+  var dom = "rbge.org";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+              "90" alt="head-man (2K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/jrichardson.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr D. Roberts<br>
+              The Natural History Museum<br>
+              Cromwell Rd<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "d.roberts";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+              "90" alt="head-man (2K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/droberts.inc" -->
+            </td>
+          </tr>
+        </table><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="retiring2009" id="retiring2009"></a>
+        <p class="title">
+          Council members retiring in 2009
+        </p>
+        <table summary=
+        "Systematics Association Council members retiring in 2009"
+        class="textsmall" width="100%">
+          <tr>
+            <td>
+              Dr P. Rudall<br>
+              Jodrell Laboratory<br>
+              Royal Botanic Gardens<br>
+              Kew, Richmond<br>
+              Surrey TW9 3DS<br>
+            </td>
+            <td>
+              <img src="/images/rudall.png" width="84" height=
+              "90" alt="Paula Rudall" title="Paula Rudall" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/prudall.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <b>Newsletter Editor</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr M. Ruta<br>
+              Dept. of Earth Sciences<br>
+              University of Bristol<br>
+              Wills Memorial Building<br>
+              Queen's Rd<br>
+              Bristol BS8 1RJ<br>
+              <script type="text/javascript">
+<!--
+  var usr = "M.Ruta";
+  var dom = "bristol.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/ruta.png" width="77" height="90"
+              alt="Marcello Ruta" title="Marcello Ruta" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/mruta.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr R. Scotland<br>
+              Dept. of Plant Sciences<br>
+              Oxford University<br>
+              South Parks Rd<br>
+              Oxford OX1 3RB<br>
+              <script type="text/javascript">
+<!--
+  var usr = "robert.scotland";
+  var dom = "plants.ox.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+              "90" alt="head-man (2K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/notsupplied.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr A. Vogler<br>
+              Imperial College<br>
+              University of London<br>
+              Prince Consort Rd<br>
+              London SW7 2AZ<br>
+              <script type="text/javascript">
+<!--
+  var usr = "a.vogler";
+  var dom = "imperial.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+              "90" alt="head-man (2K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/avogler.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr D.M. Williams<br>
+              Dept. of Botany<br>
+              The Natural History Museum<br>
+              Cromwell Rd<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "dmw";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+              "90" alt="head-man (2K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/notsupplied.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr P. Olson<br>
+              Dept. of Zoology<br>
+              The Natural History Museum<br>
+              Cromwell Rd<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "p.olson";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/pdolson.png" width="70" height=
+              "90" alt="Pete Olson" title="Pete Olson" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/pdolson.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr. L. R&uuml;ber<br>
+              Dept. of Zoology<br>
+              The Natural History Museum<br>
+              Cromwell Rd<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "l.ruber";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/ruber.png" width="78" height="90"
+              alt="Lukas R&uuml;ber" title="Lukas R&uuml;ber"
+              style="float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/ruber.inc" -->
+            </td>
+          </tr>
+        </table><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="retiring2010" id="retiring2010"></a>
+        <p class="title">
+          Council members retiring in 2010
+        </p>
+        <table summary=
+        "Systematics Association Council members retiring in 2010"
+        class="textsmall" width="100%">
+          <tr>
+            <td>
+              Dr J. Brodie<br>
+              Dept. of Botany<br>
+              The Natural History Museum<br>
+              Cromwell Rd<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "j.brodie";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-woman.PNG" width="83"
+              height="90" alt="head-woman (3K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/notsupplied.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <b>Webmaster</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Mr R.G. Wilson<br>
+              Science &amp; Learning Division<br>
+              Royal Horticultural Society Garden Wisley<br>
+              Woking<br>
+              Surrey GU23 6QB<br>
+              <script type="text/javascript">
+<!--
+  var usr = "webbie";
+  var dom = "systass";
+  var tld = "org";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/RGWweemee.png" width="77" height=
+              "90" alt="RGWweemee (7K)" title="Rupert Wilson"
+              style="float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/rgwilson.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr J. Cotton<br>
+              School of Biological Sciences<br>
+              Queen Mary College<br>
+              University of London<br>
+              Mile End Road<br>
+              London E1 4NS<br>
+              <script type="text/javascript">
+<!--
+  var usr = "j.a.cotton";
+  var dom = "qmul.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+              "90" alt="head-man (2K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/notsupplied.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr D. Gower<br>
+              Dept. of Zoology<br>
+              The Natural History Museum<br>
+              Cromwell Rd<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "d.gower";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+              "90" alt="head-man (2K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/notsupplied.inc" -->
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <br>
+              Dr S. Mayo<br>
+              Royal Botanic Gardens<br>
+              kew, Richmond<br>
+              Surrey TW9 3AE<br>
+              <script type="text/javascript">
+<!--
+  var usr = "s.mayo";
+  var dom = "kew";
+  var tld = "org";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+              "90" alt="head-man (2K)" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/notsupplied.inc" -->
+            </td>
+          </tr>
+        </table><!--#include virtual="/incl/topofpage.inc" -->
+        <!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Right Column ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+          Last updated: 23 December 2007 
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

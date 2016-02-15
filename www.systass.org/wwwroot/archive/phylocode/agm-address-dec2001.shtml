@@ -1,0 +1,776 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association, 2001 annual address - Dr. Norman Platnick</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/systlogo.gif" alt="[Logo]">
+<p>Phylocode</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Links</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;"><a href="/archive/phylocode/">Phylocode</a><br>
+		 <a href="http://listserv.nhm.ku.edu/archives/taxacom.html" target="_blank">Taxacom</a><br>
+		 <a href="http://www.ohiou.edu/phylocode/" target="_blank">PhyloCode website</a></p>
+		 </div>
+		 <hr>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">Systematics Association, 2001 annual address - Dr. Norman Platnick</p>
+
+<p>On Wednesday 5 December, Dr. Norman Platnick gave the Annual 
+Address to the Systematics Association AGM.  The address was given in the lecture room of the Linnean Society of London.</p>
+
+<H2>From Cladograms to Classifications: The Road to DePhylocode</H2>
+
+<H2>Norman I. Platnick</H2>
+<H3>Division of Invertebrate Zoology, American Museum of Natural History, 
+Central Park West at 79th Street, New York NY 10024 USA</H3>
+
+<P>I'd like to begin with a bit of personal history, since that 
+seems to be the easiest way to get into the subject.  Back in the 
+middle ages, or at least the middling decades of the last century, 
+when I was a grad student studying spiders in the green pastures of 
+Harvard University, our catechism was supplied by Ernst Mayr and his 
+"New Systematics" (or, as I prefer to call it, the "Non Systematics").  
+In retrospect, I should have known that something was amiss from day 
+one.  There I was, unpacking my stuff into the tiny cubicle I was 
+assigned on the fourth floor of the Museum of Comparative Zoology, 
+when a distinguished-looking gentleman strolled in, and asked a few 
+questions about who I was, what I was interested in, what my thesis 
+was going to be about, and the like.  I was scheduled to take an 
+evolution course that first semester, which was to be team-taught by 
+Ernst Mayr, erstwhile malacologist Steve Gould, and lepidopterist John 
+Burns.  The assigned textbook, of course, was to be Mayr's "Animal 
+Species and Evolution," so I had a copy of it out on my desk.  My 
+visitor pointed to the book and said "Oh, I see you've got a copy of 
+the bible."  That seemed like a very strange comment, indeed; hailing, 
+as I did, from the fundamentalist bible-belt of the Appalachian 
+mountains, I wasn't exactly used to hearing evolutionary texts 
+referred to as biblical, in any sense!  So I just shrugged the comment 
+off, and went on with the conversation.  After a while, my guest stood 
+up, shook hands, said "Oh, by the way, I'm Ernst Mayr," and strode 
+out.</P>
+
+<P>Be that as it may, I was soon properly indoctrinated.  
+Species, I was told, are real, and what every right-thinking 
+organismic biologist should focus on, to the exclusion of all else, 
+because groups of species -- higher taxa -- are not real, but merely 
+human and artificial constructs.</P>
+
+<P>Now, I have to say that I never found that position to be very 
+sensible.  I could look around at my major professor, for example, an 
+arachnologist by the name of Herb Levi.  His mentor had been the long-
+time spider curator at the American Museum, a true seat-of-the-pants 
+taxonomist named Willis Gertsch.  By this time, however, on at least a 
+few occasions, Levi had published a revision of a group, and Gertsch 
+had felt compelled to write a rebuttal.  Levi was then having to 
+publish papers attempting to explain why some of his species were, at 
+least according to Gertsch and other highly respected colleagues, just 
+artificial assemblages of several different and easily distinguished 
+species that weren't even necessarily each other's closest relatives.  
+Yet, despite all these disputes about species, none of these eminent 
+systematists seemed to have any difficulty whatever in agreeing on at 
+least some higher taxa, such as spiders.</P>
+
+<P>Indeed, spiders seemed, then and now, to be the quintessential 
+example of a natural, or real group, so real that I thought it was 
+utterly impossible for anyone to make a mistake about whether a given 
+organism is or is not a spider.  Now, I do have to stop and be honest 
+here; what I actually thought was utterly impossible was for anyone 
+other than a paleontologist to make that mistake.  As usual, of 
+course, I was wrong on that count, too.  A few years back I had to co-
+author a paper on Brucharachne, the spider that wasn't -- a spider, 
+that is.  In 1925, as it transpires, one of the worst taxonomists 
+South America ever produced, the immortal Candido Firmino de Mello-
+Leitao, actually described a whole new family of spiders, based on 
+what turned out to be a single male mite (Krantz and Platnick, 1995).</P>
+
+<P>But I bring all this history up mostly to point out that we 
+have now made our way fully to the opposite pole on the rather 
+fundamental issue of taxa and their reality, with papers appearing in 
+the journal Systematic Biology about so-called "phylogenetic taxonomy" 
+and bidding "a farewell to species."  In other words, some of our 
+colleagues are now arguing exactly the opposite point of view from the 
+"non systematics" I was taught as a grad student; they are arguing 
+that higher taxa are real but species, somehow, are not.  At least one 
+author, Fred Pleijel, adopts "a view where species simply are denied 
+any role in taxonomy and where only monophyletic groups are recognized 
+by formal Latin names" and he says he applies "uninomials for all 
+names, because this treatment does not recognize any species entities 
+and applies the same nomenclature for all taxa" (Pleijel, 1999: 756).
+As you might guess, I personally consider both of these polar 
+positions to be preposterous, wrong-headed, and insidious.  Let's 
+proceed by getting rid of the obvious.  I assume we all recognize that 
+species, and groups of species, are first of all hypotheses, and in 
+that sense only, represent artificial constructs of the human mind.  
+But I assume we all recognize that it is possible, at least in theory, 
+for one of those hypotheses to be an accurate statement about the real 
+world.  Who knows, on a good day, maybe even more than one of our 
+hypotheses might be accurate!</P>
+
+<P>Throughout the centuries since Clerck (and here you have to 
+forgive me, for spider systematics, in its typically precocious 
+fashion -- and with all due respect to our august surroundings -- 
+starts with Clerck in 1757, rather than that late-comer Linnaeus, in 
+1758), most systematists have avowedly been seeking natural 
+classifications, by which they meant classifications that consist of 
+species, and groups of them, that actually exist in the real world.
+And I would suggest that this is an entirely appropriate goal.  
+After all, how do we know that anything, such as the chair you're 
+snoozing in, actually exists?  The answer, of course, is that we can 
+keep bumping into it -- lots of different sources of evidence agree.  
+So lets look at a putatively natural group like spiders, and ask 
+whether we have evidence that it is real.</P>
+
+<P>Spiders have at least two characters that are completely 
+universal within the group, and completely unknown outside the group.  
+The most obvious character is the abdominal spinerets through which 
+silk is emitted.  But there is another unique character, namely that 
+adult males have modified structures on the tips of their pedipalps 
+that are used to transfer sperm to the females during copulation.  In 
+a male spider, there is no anatomical connection between the gonads 
+and the intromittent organ; the male spider has to deposit a drop of 
+sperm from his abdomen, and then dip his palps into the sperm to 
+charge them for mating.</P>
+
+<P>To date, systematists have described some 1.75 million 
+species, and of those, some 37,600 species are currently considered 
+valid members of the Order Araneae, the spiders.  If we pick abdominal 
+spinnerets as a character, that feature allows us to group 37,600 
+species, and no others, as spiders.  If we then group together those 
+species with male pedipalps modified for sperm transfer, we are once 
+again grouping together a mere 37,600 out of 1.75 million species.  
+For those of you interested in statistics, imagine that you were asked 
+to draw 37,600 species from a pool of 1.75 million, and then to repeat 
+that procedure.  What would be the probability of picking exactly the 
+same set of 37,600 species, the second time, by chance alone?  In 
+fact, that probability is so infinitesimally small that in this case 
+no real statistician would need Joe Felsenstein's preferred three 
+characters to conclude that spiders, as a group, are one of the best 
+corroborated hypotheses around.</P>
+
+<P>So I suggest that at least some of the groups in our current 
+classifications are real, natural, or monophyletic -- choose whichever 
+adjective you prefer, since the choice actually makes no difference 
+whatever to anything important.  No one would claim that all our 
+groups are real, but I would hope that we can all agree that basically 
+we would like our classifications to consist entirely of groups like 
+spiders -- groups based on the congruence of different sources of 
+evidence.</P>
+
+<P>The same is true, of course, for species, but that is actually 
+a somewhat tougher tune to carry, simply because there is such a 
+diversity of species concepts.  The amount of literature devoted to 
+species concepts is astonishingly large, and all I can do here is to 
+outline my own prejudices, so that you have a basis for evaluating my 
+conclusions, and how they relate to the reality of species as well as 
+groups.  For, unlike the Non Systematists and their modern mirror 
+images, I contend that both species and groups of them are, or at 
+least can be, real.</P>
+
+<P>There is a book produced by Columbia University Press, edited 
+by Quentin Wheeler and Rudolph Meier (2000), called "Species Concepts 
+and Phylogenetic Theory: A Debate,"  which I usually recommend as a 
+good place to get oriented to this chunk of the literature.  The book 
+represents a debate among five different species concepts, with the 
+papers organized into three sections.  In the first section, 
+proponents of each concept get a chapter to outline their views.  In 
+the second section, each of the proponents gets a chapter to indicate 
+what they think is wrong with each of the competing presentations, and 
+in the third section, each of the proponents gets a chapter to respond 
+to the criticisms made of their views.</P>
+
+<P>That book provides us with at least a start on a taxonomy of 
+species concepts.  Some workers have enumerated several dozens of 
+different species concepts, but most of those are just trivial 
+variants of others, and the classification in the Wheeler and Meier 
+book will amply serve my purposes.  Here is the layout:</P>
+
+<table summary="Wheeler and Meier" align="center">
+
+<TR><TH align="center">Proponent's name</TH><TH align="center">Unique identifier</TH><TH align="center">Proponent(s)</TH><TH align="center">Species Real?</TH></TR>
+<TR><TD>Biological</TD><TD>Interbreeding</TD> <TD>Mayr</TD> <TD align="center">Yes</TD></TR>
+<TR><TD>Hennigian</TD> <TD>Internode</TD> <TD>Meier & Willmann</TD> <TD align="center">Yes</TD></TR>
+
+<TR><TD>Phylogenetic I</TD> <TD>Diagnosable</TD><TD>Wheeler & Platnick</TD> <TD align="center">Yes</TD></TR>
+<TR><TD>Phylogenetic II</TD> <TD>Autapomorphic</TD> <TD>Mishler & Theriot</TD> <TD align="center">???</TD></TR>
+
+<TR><TD>Evolutionary</TD> <TD>Historical Roles</TD> <TD>Wiley & Mayden</TD> <TD align="center">Yes</TD></TR>
+</TABLE>
+
+<P>First is the so-called biological species concept.  Of course, this 
+concept is actually no more or less biological than any of its 
+competitors, so I call it the interbreeding concept.  It dates back to 
+the 1930's and views actual or potential interbreeding as the 
+touchstone of species.  Originally propounded by the vertebrate 
+zoologists of the Non Systematics movement, this concept never won 
+much favor with botanists, and since it doesn't apply at all to 
+asexually reproducing organisms, it is unquestionably unfit as a 
+general concept for systematics.  And, of course, we now recognize 
+that within any particular monophyletic group, retention of the 
+ability to interbreed is a plesiomorphic character, and hence not a 
+phylogenetically acceptable basis for classification.</P>
+
+<P>The Hennigian concept, dating back to the 1960's, is a 
+definite improvement, viewing species as internodes -- those units set 
+off by successive speciation events (or in some cases a speciation 
+event plus a later extinction event).  This takes care of the 
+interbreeding as plesiomorphy problem.  According to this view, 
+however, ancestral or stem species cannot survive speciation events; 
+they cease to exist even if one of their descendant species happens to 
+be identical in all known characteristics.  Any such actual example 
+would clearly represent a case of theory triumphing over data, hardly 
+an elegant solution to anything.</P>
+
+<P>The real phylogenetic species concept, dating back to the late 
+1970's, regards species as the smallest diagnosable samples of self-
+perpetuating organisms.  It differs from another concept sometimes 
+also called phylogenetic, the autapomorphic species concept, in 
+differentiating between species and higher taxa, in that regard.  
+Putative higher taxa, under the real phylogenetic species concept, 
+must be evidenced by autapomorphic characters, but species are not 
+required to have an autapomorphy, merely a unique combination of 
+characters.  In other words, species must be diagnosable, not 
+necessarily autapomorphic.</P>
+
+<P>You might think that the difference between diagnosable and 
+autapomorphic is insignificant, but consider one conceivable mode of 
+speciation, in which a tiny peripheral population of a widespread 
+species becomes isolated and eventually speciates.  The peripheral 
+isolate presumably has to develop at least one autapomorphy, in order 
+to be recognized as different from the original species.  If it is 
+possible for that to happen without the widespread population also 
+acquiring a new autapomorphy, then the "mother" population cannot 
+remain a species under the autapomorphic species concept, because it 
+no longer has any apomorphies not also shared by the peripheral 
+species.  Personally, I would argue that if the species we 
+systematists hypothesize are to be useful to other evolutionary 
+biologists, and most particularly to those biologists investigating 
+speciation mechanisms, then they must be agnostic with regard to modes 
+of speciation -- they cannot rule out some potential modes of 
+speciation, such as peripheral budding, simply by theoretical fiat.  
+Hence, to me, the autapomorphic species concept is simply 
+unacceptable.</P>
+
+<P>Finally, there is the so-called evolutionary species concept, 
+which dates back to Simpson rather than Mayr.  Here again, it is no 
+more or less evolutionary than any other concept, and I call it the 
+historical roles concept.  Proponents like Wiley say that an 
+evolutionary species is "an entity composed of organisms that 
+maintains its identity from other such entities through time and over 
+space, and which has its own independent evolutionary fate and 
+historical tendencies."  Since I don't know how to determine the 
+evolutionary fate or historical tendencies of any of my spider 
+species, I don't have much use for this mysticism.</P>
+
+<P>Interestingly, though, at least four of the five concepts seem 
+to view species as real, just as real as higher taxa.  Peculiarly, it 
+is the one concept that treats species and higher taxa identically 
+that has spawned some latter-day relunctance to view species as real!  
+Bizarre, isn't it?  I realize that not all the proponents of the 
+autapomorphic species concept take this approach to its logical 
+conclusion, but it is only under this concept that views like 
+Pleijel's could even surface.  Of course, for me, that's just another 
+reason to consider the autapomorphic species concept guilty, as 
+charged.  But that still leaves us with the question of how best to 
+reflect real taxa in our classifications.</P>
+
+<P>Back in the early days of the cladistics wars, it was 
+fashionable in some circles to see classification as a serious problem 
+for phylogeneticists.  The problem, of course, was imaginary.  As we 
+all now recognize, cladistic analysis gave us the tools to discover 
+that some groups, such as spiders, are natural, or putatively 
+monophyletic, and that other groups, such an invertebrates or 
+reptiles, are not.  Cladists, of course, argued that only monophyletic 
+groups should be included in classifications, and their opponents 
+argued that this creates an overly complex system with too many groups 
+being named.  That, of course, was merely a canard.  No monographer 
+is, or ever was, forced to name any groups that they don't (or didn't) 
+find it useful to name.  All that phylogenetics requires is that no 
+groups be named that are hypothesized to be non-monophyletic.</P>
+
+<P>For example, I recently published a monograph of the spider 
+family Lamponidae (Platnick, 2000), in which I recognized three 
+subfamilies, each of which is monophyletic according to the cladistic 
+analysis carried out in the monograph.  It is true that one of those 
+subfamilies represents the sister group of the other two, but I chose 
+not to apply a formal name to the latter group.  If someone else 
+wishes to, that's fine, but my classification is fully phylogenetic, 
+as it includes only putatively monophyletic groups.  There are even 
+conventions proposed, such as phyletic sequencing, where the order in 
+which taxa are listed in a formal classification provides information 
+about the branching pattern, without requiring additional names.</P>  
+
+
+<P>There are other conventions proposed, such as plesions, that can help 
+cope with the problems encountered in trying to include fossil 
+fragments in formal classifications as well.</P>
+
+<P>But the basic point is simple:  the Linnaean hierarchy is 
+inherently pre-adapted to presenting cladistic information, for the 
+hierarchy can mirror a cladogram in as much, or as little, detail as 
+one would like.  There are even conventions proposed for generating 
+lots of categorical ranks for such purposes, for those favoring 
+maximal amounts of detail.  And if you don't like extra named ranks, 
+you can always use a system like that recently suggested by Papavero, 
+Llorente-Bousquets, and Abe (2001), in which you just add a suffix, 
+like -1 or +2, to an existing group name to indicate that you're 
+talking about a group one or two nodes above or below the named one.</P>
+
+<P>It is very strange, therefore, that some systematists have 
+begun to argue that we need to abandon the Linnaean hierarchy 
+entirely.  You can often recognize these folks easily enough; they're 
+the ones wandering around in t-shirts that read "Phyla Schmyla" (which 
+is apparently a lapsus or mere printer's error; the shirts were 
+actually supposed to have read "Yale Schmale").  And, of course, these 
+are the same folks now promoting the so-called Phylocode (Cantino and 
+de Queiroz, 2000) as the cure to all our woes.</P>
+
+<P>It seems that there are at least two motivations behind this 
+movement, which I'm ashamed to say was originated by two 
+herpetologists from the U.S., Kevin De Queiroz and Jacques Gauthier.  
+One motivation, seemingly, is just to find some way to salvage non-
+monophyletic groups like Reptilia and Dinosauria, so that 
+herpetologists are not inconvenienced by increased understanding of 
+amniote interrelationships.  But the real motivation, and I'll quote 
+from De Queiroz & Gauthier (1990: 320), is that:</P>
+
+<P class="quote"><EM>"if the Darwinian Revolution is ever to occur in biological taxonomy 
+... then the role of the principle of descent must change ... from an 
+after-the-fact interpretation to a central tenet from which the 
+principles and methods of taxonomy are deduced. ... Previously, taxa 
+were considered to be defined by characters and only interpreted 
+after-the-fact as products of evolution."</EM></P>
+
+<P>In the benighted view of these authors, most if not all 
+previous systematists have been ignorant or misled essentialists or 
+typologists who have been so stupid as to use character-based 
+definitions or diagnoses of taxa.  Now one thing I've learned from 30 
+years of watching biologists is that whenever you find one systematist 
+calling another one an essentialist or a typologist, you can be 100% 
+sure that the name-caller is purely, simply, and entirely, wrong, and 
+is just creating a smokescreen to cover his or her tracks.  In this 
+case, there are a lot of tracks to cover, and they rank about as high 
+on the SIP scale as any I've encountered; the SIP scale, incidentally, 
+measures the levels of sanctimony, inflation, and pomposity.  Rest 
+assured, these authors truly believe that their proposals have already 
+created (and here again I quote), a "new era in biological taxonomy" 
+(de Queiroz & Gauthier, 1990: 312).  That's one brave new world I'd 
+choose to slide from!</P>
+
+<P>The complaints of these workers about the non-evolutionary 
+basis of the existing system are entirely specious and unconvincing 
+exercises in metaphysics, and are not worthy of serious attention.  
+Let's look instead at what they suggest is an improved system, which 
+they argue will do a better job of promoting explicitness, 
+universality, and stability of names, as now encapsulated in the draft 
+Phylocode.  To accomplish this goal, they wish to define the names of 
+taxa in terms of common ancestry, rather than characters.  My 
+colleagues Kevin Nixon and Jim Carpenter (2000) have therefore 
+referred to this view as the node-pointing or NP system.  Now that's a 
+highly unfortunate choice of terms, since NP is a fine pair of 
+initials that doesn't deserve to be sullied in such fashion; even my 
+wife's initials are NP, which I guess makes us an NP-complete family.  
+I'll call it the NB (or node-based) system instead, since that is the 
+phrase actually used by de Queiroz and Gauthier themselves, and "N.B." 
+has all the appropriate connotations.  Those authors and their fans 
+have repeatedly (i.e., de Queiroz and Gautheir, 1990, 1992, 1994, and 
+ad nauseum ever since) illustrated:</P>
+
+<P>Three classes of phylogenetic definitions</P>
+
+<ol class="indent">
+
+<li style="margin-bottom: 1em">A node-based definition is used to define the name of a clade 
+stemming from the most recent common ancestor of two specified 
+organisms, species or clades (e.g. Aves = the clade stemming from the 
+most recent common ancestor of Struthio camelus and Passer 
+domesticus).<br><br>
+[Of course, in the real world, you and I both realize that De Queiroz 
+and Gauthier don't actually have any knowledge whatsoever about the 
+most recent common ancestor of those two species; like us, they 
+actually know only the characters that happen to optimize at the node 
+of their preferred cladogram that happens to subtend those two taxa.]</li>
+
+<li style="margin-bottom: 1em">A stem-based definition is used to define the name of a clade of 
+all species sharing a more recent common ancestor with one specific 
+organism, species or clade than with another (e.g. Lepidosauromorpha = 
+Lepidosauria and all species sharing a more recent common ancestor 
+with Lepidosauria than with Archosauria).</li>
+
+<li>An apomorphy-based definition is used to define the name of a 
+clade stemming from the first ancestor to evolve a specified character 
+(e.g. Tetrapodomorpha = the clade stemming from the first vertebrate 
+to evolve pentadactyl limbs). (de Queiroz and Gauthier, 1994: 29).</li>
+
+</ol>
+
+<P>Of course, these are all old ideas, thoroughly discussed by Hennig and 
+others in the context of fossil fragments, stem groups, crown groups, 
+and the like.  A favorite example of these authors is the lizard 
+family Agamidae, and here again, I'll quote:</P>
+
+<P class="quote">"For example, the name 'Agamidae' might be defined as the clade 
+stemming from the most-recent common ancestor of Agama and Leiolepis.  
+Such a definition is thoroughly evolutionary in that the concept of 
+common ancestry is fundamental to the meaning of the name" (de Queiroz 
+and Gauthier, 1994: 29).</P>
+
+<P>As if the definition could possibly be one wit less evolutionary if it 
+concerned itself with the evidence from which those author's 
+conclusions about common ancestry were drawn (after-the-fact)!  The 
+reason they like this example is that the Agamidae is another one of 
+those groups, like Reptilia, that recent research suggests may be 
+artificial.  As their figure indicates, although these largely Old 
+World lizards were formerly divided into two separate families, the 
+Agamidae and Chamaeleonidae, some agamids may actually be closer to 
+chameleons than to other agamids.  To them, this is apparently a 
+tragedy.  An ordinary systematist would ask first, where on the 
+cladogram the type genus of the Agamidae happens to fall, and would 
+then choose a solution that conveys the phylogenetic information 
+accurately while doing the least possible damage to existing concepts.</P>  
+
+<P>Probably the easiest solution would be to restrict Agamidae to the 
+group including Agama and supply a new family-group name for the 
+remaining taxa previously misplaced in the Agamidae.  Alternatively, 
+all three clades could be lumped into a single family, a solution de 
+Queiroz and Gauthier dislike because the name Chameleonidae happens to 
+have priority over Agamidae.</P>
+
+<P>But de Queiroz and Gauthier are slippery as salamanders here, 
+and elsewhere.  Although they suggested that Agamidae might be defined 
+as "the clade stemming from the most-recent common ancestor of [just 
+two taxa] Agama and Leiolepis" they have also supplied a figure (and 
+other examples) in which six and three, respectively, descendent taxa 
+are used to point to nodes.  Apparently, their view is that the more 
+ambiguous our knowledge of relationships is, the more taxa should be 
+used to point to a given node.  As Nixon and Carpenter have shown, 
+however, the choice of taxa can have major effects on the stability of 
+the name involved.</P>
+
+<P>But ultimately, the question is what, exactly, it is that 
+remains stable.  In their lizard example, they suggest that:</P>
+
+<P class="quote">"Under phylogenetic definitions, 'Chamaeleonidae" retains its 
+association with the clade stemming from the most recent common 
+ancestor of the species represented by filled circles, and 'Agamidae' 
+retains its association with the clade stemming from the most recent 
+common ancestor of the species represented by open circles, although 
+the chamaeleonid species are now also thought to have descended from 
+this ancestor.  The manner in which the definitions are stated ensures 
+that no names designate paraphyletic taxa, and neither splitting nor 
+lumping occurs, but hierarchical relationships may be altered (e.g., 
+Chamaeleonidae is now judged to be nested within Agamidae)."</P>
+
+<P>As the last comment shows, what has actually been achieved, by 
+abandoning Linnaean ranks and categories, as they advocate, is merely 
+stability of spelling.  Here is the Linnaean classification before the 
+altered concepts of relationship:</P>
+
+<p class="example">Family Agamidae, containing taxa ABCDEF<BR>
+Family Chamaeleonidae, containing taxa GHI</p>
+
+<P>This Linnean classification accurately reflects the traditional view 
+of the interrelationships of these taxa, under which taxa A, B, and C 
+form the sister group of D, E, and F, with taxa G, H, and I 
+representing the sister group of A-F together.  What matters, here, 
+however, is not that particular cladogram.  What matters is that from 
+the information in these two lines:</P>
+
+<p class="example">Family Agamidae, containing taxa ABCDEF<br>
+Family Chamaeleonidae, containing taxa GHI,</p>
+
+<P>and that information alone, any systematist can deduce a whole series 
+of three-taxon statements of relationship, all of which must be true 
+if the classification is true:  (AB)G, (AB)H, (AB)I, (AC)G, etc. -- if 
+I've counted correctly, there are actually 63 such three-taxon 
+statements that follow from this classification.  Such inferences are 
+possible solely because of the use of Linnaean categories:  the 
+classification asserts that taxa A-F are not chamaeleonids, and that 
+taxa G-I are not agamids, and it is precisely those prohibitions that 
+allow the detailed hypotheses about relationships.  As Popper (1959) 
+has shown, it is also precisely by making prohibitions that hypotheses 
+become testable and hence scientific.<P>
+
+<P>Contrast that with the de Queiroz and Gauthier solution, which 
+looks like this:<P>
+
+<p class="example">[unranked group] Agamidae, containing taxa ABCDEFGHI<br>
+[unranked subgroup] Chamaeleonidae, containing taxa GHI</p>
+
+<p>From this classification, one can deduce only 18 three-taxon 
+statements:  (GH)A, (GH)B, etc.  They have indeed kept the spelling 
+stable, but at the cost of reducing the information content of the 
+classification by about 75%!  And the name Agamidae, although still 
+spelled the same, now refers to a different group (A-I rather than A-
+F).  Imagine what would happen if, for example, it turned out that 
+instead of being most closely related to crocodiles, birds are most 
+closely related to chameleons.  We would now have a node-based 
+definition in which Agamidae would still persist as the spelling of a 
+name, but would now refer to a group including both lizards and birds!  
+It would be hard to imagine a case that would better fit Gene 
+Gaffney's quip that stability equals ignorance.</P>
+
+<P>According to de Queiroz and Gauthier, "a name should not designate 
+different taxa [I guess they mean, unless the name is Agamidae], nor a 
+taxon be designated by different names, at different times."  By that 
+standard, it is difficult to see any benefit whatever to node-based 
+nomenclature.  Of the two original group names, one now designates 
+different taxa, and information content has been strangled.  If 
+instead we opt for:</P>
+
+<p class="example">Agamidae, containing taxa ABC<br>
+DEFidae, containing DEF<br>
+Chamaeleonidae, containing GHI</p>
+
+<P>(i.e., a conventional Linnaean classification, albeit one implying 
+nothing more than a basal trichotomy among these three families), 
+again one name now designates different taxa, but information content 
+decreases only to 54 three-taxon statements, rather than 18.</P>
+
+<P>If instead we opt for the more resolved, fully subordinated 
+classification:</P>
+
+<p class="example">Chamaeleonoidea, containing taxa ABCDEFGHI<br>
+    Agamidae, containing taxa ABC<br>
+    Chamaeleonidae, containging taxa DEFGHI<br>
+        DEFinae, containing DEF<br>
+        Chamaeleoninae, containing GHI</p>
+
+<P>two names now designate different taxa (although one of them also 
+remains accurate, with just a slight change in spelling) but 
+information content zooms, to 81 implied three-taxon statements.  In 
+this particular case, the phyletic sequencing option actually seems 
+optimal, for if our earlier arrangement:</P>
+
+<p class="example">Agamidae, containing taxa ABC<br>
+
+DEFidae, containing taxa DEF<br>
+Chamaeleonidae, containing taxa GHI</p>
+
+<P>is considered as sequenced, we can retrieve the full branching 
+pattern, and hence all 81 implied three-taxon statements, while 
+changing the meaning of only one name.<P>
+
+<P>If you are unhappy with implied three-taxon statements as a 
+measure of information content, then try other measures; based on the 
+comparisons by Mickevich and Platnick (1989), the results are unlikely 
+to differ significantly.  But consider for a moment what 
+classification is all about.  Is stability the primary goal of 
+classification?  Of course not!  The primary goal of classification is 
+and always has been maximal predictive power.  Cladists have long 
+argued that phylogenetic classifications are both the best summaries 
+of the limited character information already available, and the best 
+basis for making predictions about the much larger universe of as yet 
+unstudied characters.  Taxonomists are in the business of providing 
+highly predictive classifications on the basis on extremely small 
+amounts of data, and our track record of success, over the last two 
+and a half centuries, is none too shabby.  Every three-taxon statement 
+that a classification implies represents a prediction that whatever 
+future synapomorphies might be found, in any character system 
+whatever, may fit the pattern (A & B as opposed to)C but will not fit 
+the two conflicting patterns (A & C as opposed to)B or (B & C as 
+opposed to)A.  Again, scientific classifications prohibit things.</P>
+
+<P>In contrast, the NB system achieves stability in spelling only, and 
+often at great expense in terms of sacrificed information content and 
+predictive power.  Ultimately, no NB system can possibly produce a 
+more predictive classification than would a fully informative, 
+completely subordinated, sequenced, or otherwise conventioned Linnaean 
+hierarchy based on the same cladogram.  In other words, there is no 
+possible potential gain in predictive power to be achieved by 
+switching to an NB system, and many possible potential losses of that 
+power.</P>
+
+<P>In short, it would indeed be rational to consider abandoning 
+the Linnaean hierarchy, if by so doing we could achieve 
+classifications with greater information content and increased 
+predictive power.  In my opinion, however, abandoning the Linnaean 
+hierarchy in order to achieve stability in spelling accompanied by 
+instability in meaning, frequently decreased information content, and 
+frequently decreased predictive power is simply not rational.  As a 
+goal, stability in spelling seems dubious, at best; is this approach 
+most stably spelled i-n-s-a-n-e, or merely i-n-a-n-e?</P>
+
+<P>Let me close with one final example, involving (of course) 
+spiders.  I was wandering around John Murphy's garden out in Hampton, 
+and came across a nice jumping spider.  Now, jumping spiders, the 
+family Salticidae, are probably the easiest of all spider families to 
+recognize.  With their large anterior median eyes, their excellent 
+vision, the often highly exuberant and ornamented morphology that 
+males use in their elaborate courtship displays, and their prowess at 
+jumping on prey several body-lengths away, salticids are quite 
+distinctive.  Probably the vertebrate analog would be best exemplified 
+in Archie Carr's Subjective Key to the Fishes of Alachua County, 
+Florida, in which the first couplet reads "Any damn fool knows a 
+catfish."  The botanical analog might be the mints, which may be the 
+only plant family duffers like me can manage to recognize 
+successfully, wherever we roam!</P>
+
+<P>A fair chunk of my time over the past 15 years has been spent 
+on The World Spider Catalog (Platnick, 2001), which is now easily 
+accesible via the aptly-named World Wide Web.  The catalog provides a 
+listing of all the currently valid spider species, all the other names 
+that have ever been applied to them in the past, and all the citations 
+to every important taxonomic treatment ever published on every one of 
+those species.  To my knowledge, the only thing like it currently 
+available for any other sizable group of organisms is Bill Eschmyer's 
+catalog of the fishes.  If you visit the site, you'll find a summary 
+table that shows, for each of the 109 currently recognized spider 
+families, the numbers of currently valid genera and species, 
+including, at the very end of the list, the salticids, with 4,834 
+species.</P>
+
+<P>Using the Linnaean hierarchy, when I identified the spider in 
+John's garden as a salticid, I was asserting that John's spider is 
+more closely related to any single species currently included within 
+the Salticidae than it is to any single species that is currently 
+excluded from that family.  In other words, if my identification, and 
+the current classification, are both correct, then John's spider is 
+more closely related to salticid species #1 than it is to any of the 
+32,752 spider species currently excluded from the Salticidae.  It is 
+also more closely related to salticid species #2 than it is to any 
+non-salticid spider.  So, assuming that the spider from John's garden 
+belongs to one of the currently known 4,834 salticid species (and this 
+being England, that's certainly a fair assumption), then my 
+identification enables 4833 (other salticids) times 32,752 (non-
+salticids) three-taxon statements.  So by placing the animal as a 
+salticid, the current Linnaean hierarchy allows me to make 158,290,416 
+three-taxon statements about it, within spiders alone.  If I were to 
+expand the arena to include all arthropods, or all life, the number of 
+implied three-taxon statements would, for all practical purposes, 
+approach one-third of infinity -- the other two-thirds would be 
+prohibited.  That's none too shabby, for a single word -- Salticidae 
+(admittedly, in a context provided -- solely -- by the Linnaean 
+hierarchy, and the mutual exclusivity of equally ranked names it 
+requires).</P>
+
+<P>Contrast that with an identical list of names that happen to 
+end in "idae," and the numbers of genera and species they contain, but 
+now under the assumption that the NB system is in use.  Salticidae 
+still refers to a group, that is still presumably monophyletic, but 
+one can no longer infer anything about the status of the species 
+included in other groups.  Thus, for example, even the first family on 
+that list, the Liphistiidae, could in fact, in the current 
+classification, be just a subgroup of the Salticidae.  The fact that 
+both names end in "idae" -- in the NB system -- does not prevent 
+either group from being a subgroup of the other.  Now, in fact, 
+calling John's spider a salticid does not allow me to make even a 
+single three-taxon statement involving any other species.  I can't say 
+that it must be more closely related to another salticid than to a 
+liphistiid, because Liphistiidae might in fact constitute the sister-
+taxon of John's species, for all I know (or, more accurately, for all 
+the names in an NB system could ever let me know; unlike an NB 
+systematist, I do actually know better than that!).</P>
+
+<P>So, let's see, we have John's salticid and either the Linnaean 
+hierarchy, with 158 million predictions about spiders alone, or the NB 
+system, with no useful predictions at all.  The Linnaean system, with 
+built-in exclusivity that forces classifications to prohibit things 
+and thereby become scientific hypotheses, or the NB system, in which 
+classifications prohibit nothing and names, by themselves, become mere 
+propaganda, like the Phylocode itself.  Gee, life is full of tough 
+choices, isn't it?</P>
+
+<P>Literature Cited</P>
+
+<p class="refs">Cantino, P. D., and K. de Queiroz.  2000.  Phylocode: a phylogenetic 
+code of biological nomenclature.  Online at 
+<a href="http://www.ohiou.edu/phylocode">http://www.ohiou.edu/phylocode</a>.</p>
+
+<p class="refs">De Queiroz, K., and J. Gauthier.  1990.  Phylogeny as a central 
+principle in taxonomy: phylogenetic definitions of taxon names.  Syst. 
+Zool. 39: 307-322.</p>
+
+<p class="refs">De Queiroz, K., and J. Gauthier.  1992.  Phylogenetic taxonomy.  Ann. 
+Rev. Ecol. Syst. 23: 449-480.</p>
+
+<p class="refs">De Queiroz, K., and J. Gauthier.  1994.  Towards a phylogenetic system 
+of biological nomenclature.  Trends Ecol. Evol. 9: 27-31.</p>
+
+<p class="refs">Krantz, G. W., and N. I. Platnick.  1995.  On Brucharachne, the spider 
+that wasn't (Arachnida, Acari, Dermanyssoidea).  Amer. Mus. Novit. 
+3151: 1-8.</p>
+
+<p class="refs">Mickevich, M. F., and N. I. Platnick.  1989.  On the information 
+content of classifications.  Cladistics 5: 33-47.</p>
+
+<p class="refs">Nixon, K. C., and J. M. Carpenter.  2000.  On the other "phylogenetic 
+systematics."  Cladistics 16: 298-318.</p>
+
+<p class="refs">Papavero, N., J. Llorente-Bousquets, and J. M. Abe.  2001.  Proposal 
+of a new system of nomenclature for phylogenetic systematics.  Arq. 
+Zool. Mus. Zool. Univ. Sao Paulo 36: 1-145.</p>
+
+<p class="refs">Platnick, N. I.  2000.  A relimitation and revision of the 
+Australasian ground spider family Lamponidae (Araneae: Gnaphosoidea).  
+Bull. Amer. Mus. Nat. Hist. 245: 1-330.</p>
+
+<p class="refs">Platnick, N. I.  2001.  The World Spider Catalog, Version 2.0.  
+American Museum of Natural History, online at 
+
+<a href="http://research.amnh.org/entomology/spiders/catalog81-87/index.html">http://research.amnh.org/entomology/spiders/catalog81-87/index.html</a>.</p>
+
+<p class="refs">Pleijel, F.  1999.  Phylogenetic taxonomy, a farewell to species, and 
+a revision of Heteropodarke (Hesionidae, Polychaeta, Annelida).  Syst. 
+Biol. 48: 755-789.</p>
+
+<p class="refs">Popper, K.  1959.  The Logic of Scientific Discovery.  Harper and Row, 
+New York.</p>
+
+<p class="refs">Wheeler, Q. D., and R. Meier (eds.).  2000.  Species Concepts and 
+Phylogenetic Theory: A Debate.  Columbia Univ. Press, New York.</p>
+
+
+<p>The address is also available as an Adobe © Acrobat .pdf file <a href="platnick.pdf">here</a>.</p>
+
+<hr>
+
+<p>You may also be interested to read the <a href="http://www.systass.org/events_archive/phylocode-debate.html">following 
+debate</a> between Mike Lee (for); Gary Nelson (against)held during the Joint Conference 
+of the Australasian Evolution Society and the Society of Australian Systematic Biologists, 
+16-18 July 2001, University of Melbourne."</p>
+
+<p>Read <a href="Jake_Alexander_Essay.pdf">'The future of biological taxonomy? Does 
+the PhyloCode offer a viable alternative to traditional Linnaean taxonomy?'</a>
+an essay by Jake Alexander.  Available <a href="Jake_Alexander_Essay.pdf">here</a>.</li>
+
+<p>The official PhyloCode web site can be found here <a href="http://www.ohiou.edu/phylocode/" target="_blank">http://www.ohiou.edu/phylocode/</a>.</p>
+</ul>
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Banner ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 4 February 2007
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

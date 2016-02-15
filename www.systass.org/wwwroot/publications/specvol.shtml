@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association Special Volume Series</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Special Volume Series</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Quick links</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;"><a href="/publications/#buy">Buying books</a><br>
+		 <a href="/publications/specvol.shtml">Special volume series</a><br>
+ 		 <a href="/publications/#newbook">Looking for somewhere to publish systematics?</a><br>
+		 <a href="/publications/catalogue.shtml">Our publications</a></p>		 
+		 </div>
+		 <hr>
+<p class="title">Looking for somewhere to publish systematics?</p>
+<p class="textsmall">In partnership with our new publisher, Cambridge University Press, The Systematics 
+Association offers great opportunities for authors and editors seeking to publish 
+their work. If you have an idea for a themed multiauthor volume (not necessarily 
+based on a symposium) or a textbook, and would like this to be produced at high quality 
+and promoted by both the Association and CUP, then please contact 
+the Editor-in-Chief, David Gower (
+<script type="text/javascript"><!--
+  var usr = "d.gower";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//--></script>).</p>
+<hr>		 
+
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">The Systematics Association Special Volume Series currently published by <a href="http://www.cambridge.org/gb/academic/subjects/life-sciences/evolutionary-biology/series/systematics-association-special-volume-series" rel="external">Cambridge University Press</a></p>
+
+<!--         <div style=
+        "display: block; margin-left: auto; margin-right: 5px; float: left;">
+        <img src="covers/v81.png" width="150" height="197" alt=
+        "Evolution of Plant-Pollinator Relationships, volume 81" title=
+        "Evolution of Plant-Pollinator Relationships, volume 81">
+        </div> -->
+				
+<img src="covers/v84.png" width="150" height="197" alt=
+        "Descriptive Taxonomy - The Foundation of Biodiversity Research, volume 84" title=
+        "Descriptive Taxonomy - The Foundation of Biodiversity Research, volume 84">
+				
+				
+<p>Series Editor<br>
+David J. Gower<br>
+Department of Zoology, The Natural History Museum, London SW7 5BD, UK</p>
+
+<p>The first of the Systematics Association's publications <em>The New Systematics</em> (1940) 
+was a classic work edited by its then-president Sir Julian Huxley. Since then, more 
+than 70 volumes have been published, often in rapidly expanding areas of science 
+where a modern synthesis is required.</p>
+
+<p>The Association encourages researchers to organize symposia that result in 
+multi-authored volumes. In 1997 the Association organized the first of its international 
+Biennial Conferences. This and subsequent Biennial Conferences, which are designed 
+to provide for systematists of all kinds, included themed symposia that resulted 
+in further publications. The Association also publishes volumes that are not specifically 
+linked to meetings, and encourages new publications (including textbooks) in a broad 
+range of systematics topics.</p>
+
+<p>For a full list of volumes published by Cambridge University Press 
+<a href="http://www.cambridge.org/gb/academic/subjects/life-sciences/evolutionary-biology/series/systematics-association-special-volume-series?layout=listing&pageSize=&sortOrder=answerMpubDate_unified_C%5Bdesc%5D" rel="external">visit their website</a></p>
+
+<p>Recent Systematics Association publications are <a href="/publications/catalogue.shtml">
+listed here</a>; a full list of publications is <a href="SystematicsAssociationPublicationList.pdf">available</a>.
+
+</p>
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<!--#include virtual="/incl/w3c.inc" -->
+Last updated: 13 October 2014
+<!--#include virtual="/incl/webmaster-email.inc" -->
+
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

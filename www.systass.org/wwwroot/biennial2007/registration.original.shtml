@@ -1,0 +1,198 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Biennial 2007 Registration Page</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<a name="_top"></a>
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/biennial2007-100px.png" width="90" height="90" 
+alt="Professor David G. Mann Arachne's Disc, Puget Sound, Washington, USA. Used for the SA Biennial 2007"
+title="Professor David G. Mann Arachne's Disc, Puget Sound, Washington, USA. Used for the SA Biennial 2007" />
+<p>6th Biennial Meeting: August 2007<br>
+Royal Botanic Garden, Edinburgh</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<p class="title">Quick links</p>
+		 <div class="textsmall">
+		 <p style="text-align: right">
+		 <a href="delegate-info.shtml">Delegate Information</a> <strong>New!</strong><br>		 
+		 <a href="index.shtml#Introduction">Introduction</a><br> 
+		 <a href="index.shtml#Bursaries">Bursaries</a><br>
+		 <a href="index.shtml#Deadlines">Deadlines!</a><br> 
+		 <a href="index.shtml#Themes">Themes</a><br>
+		 <a href="symposia.shtml">Symposia</a><br>
+		 <a href="index.shtml#Programme">Programme</a><br>
+		 <a href="#Registration">Registration</a><br>
+		 <a href="#Fees">Fees</a><br>
+ 		 <a href="#Abstracts">Abstracts</a><br>
+		 <a href="#Posters">Posters</a><br>
+		 <a href="#Students">Students</a><br>
+		 <a href="#Accommodation">Accommodation</a><br>
+		 <a href="#Meals">Meals</a><br>
+		 <a href="location.shtml#Edinburgh">Edinburgh</a><br>
+		 <a href="location.shtml#Travel">Travel</a><br>
+		 <a href="location.shtml#Venues">Venues</a><br>
+		 <a href="location.shtml#Weather">Weather</a><br>
+		 <a href="index.shtml#Organisers">Contacts information</a><br>
+		 <a href="/membership/"><strong>Join</strong> the Systematics Association!</a></p>
+		 <hr>
+		 <p><!-- some other text --></p>
+		 </div>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">28th - 31st August 2007</p>
+	 <a name="Registration"></a><p class="title">Registration</p>
+
+<p>Registration via the AAB webpage is now closed. If you wish to attend this meeting 
+and have not yet registered please contact 
+ <script type="text/javascript"><!--
+  var disp = "j.barrett";
+  var usr = "j.barrett";
+  var dom = "rbge.ac";
+  var tld = "uk";
+  var ady = disp + "@" + dom + "." + tld;
+	var dispady = usr + "@" + dom + "." + tld;
+  document.write("(<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>)")
+//--></script>. Registration will be 
+subject to a late registration fee of &pound;30.</p>
+
+
+<a name="Fees"></a><p class="title">Registration Fees</p>
+
+<table>
+<tr><td>Non-members</td><td>&pound;150</td></tr>
+
+<tr><td>Members</td><td>&pound;125</td></tr>
+<tr><td>Students</td><td>&pound;95</td></tr>
+<tr><td>Daily Students</td><td>&pound;25</td></tr>
+<tr><td>Daily Members</td><td>&pound;50</td></tr>
+<tr><td>Daily Non-members</td><td>&pound;60</td></tr>
+<tr><td colspan="2">Additional late registration fee (payable after <strong>30 June 2007</strong>) &pound;30</td></tr>
+
+</table>
+ 
+<p class="title">Cancellation fees.</p>
+<p>All refunds will be partial, as an administration fee of &pound;60 will be retained 
+from all cancelled reservations, and all accommodation booked through the conference is non-refundable.</p> 
+
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="Abstracts"></a><p class="title">Abstracts</p> 
+<p>The closing date for Abstracts submission was the <strong>30 June 2007</strong>. 
+The programme has now been finalized, and we can no longer accept abstracts.</p> 
+
+<p><strong>Having Trouble?</strong> If you experience any difficulty with the website, please contact us at 
+ <script type="text/javascript"><!--
+  var disp = "edinburgh.biennial";
+  var usr = "edinburgh.biennial";
+  var dom = "systass";
+  var tld = "org";
+  var ady = disp + "@" + dom + "." + tld;
+	var dispady = usr + "@" + dom + "." + tld;
+  document.write("(<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>)")
+//--></script>
+</p> 
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="Posters"></a><p class="title">Posters</p>
+
+<p>Posters should be <strong>vertically oriented</strong> maximum size of A0 841mm 
+(33.1 inches) wide &times; 1,189 mm (46.8 inches) long.  Poster abstracts can no longer be submitted.</p>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="Accommodation"></a><p class="title">Accommodation</p>
+<P><img style="float: right; margin-left: 5px;" src="stleonards-pollock-halls.jpg" width="200" height="131" 
+alt="St Leonards Pollock Halls of Residence" 
+title="St Leonards Pollock Halls of Residence" />
+Accommodation booking through the conference registration system is now closed. Rooms 
+may still be available at the University of Edinburgh's Pollock Halls, but it is now 
+the responsibility of individual delegates to make their accommodation arrangements. 
+To make a booking at Pollock Halls please<br>
+phone + 44 (0) 131 651 2007<br>
+email 
+<script type="text/javascript"><!--
+  var disp = "bed.breakfast";
+  var usr = "bed.breakfast";
+  var dom = "ed";
+  var tld = "ac.uk";
+  var ady = disp + "@" + dom + "." + tld;
+	var dispady = usr + "@" + dom + "." + tld;
+  document.write("(<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>)")
+//--></script><br>
+visit the website <a href="http://www.edinburghfirst.com/" rel="external">www.edinburghfirst.com</a><br>
+When making an individual booking at Pollock Halls please state that you are part 
+of the Systematics Association Conference.</p>
+
+<p><strong>Other accommodation (hotels, B&amp;B etc)may be available, but because Edinburgh is very busy 
+during the summer, it is essential that you book very early!  August is 
+Festival season in Edinburgh, and both availability and prices can be limiting.</strong></p>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="Meals"></a><p class="title">Meals</p>
+<p>There is a wide variety of caf&eacute;s and bars close to RBGE or packed lunches are available 
+for approximately &pound;5.</p>
+
+<p>Dinners at Pollock Halls will be available for approximately &pound;11 
+each (meal tickets can be purchased on the day at Residence Halls reception), and 
+the city is home to an extensive range of restaurants which provide alternative evening 
+meal options from budget to fine dining.</p>
+
+<p><a href="location.shtml#Venues">Conference Dinner and Ceilidh</a> 
+on 30 August 2007, &pound;45.</p>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<p><strong class="big">Contacts</strong><br>
+For further information on the conference email: 
+ <script type="text/javascript"><!--
+  var disp = "edinburgh.biennial";
+  var usr = "edinburgh.biennial";
+  var dom = "systass";
+  var tld = "org";
+  var ady = disp + "@" + dom + "." + tld;
+	var dispady = usr + "@" + dom + "." + tld;
+  document.write("(<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>)")
+//--></script>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<p></p>		 
+		 
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Bar ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 10 July 2007
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

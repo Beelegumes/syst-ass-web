@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - Elections
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/SystAssLogo-100.png" width="81" height=
+        "100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          the Systematics Association
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Join
+        </p>
+        <div class="textsmall">
+          <p>
+            To join the Systematics Association, visit the
+            <a href="/membership/">Membership page</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          Officers
+        </p>
+        <div class="textsmall">
+          <p>
+            For further details of the officers and their <a href="/Council/SystAss Job Descriptions.pdf">roles</a>, visit the
+            <a href=
+            "/council/2014council.shtml#officers">Officers
+            page</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          Council
+        </p>
+        <div class="textsmall">
+          <p>
+            For further details of the council members, visit the
+            <a href="/council/2014council.shtml">Council members
+            page</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          Constitution/Rules
+        </p>
+        <div class="textsmall">
+          <p>
+					The Rules of the Association<br>
+					<a href="/about/Rules_(as_of_October_2012).pdf">can be found here</a>
+          </p>
+        </div>
+        <hr>
+        <p>
+          Other Systematics Associations
+        </p>
+        <div class="textsmall">
+          <p>
+            <a href="http://sfs.snv.jussieu.fr/" rel=
+            "external">Soci&eacute;t&eacute; Fran&ccedil;aise de
+            Syst&eacute;matique</a><br>
+            <a href="http://www.gfbs-home.de/" rel=
+            "external">Gesellschaft f&uuml;r Biologische
+            Systematik</a><br>
+            <a href="http://www.swiss-systematics.ch/" rel=
+            "external">Swiss Systematics Society</a><br>
+            <a href="http://www.cladistics.org/" rel=
+            "external">Willi Hennig Society</a><br>
+            <a href="http://systbiol.org/" rel="external">Society
+            of Systematic Biologists</a><br>
+            <a href="http://www.sasb.org.au/" rel=
+            "external">Society of Australian Systematic
+            Biologists</a>
+          </p>
+        </div>
+        <hr>
+        <!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+
+
+<p class="title">Nominations for Council</p>
+
+<p>The process for selecting new members of Council of the Systematics Association has begun.  
+The term of office will be for three years from November 2015 until November 2018.  
+A call for nominations has been announced, candidates' names should be submitted 
+<!-- by e-mail (<a href="mailto:nominate.president@systass.org">nominate.president@systass.org</a>) --> no later than <strong>20 November 2015</strong>.  The successful candidate will 
+be announced at the Annual General Meeting (AGM) to be held on <strong>Wednesday 27 November 2014</strong> 
+at the Linnean Society of London, Burlington House.</p>
+
+Timetable:
+<ul>
+<li><strong>NOW CLOSED</strong> Call for nominations closes <strong>8 October 2014</strong></li>
+<li>Nominations approved by Council <strong>15 October 2014</strong></li>
+<li>Voting opens <strong>22 October 2014</strong></li>
+<li>Voting closes <strong>20 November 2014</strong></li>
+<li>Results announced at AGM <strong>27 November 2014</strong> and President elect confirmed</li>
+<li>Robert Scotland steps down and President elect assumes role after the 2015 AGM</li>
+</ul>
+
+Process: 
+<p>Candidates' names should be proposed and seconded by two Systematics Association 
+members <!-- via (<a href="mailto:nominate.president@systass.org">nominate.president@systass.org</a>) --> no later than <strong>8 October 2014</strong>.  Please include the <strong>name</strong> and <strong>address</strong> 
+of the candidate together with the <strong>names</strong> and <strong>addresses</strong> of the <strong>proposer</strong> and <strong>seconder</strong> 
+as well as a <strong>short statement of the candidate's interests</strong>. 
+Nominations will be verified by the Secretary and Membership Secretary and the candidate's willingness to stand 
+will be checked.  Nominations will be formally approved by Council.  If more than 
+one candidate is nominated then a ballot will be conducted and the results will 
+be announced at the 2014 AGM.  The successful candidate will take up the role of 
+President elect from the 2014 AGM and spend the following year shadowing the President until they  
+take over from the 2015 AGM.  The term of office will run for three years until 
+the 2018 AGM</p>
+
+Nominations:
+<p><strong>Have now closed</strong></p>
+
+<hr>
+
+
+     
+        <p>
+          To join the Systematics Association, visit the <a href=
+          "/membership/">Membership page</a>.
+        </p>
+        <p style="text-align: center">
+          <strong>Registered Charity Number 270429</strong>
+        </p><!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom banner ?links? -->
+        <!--#include virtual="/incl/w3c.inc" -->
+        Last updated: 10 October 2014 
+        <!--#include virtual="/incl/webmaster-email.inc" -->
+         <!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

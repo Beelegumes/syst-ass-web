@@ -1,0 +1,767 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Phylocode Page</title>
+</head>
+<body>
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/systlogo.gif" alt="[Logo]">
+<p>Phylocode</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Links</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;"><a href="/archive/phylocode/">Phylocode</a><br>
+		 <a href="http://listserv.nhm.ku.edu/archives/taxacom.html" target="_blank">Taxacom</a><br>
+		 <a href="http://www.ohiou.edu/phylocode/" target="_blank">PhyloCode website</a></p>
+		 </div>
+		 <hr>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">the Phylocode debate</p>
+
+<p>"Phylocode debate -- Mike Lee (for); Gary Nelson (against)"
+held during the Joint Conference of the Australasian Evolution Society
+and the Society of Australian Systematic Biologists, 16-18 July
+2001, University of Melbourne."</p>
+
+<p><strong>an unpublished talk reproduced with the permission of Gary Nelson</strong></p>
+
+<p>Phylocode claims to be a new and alternative system of
+nomenclature for botany and zoology.</p>
+
+<p>It exists as a draft document on the Internet, perhaps to be
+further developed, perhaps one day adopted, or perhaps forgotten,
+by the future.</p>
+
+<p>It claims to apply the idea of common ancestry to biological
+nomenclature, so as to complete the Darwinian Revolution -- the
+overthrow of alleged essentialism and typological thinking of
+Linnaean systematics and its nomenclature.</p>
+
+<p>It claims that Linnaean nomenclature, whether botanical or
+zoological, is defective enough so as to be insufficient for
+modern needs.</p>
+
+<p>It claims that Phylocode is fully sufficient for modern needs,
+achieved by abolishing ranks and binomial nomenclature, and by
+adopting a certain distinction between the ideas of definition
+and diagnosis.  The distinction leads to an original proposal
+about types and their function.</p>
+
+<p>These claims stem from herpetological research done in
+California during the 1980s primarily by graduate students Kevin
+de Queiroz and Jacques Gauthier, at San Diego State and UC
+Berkeley.  Kevin is currently a curator at the US National
+Museum, and Jacques a Professor at Yale University.</p>
+
+<p>These claims, or slogans, have been repeated enough in recent
+years to cause discussion and to provoke criticism.</p>
+
+<p>I begin with criticism.</p>
+
+<p>First from Norman Platnick during an NSF workshop on
+systematic monographs, for the benefit of students, held at the
+US National Museum about a year ago.</p>
+
+<p>Let me read some of Norman's words:</p>
+
+<p class="Cite">"Now one thing I've learned from 30 years of watching
+biologists is that whenever you find one systematist calling
+another one an essentialist or a typologist, you can be 100% sure
+that the name-caller is purely, simply, and entirely, wrong, and
+is just creating a smokescreen to cover his or her tracks.  In
+this case, those tracks rank about as high on the SIP scale as
+any I've encountered; the SIP scale, incidentially, measures the
+levels of sanctimony, inflation, and pomposity.  Rest assured,
+these authors truly believe that their proposals have already
+created (and here again I quote), 'a new era in biological
+taxonomy' (de Queiroz & Gauthier, 1990:312).  That one brave
+new world I'd choose to slide from!"</p>
+
+<p>Next a review paper published last year in Cladistics by the
+botanist Kevin Nixon and the entomologist James Carpenter.  They
+contested all the claims of Phylocode.</p>
+
+<p>They are most unsettled by the:</p>
+
+<p class="Cite">"condescending tone toward the vast bulk of taxonomists."</p>
+
+<p>And the implication that</p>
+
+<p class="Cite">"Taxonomists have been largely unaware of Aristotelian
+perspective on definitions."</p>
+
+<p>Next a paper published last year in Biological Reviews by
+Michael Benton, a vertebrate paleontologist from the UK. </p>
+
+<p>I'll pass to the last sentence, which refers to Linnaean
+nomenclature:</p>
+
+<p class="Cite">"if it ain't broke, don't fix it."</p>
+
+<p>Next, a botanical symposium, a few months ago at the US
+National Museum: </p>
+
+<p>Linnaean Taxonomy in the 21<sup>st</sup> Century.</p>
+
+<p>And a contribution from Peter Forey, fish paleontologist from
+the British Museum.</p>
+
+<p>The title tells it all: </p>
+
+<p class="Cite">"Phylocode -- Pain No Gain"</p>
+
+<p>From Platnick to Forey, spiders and fossil fishes;</p>
+
+<p>Nixon & Carpenter, plants and wasps;</p>
+
+<p>Benton, fossil tetrapods;</p>
+
+<p>There is commonality of perspective and of criticism damaging
+to Phylocode -- enough perhaps to leave it dead on the vine.</p>
+
+<p>Finally, some contributed comment [to the Bot. Symp.].</p>
+
+<p>From Quentin Wheeler, the eloquent entomologist:</p>
+
+<p class="Cite">"Linnaean nomenclature is stable enough to say what we know,
+flexible enough to accommodate what we learn; independent of
+specific theory, yet reflective of known empirical data;
+compatible with phylogenetic theory, but not a slave to it;
+particular enough for precise communication, general enough to
+reflect refuted hypotheses.  LN is an effective international,
+inter-generational, and trans-theoretical system of
+classification that was forged and tested by those describing the
+earth's biota, not touting political slogans.  It has weathered
+more worthy adversaries than the Phylocode and will be in wide
+use long after the latter is a curious footnote to the history of
+taxonomy."</p>
+
+<p>I turn now to the distinction, fundamental to Phylocode,
+between Definition and Diagnosis.</p>
+
+<p>This appears in the Master's Degree of Kevin de Queiroz, San
+Diego State, Fall 1985 -- a thesis on bones of iguanas, Richard
+Etheridge supervisor:</p>
+
+<p class="Cite">"For each taxon I include: 1) the type on which the taxon is
+based, 2) the etymology of the name, 3) a phylogenetic definition
+(Gauthier et al 1986), 4) a diagnosis consisting of hypothesized
+synapomorphies, 5) the current distribution, 6) fossil records 7)
+various comments."</p>
+
+<p>The reference to Gauthier et al. is to a paper subsequently
+published in a memorial volume to Charles Camp, on the subject of
+phylogenetic relationships among lizard families.</p>
+
+<p>Kevin begins with the subfamily Iguaninae, with the
+definition: </p>
+
+<p class="Cite">"The most recent common ancestor of Brachylophus, Dipsosaurus,
+and [the tribe] Iguanini, and all of its descendants."</p>
+
+<p>There are some 30 species in the subfamily.  The relationships
+of these New World lizards are shown here, a figure from the Camp
+volume.</p>
+
+<p>Remember the definition:</p>
+
+<p class="Cite">"The most recent common ancestor of Brachylophus, Dipsosaurus,
+and [the tribe] Iguanini, and all its descendants."</p>
+
+<p>I recall William K Gregory, of the American Museum two
+generations before me.  He received a PhD from Columbia
+University in 1907.  He said that, traditionally, there are two
+ways to define, diagnose, describe, or differentiate a taxon --
+as if the difference between the two ways were between
+tweedle-dum and tweedle-dee: </p>
+
+<p>1:   To make a list of its characters. </p>
+
+<p>2:  To make a list of its members -- its subtaxa:</p>
+
+<p class="Cite">Brachylophus, Dipsosaurus, and [the tribe] Iguanini.</p>
+
+<p>Anyway, in the Gauthier et al. paper in the Camp volume one
+reads:</p>
+
+<p class="Cite">"The above criterion also has the virtue of clearly
+distinguishing between the definition of a taxon and its
+diagnosis.</p>
+
+<p class="Cite">Taxa that are defined by characters possessed by their members
+are typological concepts.</p>
+
+<p class="Cite">By defining taxa in terms of ancestry, as we have done, such
+taxa will be truly phylogenetic concepts (de Queiroz, 1988).</p>
+
+<p class="Cite">Characters, which enable us to recognize taxa, are used to
+diagnose taxa in phylogenetic taxonomies, but they cannot define
+them."</p>
+
+<p>Does the reference to "the most recent common ancestor" add
+anything to Gregory's simple list of subtaxa? -- Brachylophus,
+Dipsosaurus, and [the tribe] Iguanini? </p>
+
+<p>The question can be argued, but I don't argue it here.</p>
+
+<p>Instead, let me tell you about my friend Charlie.</p>
+
+<p>We went fishing in the ocean the other day, caught lots of big
+ones, and as they were hauled aboard a few remoras dropped off
+onto the boat deck.</p>
+
+<p>Up to a meter long, rémoras, or remóras if you
+like,</p>
+
+<p>lack a spinous dorsal fin.  In its place is a sucking disk on
+top of the head, permitting the fish to attach to, and ride along
+with, larger animals -- billfishes, sharks, whales, turtles, even
+boats and ships -- as they move through the water.</p>
+
+<p>Charlie sorted through the remoras on the deck and
+exclaimed:</p>
+
+<p class="Cite">"There are eight different species here -- all that are known
+in the world.  There's <i>Remora brachyptera, Echeneis
+naucrates</i>, <i>Phtheirichtys lineatus</i>."</p>
+
+<p class="Cite">"That's nice, Charlie," I said.  "This must be the first time
+in history that they were all collected together."</p>
+
+<p class="Cite">"I've been thinking," he said, "how fish families should each
+have a phylogenetic definition, like in the Phylocode.  I'm gonna
+give one for the remora family."</p>
+
+<p class="Cite">"That's nice Charlie," I asked, "how do you do <i>
+that</i>?"</p>
+
+<p class="Cite">"Oh, it's easy.  Anybody can do it.  You don't have to know a
+thing."</p>
+
+<p class="Cite">"That's nice Charlie, but how can <i>that</i> be true?"</p>
+
+<p class="Cite">"I'll show you," he said. </p>
+
+<p>He selected one specimen of each of the eight species, put
+them into an array like this one, took a picture with his digital
+camera, and, in a loud voice and pointing to the eight specimens
+on the deck, said:</p>
+
+<p class="Cite">"The most recent common ancestor of these eight fishes, and
+all its descendants."</p>
+
+<p class="Cite">"Charlie, what <i>are</i> you on about?"</p>
+
+<p class="Cite">"Oh," he said, "with a phylogenetic definition the family
+becomes really meaningful.  Before, it was only an empty
+abstraction in the mind."</p>
+
+<p class="Cite">"And now, Charlie?"</p>
+
+<p class="Cite">"Now?  Well, the old family had just one type, the genus <i>
+Echeneis</i>.  That's typology and essentialism. </p>
+
+<p class="Cite">The new family, well it won't be called a family, will have
+eight types, well they won't be called types.  Now, that's
+evolution and population thinking.  It'll have a new name, too, I
+never liked <i>Echeneis</i>.  It sounds like an echinoderm."</p>
+
+<p class="Cite">"Tell me, Charlie, do you <i>often</i> do this sort of
+thing?"</p>
+
+<p class="Cite">"Oh yes, I have done it for many of the 500 fish families of
+the world.  I have them in a database in my computer -- with
+pictures, too, representing all the new type taxa -- at least two
+per family, but often more.  The more types, the more precision
+and meaning.  I can hardly wait to add the remoras.  It's all on
+my website.  When I've done the families I'm gonna do the genera
+and species -- really pin down those 60,000 names.  Or change
+'em, when I want.  Easy-peasy, now that we have a complete
+catalog of fish genera and species in the old system."</p>
+
+<p class="Cite">"And each family, Charlie, once it has a common ancestor in
+its definition, does it really become more meaningful?"</p>
+
+<p class="Cite">"Oh yes, each and every one, but I don't call them families. 
+That's too old-fashioned.  None of my friends knows what the
+family means any more.  And they don't like typology.  Even the
+word type sends them up the wall."</p>
+
+<p class="Cite">"Charlie, what about this common ancestor that seems so
+important to the definition?"</p>
+
+<p class="Cite">"Oh, that's just an imaginary fish."</p>
+
+<p class="Cite">"Charlie, these imaginary fishes, one for each family, how do
+you tell which one belongs to the remoras?"</p>
+
+<p class="Cite">"Oh, that's easy," he said, "it's the imaginary fish with a
+disk on top of its head."</p>
+
+<p class="Cite">"Charlie, do you have a picture of that, too?"</p>
+
+<p class="Cite">"Not yet, but I'm working on a program to generate ancestral
+images.  It'll soon be ready.  I'm gonna copyright 'em.  I'll
+make a bundle."</p>
+
+<p>So much for Charlie.</p>
+
+<p>A Phylocode slogan:</p>
+
+<p class="Cite">"The use of phylogenetic definitions liberates biological
+taxonomy from a 2,000-year-old tradition of basing the
+definitions of taxon names on characters" (<b>de Queiroz &
+Gauthier 1990, <i>Syst. Zool</i>. 39:310).</b></p>
+
+<p>We are left with the distinction between definition and
+diagnosis. </p>
+
+<p>Is the distinction anything more than verbal?</p>
+
+<p>The distinction between organism and character. </p>
+
+<p>Between the remora and its disk.</p>
+
+<p>Between the whole organism and one of its parts, which one
+might, in this case, carve off with a knife.</p>
+
+<p>I won't argue that question either.</p>
+
+<p>The reference to de Queiroz (1988) is to a paper submitted in
+1986, about the time he entered UC Berkeley as a PhD student. 
+Here some themes of Phylocode can be found.</p>
+
+<p>Here one reads about</p>
+
+<p class="Cite">"the delay of the Darwinian Revolution in biological
+taxonomy"</p>
+
+<p>and</p>
+
+<p class="Cite">"a general framework for a truly phylogenetic
+systematics."</p>
+
+<p>Acknowledged is a "tremendous intellectual debt" to various
+persons philosophically inclined: Graham Griffiths, Michael
+Ghiselin, David Hull.</p>
+
+<p>In the conclusion one reads:</p>
+
+<p class="Cite">"Perhaps this approach will ultimately lead to the replacement
+of the Linnaean taxonomic system (Griffiths 1976).  In short,
+embracing a truly evolutionary systematics will result in drastic
+taxonomic changes; this is why we talk about a Darwinian
+Revolution."</p>
+
+<p>Pardon me, but I can't help remembering one of the old boys of
+the past, another fish paleontologist from the British Museum, in
+a presidential address to the Linnean Society, not so long
+ago:</p>
+
+<p class="Cite">"We shall certainly not advance matters by jumping up and down
+shrilling, 'Darwin is god and I, so-and-so, am his prophet." --
+Errol White, Proceedings of the Linnean Society of London 177:8
+(1966).</p>
+
+<p>Do these words apply?</p>
+
+<p>Are they proved wrong?</p>
+
+<p>Jacques Gauthier, PhD in Paleontology, UC Berkely, 1984, friend
+and colleague for 25 years.  It is said that Berkeley was the
+only American University with a separate Department of
+Paleontology -- not any more, now, in this age of
+amalgamation.</p>
+
+<p>This diagram, from Jacques' thesis, shows birds -- Aves -- and
+some of their fossil relatives according to him, beginning with
+<i>Archaeopteryx</i>, and from right to left continuing with a
+series of fossil groups from the Mesozoic:</p>
+
+<p class="Cite">Deinonychosauria,</p>
+
+<p class="Cite">Orthomimidae,</p>
+
+<p class="Cite">Carnosauria,</p>
+
+<p class="Cite">Ceratosauria,</p>
+
+<p class="Cite">Sauropodomorpha,</p>
+
+<p class="Cite">Ornithischia,</p>
+
+<p class="Cite">Herrarasauridae.</p>
+
+<p>Jacques  named some of the nodes basal to birds -- Aves, using
+existing terms, from vertebrate paleontology, such as</p>
+
+<p class="Cite">Coelurosauria,</p>
+
+<p class="Cite">Theropoda,</p>
+
+<p class="Cite">Saurischia and</p>
+
+<p class="Cite">Dinosauria --</p>
+
+<p>extinct groups found by him to be paraphyletic -- similar
+to</p>
+
+<p class="Cite">Invertebrata,</p>
+
+<p class="Cite">Apes,</p>
+
+<p class="Cite">Plants,</p>
+
+<p class="Cite">Gymnosperms,</p>
+
+<p class="Cite">Barbarians.</p>
+
+<p>In Jacques' usage, the terms apply to living birds, which in
+addition to being birds, become</p>
+
+<p class="Cite">Caelurosaurians,</p>
+
+<p class="Cite">Theropodans,</p>
+
+<p class="Cite">Saurischians, and finally</p>
+
+<p class="Cite">Dinosaurs.</p>
+
+<p>In Jacques' usage all of these become names of taxa that are
+said to be not extinct because they include living birds.</p>
+
+<p>Yes, with wordplay of the kind, birds become dinosaurs. </p>
+
+<p>The hocus-pocus seemed to lend Phylocode significance as a
+rationale for naming nodes of the kind, when perhaps the nodes
+are best left unnamed in such a way, so that <i>Archaeopteryx</i>
+and other such feathered creatures, recently discovered as
+Mesozoic fossils, can be considered birds in the technical sense
+of systematics as well as in their biology.</p>
+
+<p>I won't argue this matter.  Rather, let me just give the
+alternative view, from yet another fish paleontologist of the
+British Museum.</p>
+
+<p class="Cite">"In the 150 years since Richard Owen names Dinosauria for a
+few bones of <i>Iguanodon</i>, <i>Megalosaurus</i> and <i>
+Hylaeosaurus</i>, the result of the efforts of palaeontologists
+has been to discover what dinosaurs are, not what birds are. 
+Perhaps surprisingly, dinosaurs turn out to be kinds of bird, a
+theory of relationships that is most clearly and economically
+expressed by including them within Aves.  Colin Patterson, <i>
+Department of Palaeontology, The Natural History Museum</i>."</p>
+
+<p class="Cite">"Are Birds Really Dinosaurs?"</p>
+
+<p>Yes, says the average paleontologist, according to DinoBuzz
+from UC Berkeley.</p>
+
+<p>There are several other questions that have the same general
+import, for example:</p>
+
+<p class="Cite">Are Fishes Really -- Invertebrates?</p>
+
+<p class="Cite">Are Humans really -- Apes?</p>
+
+<p class="Cite">Are Animals Really -- Plants?</p>
+
+<p class="Cite">Are Angiosperms really -- Gymnosperms?</p>
+
+<p class="Cite">Are Greeks really -- Barbarians?</p>
+
+<p class="Cite">And so on.  The list is endless.</p>
+
+<p>When the paraphyletic group is extinct, the question is
+portrayed as meaningful, at least by the average paleontologist. 
+Shame on him!</p>
+
+<p>The meaning lies solely in publicity generated for the media. 
+Birds might be related to some dinosaurs more closely than to
+others.  This does not mean that birds are dinosaurs or that
+birds evolved from dinosaurs.</p>
+
+<p>Slogan:</p>
+
+<p class="Cite">"The concept of common ancestry is fundamental to the meaning
+of the names."</p>
+
+<p>Fundamental to Phylocode is common ancestry.  How is this
+conceived?</p>
+
+<p>So far as I can tell it is an imaginary species, organism,
+zygote, or spore -- take your pick as the occasion demands.</p>
+
+<p>Its vagueness notwithstanding, the concept is seen as
+crucial.</p>
+
+<p>Descent from a common ancestral organism -- an Eve or Adam or
+both?  For taxa generally -- a natural order, genus, or species
+-- Linnaeus had the same view.  For him, each natural order,
+genus, and species comprises the offspring of a single organism,
+or if the sexes are separate, from an original pair.</p>
+
+<p>Phylocodists dismiss Linnaeus as an essentialist, typologist,
+Aristotelian.  Think about it.  Theirs is an essentialist
+approach to history -- as if the historical Linnaeus has an
+essence or type, The Aristotelian, which is to be vanquished so
+that The King Be Dead, Long Live the King.</p>
+
+<p>Much of the Phylocode appears in a paper of 1992 in the Annual
+Review of Ecology and Sstematics.</p>
+
+<p>Here we have more comment on the history of systematics:</p>
+
+<p class="Cite">"The principle of descent did not become a central tenet from
+which taxonomic principles and methods were derived (111,
+115)."</p>
+
+<p>I don't have to tell you who are the authors of the
+publications cited.</p>
+
+<p>In the conclusions we read that:</p>
+
+<p class="Cite">"biological taxonomy must eventually outgrow the Linnaean
+system, for that system derives from an inappropriate theoretical
+context.  Modern comparative biology requires a taxonomic system
+based on evolutionary principle."</p>
+
+<p>What is one to conclude? -- except that Phylocode is
+ideologically driven -- by postmodern hokum.</p>
+
+<p>In the acknowledgements, we learn that herpetologist Richard
+Etheridge, supervisor of Kevin's Master's Thesis and now Emeritus
+at San Diego State, is at the root of this sorry history.</p>
+
+<p>So there is another lesson, perhaps, to be learned:</p>
+
+<p>To be careful with idle remarks to impressionable youth, lest
+he, or she, be inspired to "reform biological nomenclature,' so
+as to become, as it were, a second Linnaeus in the memory of the
+future.</p>
+
+<p>This is the Phylocode document now available on the
+Internet:</p>
+
+<p align="center"><b>PhyloCode: A Phylogenetic Code of Biological
+Nomenclature</b></p>
+
+<p align="center"><b>Philip D. Cantino and Kevin de Queiroz<br>
+(equal contributors; names listed alphabetically)</b></p>
+
+<p>Advisory Group: William S. Alverson, David A. Baum, Harold N.
+Bryant, David C. Cannatella, Peter R. Crane, Michael J. Donoghue,
+Torsten Eriksson*, Jacques Gauthier, Kenneth Halanych, David S.
+Hibbett, David M. Hillis, Kathleen A. Kron, Michael S. Y. Lee,
+Alessandro Minelli, Richard G. Olmstead, Fredrik Pleijel*, J.
+Mark Porter, Heidi E. Robeck, Greg W. Rouse, Timothy Rowe*,
+Christoffer Schander, Per Sundberg, Mikael Thollesson, and Andre
+R. Wyss.</p>
+
+<p>Among this list of notables, there is no ichthyologist nor
+entomologist, even though these persons in North America are not
+in sort supply.  I am sure that they are not deliberately
+excluded.   Their absence is noteworthy.</p>
+
+<p>Phylocode is not yet operational.  It remains to be adopted,
+imposed, or left to wither on the vine.</p>
+
+<p>The phylocode is to progress through Registration:</p>
+
+<p class="Cite">"In order for a name to be established under the PhyloCode,
+the name and other required information must be submitted to the
+PhyloCode registration database."</p>
+
+<p>'Tis a bit o' madness to expect delivery of such for 60,000
+fish taxa, as if doing so would serve a real purpose.</p>
+
+<p>But, then, Charlie has a lot of energy and, apparently these
+days, nothing else to do.</p>
+
+<p>It was recently written:</p>
+
+<p class="Cite">"Espousing 'laws,' Linnaeus wanted to transform botany from an
+ungovernable living language with a multitude of provincial
+dialects, into a legislated code administered from a single
+centre."</p>
+
+<p>                   Lisbet Koerner, 1999</p>
+
+<p>                   Linnaeus: Nature and Nation</p>
+
+<p>This is from Lisbet Koerner's 1999 biography of Linnaeus,
+published by Harvard -- another PhD thesis.</p>
+
+<p>One may doubt that Linnaeus -- or anyone until very recently
+-- ever had such ambition.  Regardless, it was never achieved
+during Linnaeus' lifetime or at any time since.  Biological
+nomenclature, nevertheless, evolved into the state described
+above, accurately I think, by the Eloquent Entomologist, Quentin
+Wheeler.</p>
+
+<p>Phylocode aspires to achieve a legislated code administered
+from a single centre.  Is this the legacy of Linnaeus?</p>
+
+<p>As reinforcing background to Phylocode there is a body of
+philosophical literature.  A recent example is Ereshefsky's book
+on Poverty.</p>
+
+<p class="Cite">"The Poverty of the Linnaean Hierarchy:   A Philosophical
+Study of Biological Taxonomy.  Marc Ereshefsky.  Cambridge
+University Press. 2001."</p>
+
+<p>The literature, generated by just a few persons forms a
+connected whole.</p>
+
+<p>An early contribution is David Hull's paper on
+essentialism:</p>
+
+<p class="Cite">"The Effect of Essentialism on Taxonomy -- Two Thousand Years
+of Stasis."</p>
+
+<p>David quotes Karl Popper:</p>
+
+<p class="Cite">"every discipline as long as it used the Aristotelian method
+of definition has remained arrested in a state of empty verbiage
+and barren scholasticism."</p>
+
+<p>I've known David Hull for a long time.</p>
+
+<p>He hates Karl Popper and always has.  He never believed a word
+that Popper ever published.</p>
+
+<p>David also cites an earlier piece by Arthur Cain, one of a
+series by this early English pheneticist, now deceased.</p>
+
+<p>Arthur Cain's thoughts on Linnaeus were apparently inspired by
+Ernst Mayr, himself apparently inspired by Karl Popper.</p>
+
+<p>This is a complex matter, as is most philosophy.  Let me say
+only that, with respect to Linnaeus and Linnaean classification,
+it forms a miserable history of depreciatory comment without a
+particle of truth.</p>
+
+<p>In sum, Phylocode is hungry for attention.  It is stuffed with
+slogans.  It is otherwise without meaning.</p>
+
+<p>References</p>
+
+ 
+<p class="Reference">Anon.  2001.  <em>Are birds really dinosaurs?</em>  DinoBuzz:  Current topics
+concerning dinosaurs.  Website: <a href="http://www.ucmp.berkeley.edu/diapsids/avians.html">http://www.ucmp.berkeley.edu/diapsids/avians.html</a></p>
+ 
+<p class="Reference">Benton, M.J.  2000.  <em>Stems, nodes, crown clades, and rank-free lists:  Is
+Linnaeus dead?</em>  <u>Biol. Rev.</u> <B>75</B>:633-648.</p>
+ 
+
+<p class="Reference">Cain, A.J.  1958.  <em>Logic and memory in Linnaeus's system of taxonomy.</em>
+<u>Proc. Linn. Soc. London</u> <B>169</B>:144-163.</p>
+ 
+<p class="Reference">Cain, A.J.  1959.  <em>The post-Linnaean development of taxonomy.</em>  <u>Proc. Linn.
+Soc. London</u> <B>170</B>:234-244.</p>
+
+ 
+<p class="Reference">De Queiroz, K.  1985.  <em>Phylogenetic systematics of iguanine lizards:  A
+comparative osteological study.</em>  MS Thesis, San Diego State University.</p>
+ 
+<p class="Reference">De Queiroz, K.  1988.  <em>Systematics and the Darwinian revolution.</em>  <u>Phil.
+Sci.</u> <B>55</B>:238-259.</p>
+ 
+<p class="Reference">De Queiroz, K., and J. Gauthier.  1990.  <em>Phylogeny as a central principle
+in taxonomy:  Phylogenetic definitions of taxon names.</em>  <u>Syst. Zool.</u>
+
+<B>39</B>:307-322.</p>
+ 
+<p class="Reference">De Queiroz, K., and J. Gauthier.  1992.  <em>Phylogenetic taxonomy.</em>  <u>Ann. Rev.
+Ecol. Syst.</u> <B>23</B>:449-480.</p>
+ 
+<p class="Reference">Ereshefsky, M.  2000.  <em>The poverty of the Linnaean hierarchy:  A
+philosophical study of biological taxonomy.</em>  Cambridge University Press,
+Cambridge.</p>
+
+ 
+<p class="Reference">Forey, P.  2001.  <em>Phylocode:  Pain no Gain.</em>  Smithsonian Botanical
+Symposium 2001 (30-31 March):  Linnaean taxonomy in the 21st Century
+(from
+Internet Webpage).</p>
+ 
+<p class="Reference">Gauthier, J.A.  1984.  <em>A cladistic analysis of the higher systematic
+categories of the Diapsida.</em>  PhD Thesis, University of California,
+Berkeley.</p>
+ 
+<p class="Reference">Gauthier, J., R. Estes, and K. de Queiroz.  1988.  <em>A phylogenetic analysis of Lepidosauromorpha.</em>  In R. Estes and G. Pregill (eds), Phylogenetic relationships of the lizard families, pp. 15-98.  Stanford University Press, Stanford.</p>
+
+ 
+<p class="Reference">Hull, D.L.  1965,  <em>The effect of essentialism on taxonomy -- Two thousand
+years of stasis.</em>  <u>Brit. Jour. Phil. Sci.</u> <B>15</B>:314-326, 16:1-19.</p>
+ 
+<p class="Reference">Nixon, K.C., and J.M. Carpenter.  2000.  <em>On the other "phylogenetic
+systematics."</em>  <u>Cladistics</u> <B>16</B>:298-318.</p>
+
+ 
+<p class="Reference">Koerner, L.  1999.  <em>Linnaeus:  Nature and nation.</em>  Harvard University
+Press.</p>
+ 
+<p class="Reference">Patterson, C.  1993.  <em>Naming names.</em>  Nature:366:518.</p>
+ 
+<p class="Reference">Platnick, N.I.  2001.  <em>From cladograms to classifications.</em>  Smithsonian
+Botanical Symposium 2001 (30-31 March):  Linnaean taxonomy in the 21st
+Century  (from Internet Webpage).</p>
+
+ 
+<p class="Reference">Wheeler, Q.D.  2001.  <em>Clever Caroli:  Lessons from Linnaeus.</em>  Smithsonian
+Botanical Symposium 2001 (30=31 March):  Linnaean taxonomy in the 21st
+Century (from Internet Webpage).</p>
+ 
+<p class="Reference">White, E.  1966.  <em>Presidential address:  A little on lung-fishes.</em>  <u>Proc. Linn. Soc. London</u> <B>177</B>:1-10.</p>
+
+<p class="Line"> </p> 
+ 
+
+<address>Gareth Nelson
+School of Botany
+University of Melbourne
+Parkville, Vic. 3052
+Australia</address>
+
+<p>Read <a href="Jake_Alexander_Essay.pdf">'The future of biological taxonomy? Does 
+the PhyloCode offer a viable alternative to traditional Linnaean taxonomy?'</a>
+an essay by Jake Alexander.</li>
+
+<p>The official PhyloCode web site can be found here <a href="http://www.ohiou.edu/phylocode/" target="_blank">http://www.ohiou.edu/phylocode/</a>.</p>
+</ul>
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Banner ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 4 February 2007
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

@@ -1,0 +1,341 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - News Page
+    </title>
+    <!-- Load additional stylesheet for Climate Change event -->
+    <link href="/events/ClimateChangeStyle.css" rel="stylesheet"
+    type="text/css">
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top" id="_top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+         <img src="/images/SystAssLogo-100.png" width="81"
+        height="100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          News<br>
+          and announcements
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Join
+        </p>
+        <div class="textsmall">
+          <p>
+            To join the Systematics Association, visit the
+            <a href="/membership/">Membership page</a>.
+          </p>
+        </div>
+        <hr>
+        <p class="title">
+          RSS Feeds
+        </p>
+        <p style="background-color: #cc6633">
+          To view feeds from related sites, visit the <a href=
+          "/links/other-feeds.shtml">Feeds page</a>.
+        </p>
+        <hr>
+        <p>
+          Other Systematics Associations
+        </p>
+        <div class="textsmall">
+          <p>
+            <a href="http://sfs.snv.jussieu.fr/" rel=
+            "external">Soci&eacute;t&eacute; Fran&ccedil;aise de
+            Syst&eacute;matique</a><br>
+            <a href="http://www.gfbs-home.de/" rel=
+            "external">Gesellschaft f&uuml;r Biologische
+            Systematik</a><br>
+            <a href="http://www.swiss-systematics.ch/" rel=
+            "external">Swiss Systematics Society</a><br>
+            <a href="http://www.cladistics.org/" rel=
+            "external">Willi Hennig Society</a><br>
+            <a href="http://systbiol.org/" rel="external">Society
+            of Systematic Biologists</a><br>
+            <a href="http://www.sasb.org.au/" rel=
+            "external">Society of Australian Systematic
+            Biologists</a>
+          </p>
+          <p>
+            In addition, the Systematics Association maintains
+            especially strong links with the <a href=
+            "http://www.linnean.org/" rel="external">Linnean
+            Society of London</a>.
+          </p>
+        </div>
+        <hr>
+        <!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <a name="A" id="A"></a>
+        <div style="border-style: groove; padding: 5px;">
+          <p class="title">
+            Want to announce something?
+          </p>
+          <p>
+            If you have a news item or announcement that is
+            relevant to the Systematics Community please contact
+            the webmaster (see link at bottom of page).
+          </p>
+        </div>
+        <!--#include virtual="/news/BiodiversityPolicyLecture2011.inc" -->
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <a name="syntax" id="syntax"></a> 
+        <!--#include virtual="/news/SynTaxLaunch.inc" -->
+         <!--#include virtual="/incl/topofpage.inc" -->
+         
+        <!--#include virtual="/news/ChrisHumphriesObituary.inc" -->
+         <!--#include virtual="/incl/topofpage.inc" -->
+         <!--#include virtual="/news/BathStudentships.inc" -->
+         <!--#include virtual="/incl/topofpage.inc" -->
+         <!--#include virtual="/news/Kew250.inc" -->
+         <!--#include virtual="/incl/topofpage.inc" -->
+         <!--#include virtual="/news/JohnBeddington.inc" -->
+         <!--#include virtual="/incl/topofpage.inc" -->
+         <!--#include virtual="/news/NicheEvolution.inc" -->
+         <!--#include virtual="/incl/topofpage.inc" -->
+         <a name="HoLSandTC" id="HoLSandTC"></a>
+        <p class="title">
+          House of Lords Science and Technology Committee
+        </p><img src="../images/HoLSandTC.jpg" height="256" alt=
+        "Parliamentary copyright images are reproduced with the permission of Parliament"
+        title=
+        "Parliamentary copyright images are reproduced with the permission of Parliament">
+        <p>
+          The Government provided its <a href=
+          "http://www.parliament.uk/documents/upload/Govresponsetosystematics.doc">
+          Response</a> to the <strong>Systematics and Taxonomy:
+          Follow-up</strong> report on 6 November 2008. Visit the
+          <a href=
+          "http://www.parliament.uk/parliamentary_committees/lords_s_t_select/systematics.cfm">
+          House of Lords Science and Technology Committee</a>
+          pages for additional details.
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="Evolution_150" id="Evolution_150"></a>
+        <p class="title">
+          EVOLUTION 150
+        </p>
+        <p class="title">
+          WORKSHOP on "Evolutionary Biology: Evolution 150",
+          celebrating the 150th anniversary of the publication of
+          Darwin's The Origin of the Species, Cuenca, Spain 15th
+          - 19th March 2009
+        </p>
+        <p>
+          The British Council in Spain in collaboration with the
+          Spanish Council for Scientific Research (CSIC) is
+          organising a series of scientific workshops to provide
+          opportunities for researchers from the UK and Spain to
+          meet face-to-face for the exchange of ideas, knowledge
+          and information on priority topics and to explore
+          future areas of research and collaboration. The next
+          workshop in this series, entitled Evolution 150, will
+          cover the broad field of evolutionary biology and marks
+          the 150th anniversary of the publication of "The Origin
+          of Species".
+        </p>
+        <p>
+          For <a href="/events/Evolution_150_advert.pdf">further
+          details</a> and an application form contact Rafael
+          Zardoya <script type="text/javascript">
+
+
+<!--
+  var usr = "rafaz";
+  var dom = "mncn.csic";
+  var tld = "es";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+
+
+</script> or Peter Holland <script type="text/javascript">
+
+
+<!--
+  var usr = "peter.holland";
+  var dom = "zoo.ox.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+
+
+</script>
+        </p>
+        <p>
+          Early to mid career researchers wishing to participate
+          should send a completed application form and CV to
+          <script type="text/javascript">
+<!--
+  var usr = "belen.fortea";
+  var dom = "britishcouncil";
+  var tld = "es";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+
+
+</script> before <strong>December 15, 2008</strong>.
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="humphries" id="humphries"></a> 
+        <!--#include virtual="/news/ChrisHumphriesFestschrift.inc" -->
+         <!--#include virtual="/incl/topofpage.inc" -->
+         <a name="IVRubiaceae" id="IVRubiaceae"></a>
+        <p class="title">
+          IV International Rubiaceae (Gentianales) Conference
+        </p>
+        <p class="title">
+          October 19-24, 2008. Jalapa, Veracruz, Mexico.
+        </p>
+        <p>
+          The "Instituto de Biologia, UNAM" and the "Instituto de
+          Ecologia, A.C." are pleased to announce that the fourth
+          Rubiaceae Conference will be held in the Clavijero
+          Botanical Garden of the Institute of Ecology in Jalapa,
+          Veracruz, Mexico. This meeting will include papers and
+          posters on the taxonomy, phylogeny and classification,
+          morphology and anatomy, floristics, ecology and
+          biogeography within Rubiaceae or other Gentianales. We
+          particularly encourage students to submit the results
+          of their work.
+        </p>
+        <p>
+          Deadline for abstracts: July 31, 2008.<br>
+          Please visit <a href=
+          "http://www.ibiologia.unam.mx/rubiaceas/index.htm" rel=
+          "external">www.ibiologia.unam.mx/rubiaceas/index.htm</a><br>
+
+          For further questions, contact <script type=
+          "text/javascript">
+<!--
+  var usr = "ivrubiaceae";
+  var dom = "ibiologia.unam";
+  var tld = "mx";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+
+
+</script>
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="GeorginaMace" id="GeorginaMace"></a>
+        <p class="title">
+          The First Systematics Association-Linnean Society
+          Annual Lecture on Biodiversity Policy
+        </p>
+        <p class="title">
+          10 April 2008 at the Linnean Society
+        </p>
+        <p class="title">
+          Biodiversity in a changing world - building a science
+          base to support policy
+        </p>
+        <div style="float: right; margin-left: 5px;">
+          <img src="/images/GeorginaMace.jpg" width="105" height=
+          "113" alt="Prof. Georgina Mace" title=
+          "Prof. Georgina Mace">
+        </div>
+        <p>
+          Prof. Georgina Mace, Imperial College (Silwood Park)
+        </p>
+        <p>
+          New pressures on biodiversity from climate change and
+          land-use change continue to deplete natural species and
+          communities, and lead to increased risks to people and
+          the economy from environmental damage and loss of
+          natural resources. Yet, despite widespread acceptance
+          of this problem, we still rely on a biodiversity
+          information base that is often patchy, opportunistic
+          and lacks a coherent focus. In this talk I will discuss
+          some ideas and current initiatives that could build on
+          the scientific and research strengths in UK
+          institutions, especially the universities, research
+          institutes and museums, and provide a stronger
+          framework for biodiversity science to support
+          significant policy issues at national and international
+          levels.
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="IOPB" id="IOPB"></a>
+        <p class="title">
+          10th Symposium of the International Organization of
+          Plant Biosystematists
+        </p>
+        <p class="title">
+          2 - 4 July 2008
+        </p>
+        <p>
+          Evolution of Plants in Mountainous and Alpine
+          Habitat<br>
+          Vysok&eacute; Tatry Mts., &Scaron;trbsk&eacute; Pleso,
+          Slovak Republic
+        </p>
+        <p>
+          You are cordially invited to Slovakia to Vysoke Tatry
+          Mts., July 2008, to the next international IOPB
+          symposium.<br>
+          <a href="http://www.guarant.cz/iopb2008/" rel=
+          "external">visit www.guarant.cz/iopb2008/ for further
+          details</a>
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="hillquestion" id="hillquestion"></a>
+        <p class="title">
+          Assessing scientific opinion on character quality in
+          phylogeny reconstruction
+        </p><!--#include virtual="/news/JosephineHill.inc" -->
+        <!--#include virtual="/incl/topofpage.inc" -->
+        <a name="climatechange" id="climatechange"></a> 
+        <!--#include virtual="/events/ClimateChangeAnnouncement.inc" -->
+         <!--#include virtual="/incl/topofpage.inc" -->
+         <a name="cosyst" id="cosyst"></a>
+        <p class="title">
+          Second round of CoSyst funding
+        </p>
+        <p>
+          The second round of CoSyst awards were made in March. A
+          total of &pound;74,445 was allocated.
+        </p>
+        <p>
+          <a href="/awards/cosyst.shtml#results">View successful
+          awards</a>
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="HoL" id="HoL"></a>
+        <p class="title">
+          SA response to House of Lords
+        </p>
+        <p>
+          <span style="background-color: #cc6633">February
+          2008:</span> Response to the House of Lords Science
+          &amp; Technology Committee call for evidence: <a href=
+          "/documents/Systematics_HoL_2008v2.pdf" title=
+          "Read the Systematics Association submission.">Read
+          submission</a>
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="synthesis" id="synthesis"></a>
+        <p class="title">
+          SYNTHESYS
+        </p>
+        <p>
+          The closing date for proposals has passed.
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom banner ?links? -->
+        <!--#include virtual="/incl/w3c.inc" -->
+        Last updated: 24 September 2009 
+        <!--#include virtual="/incl/webmaster-email.inc" -->
+         <!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

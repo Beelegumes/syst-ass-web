@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Publications Page</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Systematics Association Publications</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Latest Publications</P>
+		 <div class="textsmall">
+<p>The New Taxonomy</p>
+<p>Quentin D. Wheeler</p>
+<img alt="Volume 76 cover" title="Volume 76 cover" src="covers/v76.jpg" />
+<p>ISBN 0849390885; Cat No. 9088; April 2008; 256 pp.; $99.95</p>
+<p><a href="http://www.crcpress.com/shopping_cart/products/product_detail.asp?sku=9088&amp;isbn=9780849390883&amp;parent_id=&amp;pc=" rel="external">Available in Hardback</a> from CRC Press</p> 
+     </div>
+     <hr>
+<P class="title">Catalogue of publications</P>
+		 <div class="textsmall">
+<p><a href="catalogue.shtml">view other titles in the series</a><p>		 
+		 </div>
+		 <hr>
+<P class="title">New book proposals</P>
+		 <div class="textsmall">
+		 If you would like to submit a new book proposal please contact David Gower (
+<script type="text/javascript"><!--
+  var usr = "d.gower";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//--></script>), Systematics Association Editor-in-Chief.</div>
+		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p>Following the acquisition of CRC Press by Taylor &amp; Francis, Systematics Association 
+book production operations have been transferred to the CRC Press offices in Florida. 
+Members of the Systematics Association receive a <strong>25% discount</strong> of all Systematics 
+Association volumes published by Taylor &amp; Francis.</p>
+<p>All volumes published by Taylor &amp; Francis/CRC Press should now be ordered 
+via either the CRC Press offices or the CRC press office in London (details below). 
+The <strong>25% SA members' discount</strong> is claimed by using a promotion code, for details of 
+this code please contact David Gower (
+<script type="text/javascript"><!--
+  var usr = "d.gower";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//--></script>), Systematics Association Editor-in-Chief.</p>
+
+<hr>
+	
+<p><strong>Ordering information</strong></p>
+
+<p class="NormalIndent">Via Website: <a href="http://www.crcpress.com/ecommerce_product/book_series.jsf?series_id=1738" rel="external">www.crcpress.com</a></p>
+
+<table border="0" cellpadding="0" cellspacing="0" summary="">
+<tr><td><p>By Phone:<br>
+1-800-272-7737/1-561-994-0555 (outside the continental US)<br>
++44 (0) 20 8875 4370 (International Customers)</p></td>
+<td><p>By FAX:<br>
+1-800-374-3401/1-561-361-6018 (outside the continental US)<br>
++44 (0) 8871 3443 (International Customers)</p></td></tr>
+
+<tr><td><p>CRC Press UK<br>
+23-25 Blades Court, Deodar Road<br>
+London SW15 2NU<br>
+United Kingdom</p></td>
+
+<td><p>CRC Press<br>
+2000 N.W. Corporate Boulevard<br>
+Boca Raton, FL  33431-9868</p><img src="http://www.jumpcb.com/images/images/9.gif" style="border-style:none; width:1px; height:1px;" /><img src="http://www.jumpcb.com/images/images/9.gif" style="border-style:none; width:1px; height:1px;" /><img src="http://www.jumpcb.com/images/images/9.gif" style="border-style:none; width:1px; height:1px;" /><img src="http://www.jumpcb.com/images/images/9.gif" style="border-style:none; width:1px; height:1px;" /><img src="http://www.jumpcb.com/images/images/10.gif" style="border-style:none; width:1px; height:1px;" /></td></tr>
+</table>
+
+<hr>
+<a href=""></a>
+<p><strong>Attention Authors</strong></p>
+<p>A complete guide of <a href="https://authornet.cambridge.org/information/proposaluk/stm/" rel="external">'instructions 
+to authors'</a> is available on the CUP <a href="https://authornet.cambridge.org/information/proposaluk/stm/" rel="external">website</a> which you 
+should read in conjunction with the <a href="CUP_A_Guide_To_Preparing_Your_Proposal.doc" rel="external">CUP - A Guide To Preparing Your Proposal</a>.</p>
+
+<hr>
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<!--#include virtual="/incl/w3c.inc" -->
+Last updated: 16 July 2010
+<!--#include virtual="/incl/webmaster-email.inc" -->
+
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

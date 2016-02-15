@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+	
+		<track>
+			<title>Professor Rosemary G. Gillespie</title>
+			<creator>Professor Rosemary G. Gillespie</creator>
+			<location>/images/RosemaryGillespie.png</location>
+			<info>http://www.systass.org</info>
+		</track>
+		
+		<track>
+			<title>Pic1</title>
+			<creator>Professor Rosemary G. Gillespie</creator>
+			<location>/events/JHL2015_RosieGillespieClimbing.png</location>
+			<info>http://www.systass.org</info>
+		</track>
+
+		<track>
+			<title>Pic2</title>
+			<creator>Professor Rosemary G. Gillespie</creator>
+			<location>/events/JHL2015_AriamnesWhite.jpg</location>
+			<info>http://www.systass.org</info>
+		</track>
+
+		<track>
+			<title>Pic3</title>
+			<creator>Professor Rosemary G. Gillespie</creator>
+			<location>/events/JHL2015_AriamnesMauiNearFlume.jpg</location>
+			<info>http://www.systass.org</info>
+		</track>
+						
+	</trackList>
+</playlist>

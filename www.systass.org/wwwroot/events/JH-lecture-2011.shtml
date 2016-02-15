@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - the Sir Julian Huxley Lecture (2011)</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>the 2011<br>
+Sir Julian Huxley Lecture</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Events</P>
+		 <div class="textsmall">
+		 <p><a href="index.shtml">Events for 2011</a></p>
+<!--#include virtual="/events/past-events.inc" -->
+		 </div>
+		 <hr>
+<P class="title">New events</P>
+		 <div class="textsmall"><p>
+		 Please contact us if have an event which you wish to promote.  
+		 If we feel it is appropriate to the Association then it will be listed here.  
+		 Send details to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">Taxonomy in the 21st century</p>
+<p><strong>6pm on Wednesday 5 October 2011, Linnean Society, London</strong></p>
+<p><img style="float: left; margin-left: auto; margin-right: 5px;" src="/images/CharlesGodfray.jpg" width="200" height="250" alt="Prof. Charles Godfray" title="Prof. Charles Godfray" />
+<strong><a href="http://www.zoo.ox.ac.uk/staff/academics/godfray_hcj.htm" rel="external">Charles Godfray</a></strong>
+<br>Hope Professor, Fellow of Jesus College
+<br>Department of Zoology, University of Oxford 
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p class="title">Abstract:</p> 
+<p>Taxonomy is one of the oldest branches of biology and in a time of major
+loss of biodiversity of critical importance today.  But the subject
+currently faces great threats and as well as great opportunities - many
+tasks that traditionally required taxonomic expertise can now be performed
+by non-specialists using modern molecular techniques, and the users of
+taxonomy expect information to be made available seamlessly over the web.
+In the lecture I'll explore some of the major challenges facing the subject,
+drawing on the recent NERC-sponsored report "Developing a National Strategy
+in Taxonomy &amp; Systematics".  I shall argue that the future of taxonomy and
+systematics is assured, as long as the subject takes the lead in redefining
+itself as a modern information science <a href="http://www.ugg5815blackoutlet.com/" title="ugg boots 5815" style="color:white;">ugg boots 5815</a>
+.</p>
+
+
+<p class="title">The meeting is open to visitors<br>
+Wine will be served after the lecture to members and guests</p>
+
+<!-- <p><a href="JHlecture2011poster.pdf">Please download and display a poster.</a></p> -->
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 12 July 2011
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

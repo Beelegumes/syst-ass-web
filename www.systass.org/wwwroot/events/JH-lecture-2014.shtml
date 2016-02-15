@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - the Sir Julian Huxley Lecture (2014)</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>the 2014<br>
+Sir Julian Huxley Lecture</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Directions</P>
+		 <div class="textsmall">
+		 <p><a href="http://www.linnean.org/Contact+Us/Find+Us">Getting to the Linnean Society</a>
+		 </div>
+<!--#include virtual="/incl/directions-linnsoc.inc" -->
+		 <hr>
+<!--#include virtual="/incl/disclaimer.inc" -->
+
+<P class="title">Events</P>
+		 <div class="textsmall">
+		 <p><a href="index.shtml">Events for 2015</a></p>
+<!--#include virtual="/events/past-events.inc" -->
+		 </div>
+		 <hr>
+
+<P class="title">New events</P>
+		 <div class="textsmall"><p>
+		 Please contact us if have an event which you wish to promote.  
+		 If we feel it is appropriate to the Association then it will be listed here.  
+		 Send details to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">The evolutionary origins of diversity in cancer.</p>
+
+<p><strong><img style="float: left; margin-left: auto; margin-right: 5px;" src="/images/MelGreaves.jpg" width="250" height="163" alt="Mel Greaves" title="Mel Greaves" />
+<a href="http://www.icr.ac.uk/our-research/researchers-and-teams/professor-mel-greaves" rel="external">Prof. Mel Greaves FRS</a></strong>
+<br>Professor of Cell Biology, Institute of Cancer Research</p>
+<br><br><br><br><br><br><br>
+
+<p><strong>6.00pm Wednesday 15 October 2014<br> Linnean Society, London, UK</strong></p>
+
+<p>&nbsp;</p>
+
+<p class="title">Podcast available:</p>
+
+<a href="http://backdoorbroadcasting.net/2014/10/mel-greaves-the-evolutionary-origins-of-diversity-in-cancer/"  
+title="Mel Greaves - The Evolutionary Origins of Diversity in Cancer" rel="external">
+<img src="/images/podcast_new.png" width="72" height="72" alt="Podcast" style="border: 0;" /></a>
+<p>Podcast provided by Backdoor Broadcasting Company (<a href="http://backdoorbroadcasting.net/" rel="external">website</a>)</p>
+
+ 
+<p class="title">Abstract:</p> 
+<p>All cancers share the common feature of being clonal expansions of mutant cells 
+that, over years or decades, disseminate within and between tissues, hijacking essential 
+normal functions.  But cancers differ widely in their tissue of origin, underlying 
+mutational spectra, time frame of progression, pathological impact and clinical 
+course.  The systematics or classification of cancer subtypes therefore poses a 
+considerable challenge with biologists, histopathologists and oncologists applying 
+differing criteria.</p>
+<p>Over recent years, a new conceptual framework has emerged that makes biological 
+sense of all the diversity.  This views cancer as a process of somatic cell evolution 
+driven by mutational diversification and natural selection or adaptation within 
+the specialised ecosystem habitats of the body.  The implications of this new vision 
+for diagnosis, prognostication and control of disease are very substantial.</p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<!-- <p><a href="JHlecture2011poster.pdf">Please download and display a poster .</a></p> -->
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 22 Sep 2014
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

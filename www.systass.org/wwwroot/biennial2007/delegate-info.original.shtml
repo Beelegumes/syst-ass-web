@@ -1,0 +1,221 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Biennial 2007 Delegate Information Page</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<a name="_top"></a>
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/biennial2007-100px.png" width="90" height="90" 
+alt="Arachne's Disc, Puget Sound, Washington, USA. Etching by Professor David Mann.  Used for the SA Biennial 2007"
+title="Arachne's Disc, Puget Sound, Washington, USA. Etching by Professor David Mann.  Used for the SA Biennial 2007" />
+<p>6th Biennial Meeting: August 2007<br>
+Royal Botanic Garden, Edinburgh</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<p class="title">Quick links</p>
+		 <div class="textsmall">
+		 <p style="text-align: right"><a href="index.shtml#Introduction">Introduction</a><br> 
+		 <a href="index.shtml#Bursaries">Bursaries</a><br> 
+		 <a href="index.shtml#Deadlines">Deadlines!</a><br>
+		 <a href="index.shtml#Themes">Themes</a><br>
+ 		 <a href="symposia.shtml">Symposia</a><br>
+		 <a href="index.shtml#Programme">Programme</a><br>
+		 <a href="registration.shtml#Registration">Registration</a><br>
+		 <a href="registration.shtml#Fees">Fees</a><br>
+ 		 <a href="registration.shtml#Abstracts">Abstracts</a><br>
+		 <a href="registration.shtml#Posters">Posters</a><br>
+		 <a href="registration.shtml#Students">Students</a><br>
+		 <a href="registration.shtml#Accommodation">Accommodation</a><br>
+		 <a href="registration.shtml#Meals">Meals</a><br>
+		 <a href="location.shtml#Edinburgh">Edinburgh</a><br>
+		 <a href="location.shtml#Travel">Travel</a><br>
+		 <a href="location.shtml#Venues">Venues</a><br>
+		 <a href="location.shtml#Weather">Weather</a><br>
+		 <a href="index.shtml#Organisers">Contacts information</a><br>
+		 <a href="/membership/"><strong>Join</strong> the Systematics Association!</a></p>
+		 <hr>
+		 <p><!-- some other text --></p>
+		 </div>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">28th - 31st August 2007</p>
+	 <a name="#0"></a><p class="title">Delegate information</p>
+	 		<p>
+We are looking forward to seeing you at the Systematics Association Conference.</p> 
+
+<p>Please take a few minutes to read the following as it contains important information about the conference with regard to:</p> 
+
+<ol>
+<li><a href="#1">Registration</a></li>
+<li><a href="#2">Using ICT facilities during the conference</a></li>
+<li><a href="#3">ICT formats for presentations</a></li>
+<li><a href="#4">Getting to the conference venues</a></li>
+<li><a href="#5">Open Session presentation lengths</a></li>
+<li><a href="#6">Linnaeus lectures</a></li> 
+<li><a href="#7">What to bring with you</a></li> 
+<li><a href="#8">Any further questions</a></li>
+<li><a href="#9">Download all travel directions and this notice</a></li>
+</ol>
+
+
+<a name="1"></a><p class="title">1. Registration update</p>
+<ul>
+<li>Registration on Monday 27th August will take place at Pollock Halls (18 Holyrood Park Road, EH16 5AY) 
+in the <em>Prestonfield Room</em> between 1400 and 1800. A location map of Pollock Halls is attached. 
+The Prestonfield Room is in the John McIntyre Centre. If arriving after 1800 please go the <em>Reception Centre</em> to check in. 
+Please note that registration is <u>NOT</u> available at the Royal Botanic Garden on the 27th.</li>
+
+<li>Registration for every other day of the conference will take place in the Royal Botanic Garden Edinburgh.  
+<u>**Please ensure you come to the entrance at 20A Inverleith Row, EH3 5LR**</u>. 
+This is the building with the prominent flag poles. <a href="RBGE_Map.pdf" rel="external">A map is attached</a>.</li>
+</ul>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="2"></a><p class="title">2. Using ICT facilities during the conference</p>
+<p>The following will be available:-</p>
+<ul>
+<li>Delegates have access to the internet (e.g. to check e-mail) via 16 PCs in the RBGE's ICT Suite.  
+No password is required to use this facility.  Content monitoring and filtering is in operation.</li>
+<li>Delegates who are presenting will also have access to 4 PCs which may additionally be used for editing PowerPoint files.  
+USB connections and CD re-writer is included in each.  A temporary login name and password will be provided to allow access 
+to PowerPoint.</li>
+<li>Delegates with suitable laptops will have wireless access to the internet within the Exhibition Hall Classroom.  
+The SSID is <strong>rbgewireless</strong> and the password is <strong>rbgeguest</strong>.  Content monitoring and filtering is in operation.</li>
+</ul>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="3"></a><p class="title">3. ICT formats for presentation</p>
+<ul>
+<li>The presentation computer in each venue is a PC running Windows XP.  Default presentation software is 
+MS Office PowerPoint 2003, with video only output to a digital projector.  An audio output facility from the 
+computer is only available in the Conference Room, not the Lecture Theatre.  Files originated from PowerPoint 98 
+onwards should work correctly. If you have prepared your file on a Mac please check your presentation on a PC prior 
+to the conference.</li>
+<li>You are asked to provide your presentation file on the day before your talk.  It will then be loaded onto the computer.  
+For those presenting on the first day please provide it during any break prior to your slot.</li>
+<li>You may provide it on USB memory key (preferred) or on CD.  You are advised to have a backup copy available.  
+Please name your file in the style 'AuthorFamilyname ShortTitle'. For example John Smith's presentation titled 
+Orchid Systematics will have a file name 'Smith Orchid'.</li> 
+<li>Your presentation will normally be started for you by the Session chair.  The presentation will be run using 
+Presenter View (or PowerPoint Viewer). This allows you to view your notes on the computer screen. The PC screen 
+will show the Notes area, slide forward and reverse buttons, and a slide image.  The projector will show only the slide.  
+Slides may be changed by clicking on the forward and reverse buttons on the screen, or by using the Spacebar.  
+Please note that the facility to jump to any numbered slide is not available in this mode.  A mouse and remote 
+control (with laser pointer) are also available.</li>
+<li>Access to PowerPoint for editing prior to handover of your file is available in the ICT Suite, 
+as described above.</li>
+</ul>
+		 
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="4"></a><p class="title">4. Getting to the conference venues</p> 
+<ul>
+<li>Directions to the conference venues and information on public transport can be found in the attached document and maps</li>
+<li><a href="DirectionsWeb.pdf" rel="external">Travel directions</a> - getting to and from conference venues</li>
+<li><a href="EdinburghMap.pdf" rel="external">Edinburgh area map</a> - showing venues connected with conference</li>
+<li><a href="PollockHallsmap.pdf" rel="external">Pollock Halls map</a> - showing location of accommodation</li>
+<li><a href="RBGE_Map.pdf" rel="external">RBGE map</a> - showing main conference venue</li>
+<li>Please try to <u>AVOID</u> coming to Royal Botanic Garden Edinburgh by car.</li> 
+   <ul>
+   <li>Parking around Royal Botanic Garden Edinburgh is metered parking costing c. &pound;1 an hour and is restricted to 4 
+	 hours maximum stay.</li>
+   <li>Parking without a meter is available in roads to the North of Royal Botanic Garden Edinburgh approximately 
+	 15 minutes walk away.</li>
+   <li>Due to very limited space we can only offer parking permits for the Royal Botanic Garden Edinburgh car park 
+	 under exceptional circumstances.</li>
+   </ul>
+</ul>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="5"></a><p class="title">5. Open Session presentation lengths</p>
+<ul>
+<li>Open Session presentation are 15 minutes long with a further 5 minutes for questions.</li>
+</ul>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="6"></a><p class="title">6. Linnaeus lectures</p>
+<ul>
+<li>During the week of the conference two lectures on Linnaeus are being given in Royal Botanic Garden Edinburgh Lecture Theatre which you may be interested to attend.</li>
+   <ul>
+   <li>Monday 27th August 1900 to 2000 - <em>Linnaeus's Global Reach Sandy Knapp</em></li> 
+   <li>Friday 31st August 1900 to 2000 - <em>The Unfinished Journey of Linnaeus Paul Cox</em></li>
+   </ul>
+</ul>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="7"></a><p class="title">7. What to bring with you</p>
+<ul>
+<li>The weather in Edinburgh has been very unpredictable this summer so we strongly advise you to bring the following items with you:</li>
+   <ul>
+   <li>A waterproof jacket and/or an umbrella</li>
+   <li>Warm items of clothing such as a jumper</li>
+   <li>Light clothing in case of warm weather</li>
+   </ul> 
+</ul>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="8"></a><p class="title">8. Any further questions</p>
+<ul>
+<li>If you have any further questions regarding the conference please email me 
+ <script type="text/javascript"><!--
+  var disp = "jbarrett";
+  var usr = "jbarrett";
+  var dom = "rbge.ac";
+  var tld = "uk";
+  var ady = disp + "@" + dom + "." + tld;
+	var dispady = usr + "@" + dom + "." + tld;
+  document.write("(<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>)")
+//--></script></li>
+</ul> 
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="9"></a><p class="title">9. Download all travel directions and this notice</p>
+<ul>
+<li><a href="DelegateInfo.zip" rel="external">Download</a> a copy of this notice including maps <strong>[.ZIP file]</strong></li>
+</ul>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<p></p>		 
+		 
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Bar ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 20 August 2007
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

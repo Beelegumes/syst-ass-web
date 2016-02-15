@@ -1,0 +1,1 @@
+<strong style="color: #ffff00;">This Council member has not yet supplied a biography.</strong>

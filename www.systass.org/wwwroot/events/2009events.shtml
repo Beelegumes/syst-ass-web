@@ -1,0 +1,334 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Events in 2009</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Lectures,<br>
+Conferences and Workshops</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Past Events</P>
+<!--#include virtual="/events/PastEventsKey.inc" -->
+		 <hr>
+<P class="title">Forthcoming Events
+</P><!--#include virtual="/events/FutureEventsKey.inc" -->
+		 <hr>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+
+<a name="2009"></a><p class="title">Events for 2009</p>
+
+<table summary="Forthcoming Events" width="100%">
+<tr class="alternate"><td class="quarter">Date</td><td class="threequarter">Event</td><td class="quarter">Contact</td></tr>
+<!-- Insert events below here -->
+
+	<tr><td class="quarter">12 - 30 January 2009</td>
+    <td class="threequarter"><strong>Workshop on Molecular Evolution</strong>
+		<br>&#268;esk&yacute; Krumlov, Czech Republic <a href="http://www.ugg5815blackoutlet.com/" title="cheap ugg boots" style="color:white;">cheap ugg boots</a>
+		<br><a href="http://workshop.molecularevolution.org/eur/" rel="external">Further details</a></td>
+    <td>Course Co-Directors<br>
+       Michael P. Cummings
+			 <script type="text/javascript"><!--
+			 var usr = "mike";
+			 var dom = "umiacs.umd";
+			 var tld = "edu";
+			 var ady = usr + "@" + dom + "." + tld;
+			 document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+			 //--></script><br>
+			 and Scott A. Handley
+			<script type="text/javascript"><!--
+			 var usr = "shandley";
+			 var dom = "id.wustl";
+			 var tld = "edu";
+			 var ady = usr + "@" + dom + "." + tld;
+			 document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+			 //--></script>
+		</td>		
+	</tr>		
+
+	
+	<tr class="alternate"><td class="quarter">15-19 March 2009</td>
+    <td class="threequarter"><strong>Evolution 150</strong>
+		<br>Cuenca, Spain
+		<br><a href="Evolution_150_advert.pdf">Further details</a></td>
+		<td>Primary contact: Peter Holland
+		<script type="text/javascript"><!--
+    var usr = "peter.holland";
+    var dom = "zoo.ox.ac";
+    var tld = "uk";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+	</tr>	
+
+
+	<tr><td class="quarter">16 April 2009</td>
+    <td class="threequarter" colspan="2"><strong>Biodiversity in a Changing World</strong>
+		<br>6:00pm, Linnean Society, London
+		<br>Speaker: Professor John Beddington, Government Chief Scientific Adviser
+		<br><a href="/news/index.shtml#JohnBeddington">Further details</a>
+		<br>
+		<br>To register contact: 
+    <script type="text/javascript"><!--
+    var usr = "kate";
+    var dom = "linnean";
+    var tld = "org";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+	</tr>	
+	
+	
+	<tr class="alternate"><td class="quarter">3-4 July, 2009</td>
+    <td class="threequarter"><strong>Niche Evolution</strong>
+		<br>Zurich, Switzerland
+		<br><a href="/news/index.shtml#Niche_Evolution">Further details</a></td>
+		<td>Primary contact: Dr Alexandre Antonelli
+		<script type="text/javascript"><!--
+    var usr = "alexandre.antonelli";
+    var dom = "systbot.uzh";
+    var tld = "ch";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+	</tr>
+
+	<tr><td class="quarter">8 July 2009</td>
+    <td colspan="2"><strong>The Sir Julian Huxley Lecture</strong>
+    <br>Speaker: Mike Sanderson, 
+		<br>Phylogenetics, Plant Systematics, and Computational Biology, University of Arizona 
+		<br>Title: Phylogenetic Analysis of Clade Diversification: Is Robust Inference Possible?
+		<br>Starts: 6pm Linnean Society
+		<br><a href="JH_Lecture_2009_Mike_Sanderson.pdf">Further details</a></td>
+	</tr>
+	
+	<tr class="alternate"><td class="quarter">10-14 August 2009</td>
+    <td class="threequarter"><strong>7th Biennial Meeting</strong>
+		<br>National Herbarium of the Netherlands, Leiden and National Museum of Natural History, Leiden
+		<br><a href="http://www.biosyst.eu/" rel="external">Further details</a></td>
+		<td>Primary contact: Peter Hovenkamp
+		<script type="text/javascript"><!--
+    var usr = "hovenkamp";
+    var dom = "nhn.leidenuniv";
+    var tld = "nl";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+	</tr>
+
+	
+	<tr><td class="quarter">14-17 September 2009</td>
+    <td class="threequarter"><strong>Southeast Asian Gateway Evolution (SAGE)</strong>
+		<br>Royal Holloway, University of London, Egham
+		<br><a href="http://sage2009.rhul.ac.uk/" rel="external">Further details</a></td>
+		<td>Primary contact: Lukas Ruber
+		<script type="text/javascript"><!--
+    var usr = "l.ruber";
+    var dom = "nhm.ac";
+    var tld = "uk";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+
+
+	<tr class="alternate"><td class="quarter">16 September 2009</td>
+    <td class="threequarter"><strong>Darwin and Wallace: the true story</strong>
+	  <br>Dr John van Wyhe
+		<br>Special Guest Lecture
+    <br>Southeast Asian Gateway Evolution (SAGE) 
+		<br>Windsor Building Auditorium, Royal Holloway, University of London, Egham
+		<br><a href="Darwin_Wallace_poster_4_Email.pdf">Further details</a></td>
+		<td>Request a free ticket: (limited)
+		<script type="text/javascript"><!--
+    var usr = "darwinwallacerhul";
+    var dom = "googlemail";
+    var tld = "com";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+
+		
+	<tr><td class="quarter">12-16 October 2009</td>
+    <td class="threequarter"><strong>Plant conservation for the next decade: a celebration of Kew's 250th anniversary</strong>
+		<br>Royal Botanic Gardens, Kew
+		<br><a href="http://www.kew.org/science/anniversary-conference/" rel="external">Further details</a></td>
+		<td>To register contact:
+		<script type="text/javascript"><!--
+    var usr = "sciconf";
+    var dom = "kew";
+    var tld = "org";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+	</tr>
+
+	
+	<tr class="alternate"><td class="quarter">16 October 2009</td>
+    <td class="threequarter"><strong>'Taxonomy, Systematics and Conservation Biology'</strong>
+    <br>Professor Lord Robert May of Oxford, past President of the Royal Society
+		<br><a href="http://www.bbk.ac.uk/environment/news/lectures" rel="external">Further details</a></td>
+		<td>Free admission but booking is essential
+		<script type="text/javascript"><!--
+    var usr = "environmentevents";
+    var dom = "FLL.bbk.ac";
+    var tld = "uk";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+	</tr>
+		
+
+	<tr><td class="quarter">23 October 2009</td>
+    <td class="threequarter"><strong>'Out of Sight, Out of Mind: our lives depend on the hidden kingdom - Fungi'</strong>
+    <br>Professor Lynne Boddy, President of the British Mycological Society
+		<br><a href="http://www.bbk.ac.uk/environment/news/lectures" rel="external">Further details</a></td>
+		<td>Free admission but booking is essential
+		<script type="text/javascript"><!--
+    var usr = "environmentevents";
+    var dom = "FLL.bbk.ac";
+    var tld = "uk";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+	</tr>
+
+
+	<tr class="alternate"><td class="quarter">30 October 2009</td>
+    <td class="threequarter"><strong>'Control of Illegal Use of Endangered Species and Incorrectly Identified Species'</strong>
+    <br>Professor Monique Simmonds, Jodrell Laboratory, Royal Botanic Gardens, Kew
+		<br><a href="http://www.bbk.ac.uk/environment/news/lectures" rel="external">Further details</a></td>
+		<td>Free admission but booking is essential
+		<script type="text/javascript"><!--
+    var usr = "environmentevents";
+    var dom = "FLL.bbk.ac";
+    var tld = "uk";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+	</tr>
+
+
+	<tr><td class="quarter">6 November 2009</td>
+    <td class="threequarter"><strong>'Botany, palynology, and mycology: powerful weapons in the forensic armoury'</strong>
+    <br>Patricia Wiltshire, Forensic Ecologist
+		<br><a href="http://www.bbk.ac.uk/environment/news/lectures" rel="external">Further details</a></td>
+		<td>Free admission but booking is essential
+		<script type="text/javascript"><!--
+    var usr = "environmentevents";
+    var dom = "FLL.bbk.ac";
+    var tld = "uk";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+	</tr>		 
+
+	
+	<tr class="alternate"><td class="quarter">13 November</td>
+    <td class="threequarter"><strong>'Taxonomy, Natural History and the Digital World'</strong>
+    <br>Dr Malcolm J. Scoble, Keeper of Entomology, Natural History Museum
+		<br><a href="http://www.bbk.ac.uk/environment/news/lectures" rel="external">Further details</a></td>
+		<td>Free admission but booking is essential
+		<script type="text/javascript"><!--
+    var usr = "environmentevents";
+    var dom = "FLL.bbk.ac";
+    var tld = "uk";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+	</tr>
+	
+	
+	<tr><td class="quarter">20 November 2009</td>
+    <td class="threequarter"><strong>Panel Presentation and Discussion: 'Inspiring New Naturalists and Taxonomists'</strong>
+    <br>Working with Children: Gail Bromley, Education Development Manager, RBG, Kew
+    <br>Higher Education: David Streeter, Reader in Ecology, University of Sussex
+    <br>Professional Taxonomy: Dr Mike Fay, Head of Genetics, Jodrell Laboratory, RBG, Kew 
+		<br><a href="http://www.bbk.ac.uk/environment/news/lectures" rel="external">Further details</a></td>
+		<td>Free admission but booking is essential
+		<script type="text/javascript"><!--
+    var usr = "environmentevents";
+    var dom = "FLL.bbk.ac";
+    var tld = "uk";
+    var ady = usr + "@" + dom + "." + tld;
+    document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+    //--></script></td>
+	</tr>		 		 
+	
+	
+	<tr class="alternate"><td class="quarter">2 December 2009</td>
+    <td><strong>11th Young Systematists' Forum,</strong>
+    <br>Flett Lecture Theatre, The Natural History Museum, London, UK
+		<br><a href="/ysf/index.shtml">Further details</a>
+    </td>
+		   <td class="quarter">David Bass
+       <script type="text/javascript"><!--
+       var usr = "d.bass";
+       var dom = "nhm.ac";
+       var tld = "uk";
+       var ady = usr + "@" + dom + "." + tld;
+       document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+       //--></script>
+		</td>
+	</tr>
+
+	<tr><td class="quarter">9 December 2009</td>
+     <td colspan="2"><strong>Annual General Meeting</strong>
+		 <br>The Linnean Society, Burlington House, London, UK
+		</td>
+	</tr>	
+	
+	<tr class="alternate"><td class="quarter">9 December 2009</td>
+     <td colspan="2"><strong>The President's Talk</strong>
+		 <br>Professor Richard Bateman, RBG Kew
+		 <br><em>Gradualism: Darwin's greatest mistake?</em> 
+		 <br>The Linnean Society, Burlington House, London, UK
+		</td>
+	</tr>
+	
+<!-- Insert events above here -->
+</table>
+
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 18 January 2010
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

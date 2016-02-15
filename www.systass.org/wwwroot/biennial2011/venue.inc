@@ -1,0 +1,5 @@
+<p>The conference will be held in the Medical Biology Centre, shown on Google map as 
+the Lisburn Road side of Belfast City Hospital complex.</p>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" 
+marginwidth="0" src="http://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=BT9+7BL&amp;sll=54.587358,-5.941029&amp;sspn=0.017582,0.038409&amp;ie=UTF8&amp;hq=&amp;hnear=Belfast,+County+Antrim+BT9+7BL,+United+Kingdom&amp;ll=54.585456,-5.942616&amp;spn=0,0.019205&amp;z=14&amp;layer=c&amp;cbll=54.585402,-5.941137&amp;panoid=MPS2nR7GpKx0HjIxq8cLqg&amp;cbp=12,305.96,,0,4.09&amp;output=svembed"></iframe><br /><small><a href="http://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=BT9+7BL&amp;sll=54.587358,-5.941029&amp;sspn=0.017582,0.038409&amp;ie=UTF8&amp;hq=&amp;hnear=Belfast,+County+Antrim+BT9+7BL,+United+Kingdom&amp;ll=54.585456,-5.942616&amp;spn=0,0.019205&amp;z=14&amp;layer=c&amp;cbll=54.585402,-5.941137&amp;panoid=MPS2nR7GpKx0HjIxq8cLqg&amp;cbp=12,305.96,,0,4.09" 
+style="color:#0000FF;text-align:left">View Larger Map</a></small>

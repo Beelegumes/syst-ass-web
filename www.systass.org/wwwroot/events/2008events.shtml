@@ -1,0 +1,188 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Events in 2008</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Lectures,<br>
+Conferences and Workshops</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Past Events</P>
+<!--#include virtual="/events/PastEventsKey.inc" -->
+		 <hr>
+<P class="title">Forthcoming Events
+</P><!--#include virtual="/events/FutureEventsKey.inc" -->
+		 <hr>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">Events in 2008</p>
+
+<table summary="Forthcoming Events" width="85%">
+<tr><td class="quarter">Date</td><td class="quarter">Event</td><td class="quarter">Contact</td></tr>
+<!-- Insert events below here -->
+
+	<tr><td class="quarter">10 April 2008</td>
+    <td colspan="2"><strong>First Annual joint Systematics Association/Linnean Society Biodiversity Policy Lecture</strong>
+		<br>Speaker: Prof. Georgina Mace, Imperial College (Silwood Park)
+		<br>Title: Biodiversity in a changing world - building a science base to support policy
+		<br>Starts: 6pm Linnean Society (5.30om for tea)
+		<br><a href="/news/index.shtml#GeorginaMace">Further details</a></td>
+	</tr>
+	
+	<tr><td class="quarter">2 July 2008</td>
+    <td colspan="2"><strong>The Sir Julian Huxley Lecture</strong>
+    <br>Speaker: Joseph Felsenstein, University of Washington
+		<br>Title: Not the fly on the wall: can systematists cope with uncertainty?
+		<br>Starts: 6pm Linnean Society
+		<br><a href="/events/JH-Lecture-2008.shtml">Further details</a></td>
+	</tr>
+
+	<tr><td class="quarter">2 - 4 July 2008</td>
+    <td><strong>10th Symposium of the International Organization of Plant Biosystematists</strong>
+		<br>Evolution of Plants in Mountainous and Alpine Habitat
+		<br>Vysok&eacute; Tatry Mts., &#352;trbsk&eacute; Pleso, Slovak Republic
+		<br><a href="http://www.guarant.cz/iopb2008/" rel="external">Further details</a>
+		<br>(www.guarant.cz/iopb2008/)</td>
+    <td class="quarter">Primary contact: Dr. Karol Marhold, Institute of Botany, 
+		Slovak Academy of Sciences, 
+		D&uacute;bravsk&aacute; cesta 14, SK-845 23 Bratislava, Slovakia</td>
+	</tr>
+
+	<tr><td class="quarter">29 July - 1 August 2008</td>      
+    <td><strong>Saltation: macroevolution by profound phenotypic change across a single generation</strong>
+		<br>University of Ghent, Belgium (one of several symposia in Euro Evo Devo 2: 
+		Second International Conference of the European Society for Evolutionary Developmental Biology)<a href="http://evodevo.eu/conferences/2008/" rel="external">Further details</a></td>
+    <td class="quarter">Richard Bateman
+       <script type="text/javascript"><!--
+       var usr = "r.bateman";
+       var dom = "rbgkew.org";
+       var tld = "uk";
+       var ady = usr + "@" + dom + "." + tld;
+       document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+       //--></script>
+		</td>	
+   <tr>
+	
+  <tr><td class="quarter">1 - 3 September 2008</td>
+    <td><strong>Climate Change and Systematics</strong>
+		<br>Department of Botany, Trinity College Dublin, Dublin, Ireland
+		<br><a href="/news/index.shtml#climatechange">Further details</a></td>
+    <td class="quarter">Organising Committee
+       <script type="text/javascript"><!--
+       var usr = "climate";
+       var dom = "tcd";
+       var tld = "ie";
+       var ady = usr + "@" + dom + "." + tld;
+       document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+       //--></script>
+		</td>		
+	</tr>	
+
+	
+  <tr><td class="quarter">1 - 3 October 2008</td>
+    <td><strong>Beyond Cladistics - a Festschrift for Chris Humphries</strong>
+		<br>Linnean Society
+		<br><a href="http://www.linnean.org/fileadmin/events2/events.php?detail=123" rel="external">Further details</a></td>
+    <td class="quarter">David Williams
+       <script type="text/javascript"><!--
+       var usr = "dmw";
+       var dom = "nhm.ac";
+       var tld = "uk";
+       var ady = usr + "@" + dom + "." + tld;
+       document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+       //--></script><br>
+			 Paula Rudall		
+		</td>		
+	</tr>
+
+
+  <tr><td class="quarter">19-24 October 2008</td>
+    <td><strong>IV International Rubiaceae (Gentianales) Conference</strong>
+		<br>Jalapa, Veracruz, Mexico	
+		<br><a href="/news/index.shtml#IVRubiaceae">Further details</a></td>
+    <td class="quarter">Organising Committee
+       <script type="text/javascript"><!--
+			 var usr = "ivrubiaceae";
+			 var dom = "ibiologia.unam";
+			 var tld = "mx";
+			 var ady = usr + "@" + dom + "." + tld;
+			 document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+			 //--></script>
+		</td>		
+	</tr>	
+
+	
+	<tr><td class="quarter">2 December 2008</td>
+    <td><strong>10th Young Systematists' Forum,</strong>
+    <br>Flett Lecture Theatre, The Natural History Museum, London, UK
+		<br><a href="/ysf/index.shtml">Further details</a>
+    </td>
+		   <td class="quarter">Pete Olson
+       <script type="text/javascript"><!--
+       var usr = "p.olson";
+       var dom = "nhm.ac";
+       var tld = "uk";
+       var ady = usr + "@" + dom + "." + tld;
+       document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+       //--></script><br>
+			 Juliet Brodie
+		</td>
+	</tr>
+
+	<tr><td class="quarter">3 December 2008</td>
+    <td colspan="2"><strong>Annual General Meeting and Lecture</strong>
+		<br>Linnean Society
+		<br>The chemical origin of life in hydrothermal vents: new perspectives
+		<br>Prof. Bill Martin, University of Duesseldorf
+		<br><a href="/events/AGM_Lecture_2008.shtml">Further details</a>
+    </td>
+	</tr>	
+
+
+<!-- Insert events above here -->
+</table>
+
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 7 January 2009
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body><a href="http://www.classicuggoutlet.com/">ugg outlet</a>
+</html>

@@ -1,0 +1,47 @@
+/* Supplementary Style Sheet for Climate Change Item 
+Created Rupert Wilson 5 December 2007  */
+
+ /* Font Definitions */
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Arial-Black;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Comic Sans MS";
+	panose-1:3 15 7 2 3 3 2 2 2 4;}
+@font-face
+	{font-family:Times;
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+ /* Style Definitions */
+ p.MsoNormalCenter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Comic Sans MS";
+	text-align:center;}
+ p.MsoNormalCenter16
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:16.0pt;
+	font-family:"Comic Sans MS";
+	text-align:center;}
+ p.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Comic Sans MS";}
+ p.MsoNormalSpacer
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Comic Sans MS";}
+ p.MsoNormalSubHead
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Comic Sans MS";
+	font-weight:bolder;
+	text-decoration:underline;
+	}

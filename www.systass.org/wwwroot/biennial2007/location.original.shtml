@@ -1,0 +1,192 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Biennial 2007 Location Page</title>
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAALcnWoXOucwAMkb7GXuuJJRT0FVRJgXhejblEDaADn1SKIkiHBhTb2L5tHs9rzSsZW9PRS4WqHFAKfg"
+      type="text/javascript"></script>
+    <script type="text/javascript">
+
+    //<![CDATA[
+
+    function load() {
+      if (GBrowserIsCompatible()) {
+        var map = new GMap2(document.getElementById("map"));
+				map.addControl(new GSmallMapControl());
+				map.addControl(new GMapTypeControl());
+        map.setCenter(new GLatLng(55.965036, -3.210130), 13);
+				map.addControl(new GScaleControl( ))
+// Place a marker in the center of the map
+var marker = new GMarker(map.getCenter());
+map.addOverlay(marker);
+      }
+    }
+
+    //]]>
+    </script>
+</head>
+<body onload="load()" onunload="GUnload()">
+
+
+<div id="content">
+
+<div id="topBanner">
+<a name="_top"></a>
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/biennial2007-100px.png" width="90" height="90" 
+alt="Professor David G. Mann Arachne's Disc, Puget Sound, Washington, USA. Used for the SA Biennial 2007"
+title="Professor David G. Mann Arachne's Disc, Puget Sound, Washington, USA. Used for the SA Biennial 2007" />
+<p>6th Biennial Meeting: August 2007<br>
+Royal Botanic Garden, Edinburgh</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<p class="title">Quick links</p>
+		 <div class="textsmall">
+		 <p style="text-align: right">
+		 <a href="delegate-info.shtml">Delegate Information</a> <strong>New!</strong><br>
+		 <a href="index.shtml#Introduction">Introduction</a><br> 
+		 <a href="index.shtml#Bursaries">Bursaries</a><br>
+		 <a href="index.shtml#Deadlines">Deadlines!</a><br> 
+		 <a href="index.shtml#Themes">Themes</a><br>
+		 <a href="symposia.shtml">Symposia</a><br>
+		 <a href="index.shtml#Programme">Programme</a><br>
+		 <a href="registration.shtml#Registration">Registration</a><br>
+		 <a href="registration.shtml#Fees">Fees</a><br>
+ 		 <a href="registration.shtml#Abstracts">Abstracts</a><br>
+		 <a href="registration.shtml#Posters">Posters</a><br>
+		 <a href="registration.shtml#Students">Students</a><br>
+		 <a href="registration.shtml#Accommodation">Accommodation</a><br>
+		 <a href="registration.shtml#Meals">Meals</a><br>
+		 <a href="#Edinburgh">Edinburgh</a><br>
+		 <a href="#Travel">Travel</a><br>
+		 <a href="#Venues">Venues</a><br>
+		 <a href="#Weather">Weather</a><br>
+		 <a href="index.shtml#Organisers">Contacts information</a><br>
+		 <a href="/membership/"><strong>Join</strong> the Systematics Association!</a></p>
+		 <hr>
+		 <p><!-- some other text --></p>
+		 </div>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">28th - 31st August 2007</p>
+	 <a name="Edinburgh"></a><p class="title">Edinburgh - A World Heritage City</p>
+<p><img style="float: left; margin-right: 5px;" src="Edinburgh_Castle_princes.jpg" width="300" height="225" 
+alt="Edinburgh Castle from Princess Street. Photohrapher: Stuart Caie" 
+title="Edinburgh Castle from Princess Street. Photohrapher: Stuart Caie" />
+From the spectacular hills and World Heritage sites of the Georgian New Town 
+and medieval Old Town to the nightlife on the Shore, <a href="http://www.aboutscotland.com/edin/history.html" 
+rel="external">Edinburgh</a> is renowned for its unique history, architectural grandeur 
+and cultural vibrancy.  The August Edinburgh Festivals and Military Tattoo are just 
+part of the reason the city attracts over 6 million visitors each year, 
+<strong style="text-decoration: underline">so please book your accommodation early!</strong></p> 
+
+
+<ul>
+<li><a href="http://www.eif.co.uk/" rel="external">Edinburgh International Festival</a></li>
+<li><a href="http://www.edfringe.com/" rel="external">Edinburgh Fringe</a></li>
+<li><a href="http://www.edintattoo.co.uk/" rel="external">Edinburgh Military Tattoo</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Edinburgh" rel="external">Edinburgh - Wikipedia entry</a></li>
+</ul>
+
+
+<a name="Travel"></a><p class="title">Travel</p>
+
+<div id="map" style="width: 449px; height: 400px"></div>
+<noscript><p style="font-weight: bold">This page uses Javascript. Your browser either
+doesn't support Javascript or you have it turned off.
+To see this page as it is meant to appear please use
+a Javascript enabled browser.</p></noscript>
+
+<p>Edinburgh is served by convenient rail and air connections. Edinburgh Waverley rail 
+station is in the City Centre near Princes Street and is served by frequent trains 
+from many major cities in the <a href="http://www.edinburgh.org/traveltips/heretrain/" rel="external" title="Access Rail information">UK</a>. 
+<a href="http://www.edinburgh.org/traveltips/hereplane/" rel="external" title="Access Airport information">Edinburgh International Airport</a> 
+is 12km (8 miles) west of the city centre and is easy to reach thanks to an excellent - 
+and regular - Airlink Coach service and good taxi services. It takes about 25 minutes to 
+get from the city centre to the airport for &pound;5 return. Within Edinburgh, there are extensive 
+and affordable <a href="http://www.lothianbuses.co.uk/" rel="external" title="Access Bus information">bus</a> systems, with routes 
+<a href="http://www.lothianbuses.co.uk/r8.shtml" rel="external" title="Route 8">8</a>, 
+<a href="http://www.lothianbuses.co.uk/r17.shtml" rel="external" title="Route 17">17</a>, 
+<a href="http://www.lothianbuses.co.uk/r23.shtml" rel="external" title="Route 23">23</a>, and 
+<a href="http://www.lothianbuses.co.uk/r27.shtml" rel="external" title="Route 27">27</a> 
+between RBGE, the city centre and beyond.</p>
+
+<p class="title">Parking</p>
+
+<p>During the conference, we recommend that delegates take advantage of the excellent 
+local transport system in Edinburgh. We will be providing free scheduled service between 
+Pollock Halls and the Royal Botanic Garden Edinburgh in the mornings and evenings of 
+the conference. Parking in the vicinity of RBGE is extremely limited and is pay-and-display 
+in the area. If you require disabled parking, please let us know well in advance and 
+we will do our best to assist you.</p>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="Venues"></a><p class="title">Conference Venues</p>
+<div style="float: right; margin-left: 5px;"><a href="http://www.rbge.org.uk/" rel="external" title="RBGE Palmhouse - http://www.rbge.org.uk/"><img src="RBGE_Palmhouse.jpg" alt="RBGE Palmhouse - http://www.rbge.org.uk/" width="275" height="200" style="border: none;" /></a></div>
+<p>The Royal Botanic Garden Edinburgh provides a beautiful location for the Sixth Biennial 
+Conference of the Systematics Association. The grounds of the Royal Botanic Garden 
+Edinburgh are a major international tourist attraction and contain a globally important 
+collection of living plants.</p> 
+
+<p>
+<div style="float: left; margin-right: 5px;"><a href="http://www.dynamicearth.co.uk/" rel="external" title="Our Dynamic Earth - http://www.dynamicearth.co.uk/"><img src="DynamicEarth.jpg" alt="Our Dynamic Earth - http://www.dynamicearth.co.uk/" width="275" height="190" style="border: none;" /></a></div>
+<p>The Conference Banquet will be held at <Q>Our Dynamic Earth</Q>, 
+which offers stunning views of Holyrood Park and is only a short walk from Royal 
+Mile and the Pollock Halls of Residence.</p>
+
+<p>Rooms are available in the University of Edinburgh's <a href="http://www.ed.ac.uk/maps/edinburgh/" rel="external" title="Access Maps">Pollock Halls</a>, 
+comprising either en-suite rooms or standard rooms with shared facilities, 
+bed and breakfast.</p>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<a name="Weather"></a><p class="title">Weather</p>
+<p>Temperatures in Edinburgh can reach as high as around 21/22&deg;C (70&deg;F) during the day 
+in the summer, with average daily temperature around 14&deg;C.</p> 
+
+<!--#include virtual="/incl/topofpage.inc" -->	 
+
+<p><strong class="big">Contacts</strong><br>
+For further information on the conference email: 
+ <script type="text/javascript"><!--
+  var disp = "edinburgh.biennial";
+  var usr = "edinburgh.biennial";
+  var dom = "systass";
+  var tld = "org";
+  var ady = disp + "@" + dom + "." + tld;
+	var dispady = usr + "@" + dom + "." + tld;
+  document.write("(<a href=\"" + "mai" + "lto:" + dispady + "\">" + ady + "<" + "/a>)")
+//--></script>
+
+<!--#include virtual="/incl/topofpage.inc" -->
+
+<p></p>		 
+		 
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Bar ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 16 August 2007
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

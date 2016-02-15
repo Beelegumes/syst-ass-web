@@ -1,0 +1,274 @@
+/* Created Rupert Wilson 31 March 2007  */
+/* Based on normal stylesheet but modified for printing*/
+BODY {
+ margin:10px;
+ padding:10px;
+ color: #ffffff;
+ background-color: #ffffcc;
+ font-family: "Times New Roman", Garamond, serif; /* serif fonts look better in print (apparently) */
+/* font-family:'Trebuchet MS',Verdana,Tahoma,Arial,'Arial Black',Helvetica,'Century Gothic','Lucida Sans Unicode',Impact,sans-serif; */   
+ font-size:12px;
+}
+
+/* Content is the floating window  */
+div#content {
+ position: relative;
+ margin: auto;
+ height: auto;
+ width:100%; /* 790px */
+ padding:10px;
+ background-color: gray;
+ border-style: double;
+ color:white
+}
+/* top banner in the floating window  */
+div#topBanner {
+/* display: none; /* hides top banner from print preview */
+ position: relative;
+ top:0;
+ left:0;
+ height:100px;
+ padding:10px;
+ margin:0;
+ background-color:#369;
+ color:white
+}
+div#topBanner img {
+float:right;
+height:90px;
+}
+div#topBanner p {
+ margin:0;
+ padding:5px 5px;
+ float: left;
+ font-size:3em;
+}
+/* left menu in the floating window  */
+div#leftCol {
+ display: none; /* hides left column from print preview */
+ position:relative;
+ left:0;
+ height:auto;
+ min-height: 520px;
+ float:left; 
+ width:110px; /* Width of left column*/
+ padding:5px 5px;
+ margin:0;
+ background-color:#963;
+ color:white
+}
+/* right column in the floating window  */
+div#rightCol {
+ display: none; /* hides right column from print preview */
+ min-height: 520px; /* minimum height */
+ height: auto; /* auto height for compliant browsers */
+ _height: 610px; /* min-height for IE browsers */
+ float: right;
+ width:175px; /* Width of right column */
+ margin-left: -175px; /*Set left marginto -(RightColumnWidth)*/
+ padding:2px 10px;
+ background-color:#555;
+ color:white;
+}
+div#rightCol a {
+ text-decoration: none;
+ color: #FFFF00;
+}
+div#rightCol a:hover {
+ text-decoration: underline;
+}
+
+/* central column the floating window  */
+div#centerCol {
+/* position:relative; */
+ min-height: 520px; /* minimum height */
+ height: auto; /* auto height for compliant browsers */
+ _height: 520px; /* min-height for IE browsers */
+ padding: 0;
+ width: 100%;
+ margin: 0px;
+/* margin: 0px 205px 50px 130px; */  /* margin: top right bottom left*/
+/* margin: 0px 175px 50px 110px; */
+}
+div#centerCol table {
+}
+div#centerCol tr {
+ vertical-align: top;
+}
+div#centerCol td.quarter {
+ width: 25%;
+}
+div#centerCol td.threequarter {
+ width: 75%;
+} 
+div#centerCol th {
+ text-align: left; 
+ vertical-align: top;
+}
+div#centerCol td {
+ width: 50%;
+ padding: 5px;
+}
+div#centerCol a {
+ text-decoration: none;
+ color:#FFFF00;
+}
+div#centerCol a:hover {
+ text-decoration: underline;
+}
+div#centerCol p.Reference {
+ font-size:10.0pt;
+ font-family:Arial, Helvetica, sans-serif;
+ color:black;
+ width: 100%;
+}
+div#centerCol p.Cite {
+ font-size:10.0pt;
+ font-family:Arial, Helvetica, sans-serif;
+ color:black;
+ width: 90%;
+}
+.title-top {
+ font: bold 1.5em Verdana, sans-serif;
+ border-bottom-style: solid;
+ border-width: 1px;
+/*  font:<font-style> <font-variant> <font-weight> <font-size>/<line-height> <font-family>; */ 
+}
+/* left menu links START  */
+div#links {
+ position: relative; 
+ top: 5px; 
+ left: 0; 
+ width: 110px; 
+ height: 350px; 
+ font: small Verdana, sans-serif; 
+ z-index: 100;
+}
+div#links a {
+ display: block; 
+ text-align: left; 
+ font: bold 1em sans-serif; 
+ padding: 5px 10px; 
+ margin: 0 0 1px; 
+ border-width: 0; 
+ text-decoration: none; 
+ color: #FFC; 
+ background: #555;
+}
+div#links a:hover {
+ color: #411; 
+ background: #AAA;
+}
+div#links a span {
+ display: none;
+}
+div#links a:hover span {
+ display: block;
+ position: absolute; 
+ top: 280px; /* increase value to move roll over text down */ 
+ left: 0; 
+ width: 100px;
+ padding: 5px; 
+ margin: 0; 
+ z-index: 100;
+ color: #FFC; 
+ background: #963;
+ font: 10px Verdana, sans-serif; 
+ text-align: center;
+}
+/* left menu links END */
+div#search p {
+ font-size:.9em;
+}
+div#search a {
+ text-decoration: none;
+ color: #FFC;
+ background: #963; 
+}
+div#search a:hover {
+ text-decoration: underline;
+ color: #FFC; 
+ background: #AAA;
+}
+/* bottom banner the floating window  */
+div#bottomBanner {
+ width: 790px;
+ display: table-cell;
+ vertical-align: middle;
+ position:relative;
+ left:0;
+ height:60px;
+ padding:0px;
+ margin:0;
+ background-color:#369;
+ color:white;
+}
+div#bottomBanner p {
+ margin:0;
+ padding:5px;
+ float: left;
+}
+div#bottomBanner img {
+ float:right;
+}
+div#bottomBanner a {
+ text-decoration: none; 
+ color: #FFFF00; 
+}
+div#bottomBanner a:hover {
+ text-decoration: underline;
+}
+.title {
+font: bold 1.5em; /* Verdana, sans-serif */
+/*  font:<font-style> <font-variant> <font-weight> <font-size>/<line-height> <font-family>; */ 
+}
+.textsmall {
+font-size:.9em; 
+}
+/* Thanks to
+http://www.websemantics.co.uk/tutorials/useful_css_snippets/
+for the top of page idea */
+p.topofpage    {clear:both; padding:1em 0; background:url(/images/topofpage.gif) no-repeat center right; text-align:right; width:100%; font-size:90%;}
+p.topofpage a  {margin:0 25px 0 0}
+/* Thanks to 
+http://www.hunlock.com/blogs/Attach_icons_to_anything_with_CSS.
+http://www.askthecssguy.com/2006/12/showing_hyperlink_cues_with_cs_1.html
+http://www.kryogenix.org/days/2002/08/30/external */
+a[href $='.pdf'] { 
+   padding-right: 18px;
+   background: transparent url(/images/icon_pdf.gif) no-repeat center right;
+}
+a[href $='.doc'] { 
+   padding-right: 18px;
+   background: transparent url(/images/icon_word.gif) no-repeat center right;
+}
+a[href ^="mailto:"] {
+   padding-right: 20px;
+   background: transparent url(/images/icon_mailto.gif) no-repeat center right;
+}
+/* Add an external-link icon to absolute links */
+div#centerCol a[href^="http:"] {
+        background: url(/images/ext.gif) right center no-repeat;
+        padding-right: 12px;
+}
+div#rightCol a[href^="http:"] {
+        background: url(/images/ext.gif) right center no-repeat;
+        padding-right: 12px;
+}
+div#leftCol a[href^="http:"] {
+        background: url(/images/ext.gif) right center no-repeat;
+        padding-right: 12px;
+}
+/* ...but not to absolute links in this domain... */
+div#centerCol a[href^="http://www.systass.org"] {
+        background: transparent;
+        padding-right: 0px;
+}
+div#rightCol a[href^="http://www.systass.org"] {
+        background: transparent;
+        padding-right: 0px;
+}
+div#leftCol a[href^="http://www.systass.org"] {
+        background: transparent;
+        padding-right: 0px;
+}

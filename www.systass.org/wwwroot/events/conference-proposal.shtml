@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Conference Proposals</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Lectures,<br>
+Conferences and Workshops</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Downloads</P>
+		 <div class="textsmall">
+		 <p><a href="SA_Conference_Grant_Form.pdf" title="Acrobat Form">Conference organisation form (Acrobat)</a></p>
+		 <p><a href="SA_Conference_Grant_Form.doc"  title="Microsoft Word Document">Conference organisation form (Word)</a></p>
+		 <p><a href="http://www.adobe.com/products/acrobat/readstep2.html" rel="external">Download a FREE copy of the Adobe&copy; Acrobat Reader.</a></p>
+		 <hr>
+		 </div>
+<P class="title">Forthcoming Events
+</P><!--#include virtual="/events/FutureEventsKey.inc" -->
+
+		 <hr>
+        <p class="title">
+          Past Events
+        </p><!--#include virtual="/events/PastEventsKey.inc" -->
+        <hr>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">Application for a conference organisation grant from the Systematics Association</p>
+
+<ul>
+<li>The Systematics Associations provides grants to support the organisation of meetings that are pertinent to the Association's aims.</li>
+<li>Applications may be submitted at any time of year, but ideally should be received at least 9 months before the date of the proposed meeting. They will be evaluated by the Systematics Association Council at its meetings in January, April, July and October.</li>
+<li>Applicants are encouraged to consider publishing a book based on the proposed meeting within the Systematics Association volume series. Larger grants are available to successful applicants who publish with the Association.</li>
+<li>The Association will give priority to applicants who aim to improve access to meetings for participants that would otherwise be unable to attend, especially participants from developing countries.</li>
+<li>Funding is provided in advance of a meeting to allow organisation to proceed smoothly. Any unused funding should be returned to the Systematics Association, who will re-invest it in future meetings.</li>
+<li>All successful applicants are expected to provide a report of the meeting to be published in the Systematics Association Newsletter.</li>
+<li>The maximum amount awarded is &pound;2,000, with only half of that amount awarded upfront and the balance being paid on publication of the symposium volume with Cambridge University Press.</li>
+
+</ul>
+<p>Applications should be returned to <!--#include virtual="/events/meetings-secretary.inc" --></p>			
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 16 September 2014
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

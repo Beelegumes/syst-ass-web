@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - directions to Linnean Society</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>Directions to Linnean Society</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Past Events</P>
+		 <div class="textsmall">
+		 <p><a href="2009events.shtml">in 2009</a></p>
+		 <p><a href="2008events.shtml">in 2008</a></p>
+		 <p><a href="2007events.shtml">in 2007</a></p>
+		 <p><a href="2006events.shtml">in 2006</a></p>
+		 <p><a href="2005events.shtml">in 2005</a></p>
+		 <p><a href="2004events.shtml">in 2004</a></p>
+		 </div>
+		 <hr>
+<P class="title">New events</P>
+		 <div class="textsmall"><p>
+		 Please contact us if have an event which you wish to promote.  
+		 If we feel it is appropriate to the Association then it will be listed here.  
+		 Send details to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+
+
+<!-- Insert events below here -->
+	
+<p>Linnean Society of London
+<br>Burlington House
+<br>Piccadilly, 
+<br>London W1J 0BF</p>
+
+<p>Telephone: 020 7434 4479</p>
+
+<p>Closest Tube:  Piccadilly Circus
+<br><div class=text style=color:#ffffff;background:#894e24;border-color:#894e24>Bakerloo</div>
+<br><div class=text style=color:#ffffff;background:#0019a8;border-color:#0019a8>Piccadilly</div></p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" 
+marginwidth="0" src="http://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=W1J+0BF&amp;sll=54.585394,-5.9412&amp;sspn=0.031484,0.068922&amp;ie=UTF8&amp;hq=&amp;hnear=London+W1J+0BF,+United+Kingdom&amp;ll=51.508457,-0.13944&amp;spn=0,0.017681&amp;z=14&amp;layer=c&amp;cbll=51.508449,-0.1388&amp;panoid=CZf6V2slU5YPWd-L57OPRQ&amp;cbp=12,291.48,,0,-3.38&amp;output=svembed"></iframe><br /><small><a href="http://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=W1J+0BF&amp;sll=54.585394,-5.9412&amp;sspn=0.031484,0.068922&amp;ie=UTF8&amp;hq=&amp;hnear=London+W1J+0BF,+United+Kingdom&amp;ll=51.508457,-0.13944&amp;spn=0,0.017681&amp;z=14&amp;layer=c&amp;cbll=51.508449,-0.1388&amp;panoid=CZf6V2slU5YPWd-L57OPRQ&amp;cbp=12,291.48,,0,-3.38" 
+style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+<!-- Insert events above here -->
+
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 22 October 2010
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - the Sir Julian Huxley Lecture (2008)</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo" />
+<p>the<br>
+Sir Julian Huxley Lecture</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">Events</P>
+		 <div class="textsmall">
+		 <p><a href="index.shtml">Events for 2008</a></p>
+		 <p><a href="2007events.shtml">Events in 2007</a></p>
+		 <p><a href="2006events.shtml">Events in 2006</a></p>
+		 <p><a href="2005events.shtml">Events in 2005</a></p>
+		 <p><a href="2004events.shtml">Events in 2004</a></p>
+		 </div>
+		 <hr>
+<P class="title">New events</P>
+		 <div class="textsmall"><p>
+		 Please contact us if have an event which you wish to promote.  
+		 If we feel it is appropriate to the Association then it will be listed here.  
+		 Send details to <!--#include virtual="/events/meetings-secretary.inc" --></p>		 
+		 <hr>
+		 </div>
+<p class="title">Funding for events</p>
+     <div class="textsmall"><p>If you would like to organise your own conference, 
+		 with Systematics Association funding, you need to complete a <a href="conference-proposal.shtml">
+		 Conference Proposal form</a> and submit it to Bill Baker 
+        <script type="text/javascript"><!--
+        var usr = "W.Baker";
+        var dom = "rbgkew.org";
+        var tld = "uk";
+        var ady = usr + "@" + dom + "." + tld;
+        document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+        //--></script></p>		 
+		 <hr>
+		 </div>		 
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<p class="title">Not the fly on the wall: can systematists cope with uncertainty?</p>
+<p><strong>6pm on Wednesday 2 July 2008, Linnean Society, London</strong></p>
+<p><img style="float: left; margin-left: auto; margin-right: 5px;" src="/images/Felsenstein.jpg" width="166" height="150" alt="Prof. Joseph Felsenstein" title="Prof. Joseph Felsenstein" />
+<strong><a href="http://www.gs.washington.edu/faculty/felsenstein.htm" rel="external">Joseph Felsenstein</a></strong>
+<br>Professor of Genome Sciences and of Biology
+<br>Adjunct Professor of Computer Science and of Statistics
+<br>Department of Genome Sciences
+<br>University of Washington
+<br>Seattle, USA.
+</p>
+
+<p>&nbsp;</p>
+
+<p class="title">Abstract:</p> 
+<p>In reconstruction of molecular phylogenies, biologists have largely shifted their emphasis from inferring a single phylogeny to being comfortable with statistical descriptions of the uncertainty about it, whether by using bootstrapping, jackknifing, or Bayesian posteriors. Similar developments for morphological and behavioral characters have been slower in coming, as there have been fewer defensible statistical
+models available. The spread of statistical approaches to the comparative method is changing that. I will describe some new developments in statistical models for discrete as well as continuous morphological characters. They can infer correlations of character change across a phylogeny. However these inferences must necessarily be very noisy and uncertain. How will systematists and other evolutionary biologists cope with this uncertainty, if they cannot look forward to further molecular sequencing reducing it? Can we make use of the information without ignoring its uncertainties or overreacting to them? If we cannot hope for an exact account of actually what happened in evolution, is despair inevitable?
+</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/QPhgLEqiYBw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<p><a href="JH_Lecture_2008_Joseph_Felsenstein.pdf">Download a copy of the presentation</a></p>
+
+<p><strong>Recorded on Wednesday 2 July 2008 at the Linnean Society, London.  The Systematics Association gratefully acknowledges the Linnean Society for recording the event.</strong></p>
+
+<!-- <p class="title">The meeting is open to visitors<br>
+Wine will be served after the lecture to members and guests</p> -->
+
+<!-- <p><a href="JH_Lecture_2007_Poster.pdf">Please download and display a poster.</a></p> -->
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Right Column ?links? -->
+<p><!--#include virtual="/incl/w3c.inc" -->
+Last updated: 30 November 2008
+<!--#include virtual="/incl/webmaster-email.inc" -->
+</p>
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

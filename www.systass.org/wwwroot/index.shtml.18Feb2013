@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+
+    <title>
+      Systematics Association - Home Page
+    </title>
+  </head>
+  <body>
+    <noscript>
+    <h1>
+      Your browser does not support JavaScript or it is disabled!
+    </h1></noscript>
+    <div id="content">
+      <div id="topBanner">
+        <!-- Add HTML for Top Banner ?logo?image?adv.? --><a href="index.shtml"></a>
+        <img src="/images/SystAssLogo-100.png" width="81" height=
+        "100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          the<br>
+          Systematics Association
+        </p>
+        <p style="font-size:10px; float: center">
+          Registered Charity Number 270429
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          <a href="https://twitter.com/#!/SystAssn" style=
+          "background: transparent; text-decoration: none;padding-right: 0px;"
+          rel="external" title=
+          "Follow us on Twitter">@SystAssn</a>
+        </p>
+        <hr>
+        <p class="title">
+          SRF
+        </p>
+				<p>
+				Applications for the 2012/13 Systematics Research Fund are now 
+				<strong>open</strong>, <a href="/awards/srf.shtml">find out more</a>
+				</p>
+        <hr>
+        <p class="title">
+          Membership
+        </p>
+        <p>
+          The Systematics Association welcomes anyone interested
+          in the study or teaching of Systematics. Membership
+          entitles you to reduced registration at our many
+          Conferences, and major reductions on the books
+          published by the Association. <a href=
+          "/membership/index.shtml">Find out more</a>
+        </p>
+        <hr>
+				<!--#include virtual="/publications/latest-publication.inc" -->
+        <!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <p class="title">
+          Welcome
+        </p>
+        <p style="line-height: 110%;">
+          The Systematics Association is committed to furthering
+          all aspects of Systematic biology. It organises a
+          vigorous programme of international conferences on key
+          themes in systematics, including a series of major
+          biennial conferences launched in 1997. The association also
+          supports a variety of training courses in systematics
+          and awards grants in support of systematics research.
+          <a href="/about/index.shtml">Find out more</a>
+        </p>
+				<hr>
+
+
+				  <embed 
+	  src="/ir/imagerotator.swf" 
+	  width="410" 
+	  height="306"
+	  allowscriptaccess="always" 
+	  allowfullscreen="true" 
+	  flashvars="file=/ir/celebrate75.xml&transition=blocks&showicons=false&shownavigation=false&shuffle=true&overstretch=false&kenburns=true&usefullscreen=false&screencolor=0x808080&backcolor=0x808080" 
+	/>
+				
+				
+				<hr>
+        <p class="title">
+          Funding for events
+        </p>
+        <div class="textsmall">
+          <p>
+            If you would like to organise your own conference,
+            with Systematics Association funding, you need to
+            complete a <a href=
+            "/events/conference-proposal.shtml">Conference Proposal
+            form</a> and submit it to 
+            <!--#include virtual="/events/meetings-secretary.inc" -->
+          </p>
+        </div>
+        <hr>
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+				
+      </div><!-- Close id=centerCol -->
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom Banner ?links? -->
+        <!--#include virtual="/incl/w3c.inc" -->
+        Last updated: 8 November 2012 
+        <!--#include virtual="/incl/webmaster-email.inc" -->
+         <!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

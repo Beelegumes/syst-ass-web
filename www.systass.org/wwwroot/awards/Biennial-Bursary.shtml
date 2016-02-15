@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en-GB">
+<head>
+<!--#include virtual="/incl/meta-tags.inc" -->
+<title>Systematics Association - Biennial Bursary</title>
+</head>
+<body>
+
+
+<div id="content">
+
+<div id="topBanner">
+<!-- Add HTML for Top Banner ?logo?image?adv.? -->
+<img src="/images/SystAssLogo-100.png" width="81" height="100" alt="Systematics Association Logo"
+title="Systematics Association Logo">
+<p>Funding opportunities</p>
+</div>
+
+<!--#include virtual="/incl/left-menu.inc" -->
+
+<div id="rightCol">
+<!-- Add HTML for Right Column -->
+<P class="title">7th Biennial</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">First meeting of Biosyst EU 2009<br><br>
+		 <a href="http://www.biosyst.eu/" rel="external">Visit conference website</a></p>
+		 </div>
+		 <hr>
+
+<P class="title">SRF</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">Systematics Research Fund<br><br>
+		 <a href="srf.shtml">Further details</a><br>
+		 <a href="srf.shtml#form">Application form</a><br>
+		 <strong>Closing date 31 December 2008</strong><br>
+		 <a href="srf.shtml#results">Results</a></p>
+		 </div>
+		 <hr>
+<P class="title">CoSyst</P>
+		 <div class="textsmall">
+		 <p style="text-align: right;">Collaborative Scheme for Systematics Research<br><br>
+		 <a href="cosyst.shtml">Further details</a><br>
+		 <a href="cosyst.shtml#form">Application form</a><br>
+		 <strong>Closing date 15 March 2009</strong><br>
+		 <a href="cosyst.shtml#results">Results</a></p>
+		 </div>
+<!-- Close id=rightCol -->
+</div>
+
+<div id="centerCol">
+<!-- Add HTML for main body of page -->
+
+<div style="display: block; margin-left: auto; margin-right: auto; background-color: #000000; float: right;">
+<img src="../biennial2009/7thBiennialLogo1.PNG" width="453" height="151" alt="Biosyst EU 2009" title="Biosyst EU 2009">
+<img src="../biennial2009/7thBiennialLogo2.PNG" width="537" height="152" alt="Biosyst EU 2009" title="Biosyst EU 2009">
+</div>
+<div style="clear:both;"></div>
+
+<p class="title">Student Bursary Applications</p>
+
+<p><span style="background-color: #cc6633">27 March 2009</span> Applications 
+for Student Bursaries have now closed.</p>
+
+<!-- "/awards/2009-Biennial-Bursary.inc" -->
+
+<p>
+<script type="text/javascript">
+ <!--
+  var disp = "leiden.biennial";
+  var usr = "leiden.biennial";
+  var dom = "systass";
+  var tld = "org";
+	var subj = "?subject=Student Bursary 2009"
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("(<a href=\"" + "mai" + "lto:" + ady + subj + "\">" + ady + "<" + "/a>)")
+//-->
+</script></p>
+
+
+<!-- Close id=centerCol -->
+</div>
+
+<div id="bottomBanner">
+<!-- Add HTML for Bottom Banner ?links? -->
+<!--#include virtual="/incl/w3c.inc" -->
+Last updated: 27 March 2009
+<!--#include virtual="/incl/webmaster-email.inc" -->
+
+
+<!-- Close id=bottomBanner -->
+</div>
+
+<!-- Close id=Content -->
+</div>
+</body>
+</html>

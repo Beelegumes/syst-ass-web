@@ -1,0 +1,396 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - SRF 2012/13 round results page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/SystAssLogo-100.png" width="81" height=
+        "100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          Systematics Research Fund (SRF)<br>
+          Results of 2012/13 round
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          SRF
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            Systematics Research Fund<br>
+            1 Oct - 31 Dec<br>
+            <a href="srf.shtml">Further details</a>
+          </p>
+<p>         <!--#include virtual="/awards/SRF_previous_rounds_link.inc" --></p>
+        </div>
+        <hr>
+        <p class="title">
+          Join
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            To join the Systematics Association, visit the
+            <a href="/membership/">Membership page</a>.
+          </p>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <a name="results" id="results"></a>
+        <div style=
+        "display: block; margin-left: 5px; margin-right: 5px; background-color: #ffffff; float: right;">
+        <img src="../images/SystAssLogo.png" width="162"
+          height="200" alt="Systematics Association" title=
+          "Systematics Association"> <img src=
+          "../images/LinnSocLogo.jpg" width="140" height="181"
+          alt="Linnean Society of London" title=
+          "Linnean Society of London">
+        </div>
+        <p>
+          The SRF received a total of 114 applications for the
+          2012/13 round. Twenty eight of the applications were
+          funded. Successful applicants have been contacted by
+          email - if you applied this year you may like to check
+          the list of funded applications to see if your name
+          appears.
+        </p>
+        <hr>
+        <table summary=
+        "List of successful applicants for the 2012/13 SRF round">
+        <caption class="title">
+            List of successful applicants for the 2012/13 SRF
+            round
+          </caption>
+          <tr>
+            <th>
+              Name (Country)
+            </th>
+            <th>
+              Project title
+            </th>
+          </tr>
+          <tr>
+            <td>
+              Mary Aime (U.S.A.)
+            </td>
+            <td>
+              Macrofungal Diversity on the Guiana Shield: Year 14
+              of a long-term expeditionary field study
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Olaoluwa Akinwale (Nigeria)
+            </td>
+            <td>
+              Molecular Systematics of Snail Intermediate Hosts
+              of <em>Schistoma haematobium</em> in Nigeria
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Timothy Colston (U.S.A.)
+            </td>
+            <td>
+              Disentangling Species Boundaries in the Brazilian
+              Lancehead (<em>Bothrops moojeni</em>)
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Bounsavane Douangboubpha (Laos)
+            </td>
+            <td>
+              Enhancing the zoological collections of the
+              National University of Laos
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Luisa Duenas (Colombia)
+            </td>
+            <td>
+              Phylogeography and diversification of the deep-sea
+              octocoral <em>Tokoprymno maia</em> in sub-Antarctic
+              waters
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Anah&iacute; Esp&iacute;ndola (U.S.A.)
+            </td>
+            <td>
+              Disentangling the evolutionary, biogeographic and
+              ecological evolution of <em>Chalepogenus</em>
+              Holmberg (Apidae: Tapinotaspidini)
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Antonia Ford (U.K.)
+            </td>
+            <td>
+              <em>Oreochromis</em> phylogeny and the colonisation
+              of soda waters
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Elliot Gardner (U.S.A.)
+            </td>
+            <td>
+              Population genetics and species limits of
+              <em>Artocarpus odoratissimus</em> Blanco (Moraceae)
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Zoe Goodwin (U.K.)
+            </td>
+            <td>
+              Completing the global inventory of plants - Species
+              discovery and diversity
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Gareth Griffith (U.K.)
+            </td>
+            <td>
+              Does (Bacterial) Taxonomy Matter? The curious case
+              of <em>Polaromonas</em> and the Betaproteobacteria
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Traci Grzymala (U.S.A.)
+            </td>
+            <td>
+              Utilizing Confocal Laser Scanning Microscopy to
+              Elucidate the Systematics of the Aderidae
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Zeehan Jaafar (Singapore)
+            </td>
+            <td>
+              A Review of Mudskippers &amp; Allies - Implications
+              for Broader Studies
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              David Kipling (U.K.)
+            </td>
+            <td>
+              Enhancing the systematics and recording of British
+              ascidians with improved field characteristics
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Krzysztof Kozak (U.K.)
+            </td>
+            <td>
+              Detecting Hybrid Speciation in the genome of an
+              unusual butterfly
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Jim Labisko (U.K.)
+            </td>
+            <td>
+              Amphibians on the EDGE: Evolutionary relationships
+              and conservation ecology of sooglossid frogs
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Jesus Maldonado (U.S.A.)
+            </td>
+            <td>
+              Systematics of New World Deer, with emphasis on
+              neglected Neotropical Species
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Nigel Marley (U.K.)
+            </td>
+            <td>
+              Exploring Tardigrada biodiversity in the maritime
+              Antarctic Peninsula
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Nicholas Mason (U.S.A.)
+            </td>
+            <td>
+              Phylogeographic patterns, local adaptation, and
+              species limits in the Horned Lark
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Sarah Pene (Fiji)
+            </td>
+            <td>
+              Taxonomy, phylogeography and evolutionary history
+              of Fiji's native <em>Peperomia</em> Ruiz &amp; Pav.
+              (Piperaceae)
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              David Penney (U.K.)
+            </td>
+            <td>
+              Fossil Insects: An Introduction to Palaeoentomology
+              (book)
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Ana Perera (Portugal)
+            </td>
+            <td>
+              Taxonomic reassesment of the moroccan lizard
+              <em>Scelarcis perspicillata</em>
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Catarina Rato (Portugal)
+            </td>
+            <td>
+              Unravelling the divergence mechanisms in
+              <em>Tarentola mauritanica</em> geckos: a complex
+              species complex
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Marie-St&eacute;phanie Samain (Mexico)
+            </td>
+            <td>
+              Botanical "Lonesome Georges" of the Andes:
+              systematics of climbing Hydrangeas in Peru
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Henrik Sundberg (Sweden)
+            </td>
+            <td>
+              <em>Orectogyrus specularis</em> revisited: Testing
+              Thaxter's sixteen species.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Michelle Taylor (U.K.)
+            </td>
+            <td>
+              Hidden Biodiversity of Madagascan Coral Reefs: are
+              humans impacting the unseen?
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Martin Thompson (U.K.)
+            </td>
+            <td>
+              A RAD phylogeny of the diverse butterfly genus
+              <em>Acraea</em>
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Mark van der Giezen (U.K.)
+            </td>
+            <td>
+              Assessing the rare biosphere of an acid mine
+              drainage site.
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Ana Verissimo (Portugal)
+            </td>
+            <td>
+              Alpha taxonomy of <em>Squalus</em> in the eastern
+              Atlantic, Mediterranean and Black seas
+            </td>
+            <td></td>
+          </tr>
+        </table><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="contact" id="contact"></a>
+        <p class="title">
+          Contact
+        </p>
+        <p>
+          Questions about the application procedure can be sent
+          to Dr. Bente Klitg&aring;rd <script type=
+          "text/javascript">
+<!--
+          var usr = "b.klitgaard";
+          var dom = "systass";
+          var tld = "org";
+          var ady = usr + "@" + dom + "." + tld;
+          document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+          //-->
+          </script>
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom Banner ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+          Last updated: 3 May 2013 
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>
