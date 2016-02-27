@@ -102,10 +102,10 @@ to stand.</p>
             <tr>
                 <td>
                     Dr. Eve Lucas <strong>(2014-2017)</strong><br>
-                    Herbarium, Library, Art &amp; Archives<br>
+                    Comparative Plant and Fungal Biology<br>
                     Royal Botanic Gardens, Kew<br>
                     Richmond<br>
-                    TW9 3AE, UK<br>
+                    TW9 3AB, UK<br>
                     <script type="text/javascript">
                         <!--
                         var usr = "e.lucas";
@@ -318,18 +318,18 @@ to stand.</p>
 
             <tr>
                 <td>
-                    Dr. NO BODY  <strong>(2015-18)</strong><br>
-                    ADDRESS LINE 1<br>
-                    ADDRESS LINE 2<br>
-                    ADDRESS LINE 3<br>
-                    ADDRESS LINE 4<br>
-                    <a href="mailto:a.person@somewhere.ac.uk">a.person@somewhere.ac.uk</a>
+                    Dr. Barbara Mackinder  <strong>(2015-18)</strong><br>
+                    Royal Botanic Garden Edinburgh<br>
+                    20A Inverleith Row<br>
+                    Edinburgh<br>
+                    EH3 5LR<br>
+                    <a href="mailto:a.person@somewhere.ac.uk">b.mackinder@rbge.ac.uk</a>
                 </td>
                 <td>
-                    <img src="/images/head-man.png" width="88" height=
+                    <img src="/images/head-woman.PNG" width="88" height=
                             "120" alt="Person Name" title="Person Name"
                          style="float: left; padding-right: 12px">
-                    <!--#include virtual="/council/NewPerson.inc" -->
+                    <!--#include virtual="/council/bmackinder.inc" -->
                 </td>
             </tr>
 
@@ -393,8 +393,25 @@ to stand.</p>
             </td>
           </tr>
 
+            <tr>
+                <td>
+                    Dr. Wolf Eiserhardt  <strong>(2015-)</strong><br>
+                    Comparative Plant and Fungal Biology<br>
+                    Royal Botanic Gardens, Kew<br>
+                    Richmond<br>
+                    TW9 3AB<br>
+                    <a href="mailto:w.eiserhardt@kew.org">w.eiserhardt@kew.org</a>
+                </td>
+                <td>
+                    <img src="/images/WolfEiserhardt.jpg" width="88" height=
+                            "120" alt="Wolf Eiserhardt" title="Wolf Eiserhard"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/weiserhardt.inc" -->
+                </td>
+            </tr>
 
-           <tr>
+
+            <tr>
             <td>
               Prof. Beverley Glover <strong>(2014-17)</strong><br>
               Cambridge<br>
@@ -416,7 +433,25 @@ to stand.</p>
             </td>
           </tr>
 
-          <tr>
+            <tr>
+                <td>
+                    Zoe Goodwin <strong>(2015-18)</strong><br>
+                    Dept. of Plant Sciences<br>
+                    Oxford University<br>
+                    South Parks Rd<br>
+                    Oxford OX1 3RB<br>
+                    <a href="mailto:zoe.goodwin@plants.ox.ac.uk">zoe.goodwin@plants.ox.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/ZoeGoodwin.JPG" width="88" height=
+                            "120" alt="Zoe Goodwin" title="Zoe Goodwin"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/zgoodwin.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
             <td>
               Dr. Olwen Grace <strong>(2014-17)</strong><br>
               Kew<br>
@@ -547,7 +582,7 @@ to stand.</p>
           <tr>
             <td>
               Luke Parry <strong>(2016-18)</strong><br>
-              University of Brsitol<br>
+              University of Bristol<br>
               <script type="text/javascript">
 <!--
   var usr = "lp13932";
@@ -564,9 +599,27 @@ to stand.</p>
               style="float: left; padding-right: 12px"> 
               <!--#include virtual="/council/lparry.inc" -->
             </td>
-          </tr>					
-					
-          <tr>
+          </tr>
+
+            <tr>
+                <td>
+                    Pablo Muñoz-Rodríguez  <strong>(2015-18)</strong><br>
+                    Dept. of Plant Sciences<br>
+                    Oxford University<br>
+                    South Parks Rd<br>
+                    Oxford OX1 3RB<br>
+                    <a href="mailto:pablo.munoz@plants.ox.ac.uk">pablo.munoz@plants.ox.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/PabloMuñoz-Rodríguez.PNG" width="88" height=
+                            "120" alt="Persons Name" title="Persons Name"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/pmunozrodriguez.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
             <td>
               Dr. Diana Percy <strong>(2014-17)</strong><br>
               Dept. of Life Sciences<br>
