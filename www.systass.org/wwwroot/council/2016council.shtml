@@ -443,8 +443,8 @@ to stand.</p>
                     <a href="mailto:zoe.goodwin@plants.ox.ac.uk">zoe.goodwin@plants.ox.ac.uk</a>
                 </td>
                 <td>
-                    <img src="/images/ZoeGoodwin.JPG" width="88" height=
-                            "120" alt="Zoe Goodwin" title="Zoe Goodwin"
+                    <img src="/images/ZoeGoodwin.jpg"
+                         alt="Zoe Goodwin" title="Zoe Goodwin"
                          style="float: left; padding-right: 12px">
                     <!--#include virtual="/council/zgoodwin.inc" -->
                 </td>
@@ -611,8 +611,8 @@ to stand.</p>
                     <a href="mailto:pablo.munoz@plants.ox.ac.uk">pablo.munoz@plants.ox.ac.uk</a>
                 </td>
                 <td>
-                    <img src="/images/PabloMuñoz-Rodríguez.PNG" width="88" height=
-                            "120" alt="Persons Name" title="Persons Name"
+                    <img src="/images/PabloMuñoz-Rodríguez.PNG" width="103" height=
+                            "90" alt="Persons Name" title="Persons Name"
                          style="float: left; padding-right: 12px">
                     <!--#include virtual="/council/pmunozrodriguez.inc" -->
                 </td>
