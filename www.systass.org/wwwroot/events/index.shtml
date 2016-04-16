@@ -58,155 +58,114 @@
       </div>
       <div id="centerCol">
         <!-- Add HTML for main body of page -->
-        <a name="2015" id="2015"></a>
+        <a name="2016" id="2016"></a>
         <p class="title">
-          Events for 2015
+          Events for 2016
 				</p>
 				<p style="background-color: #cc6633;">Jump to <a href="#nextevent">next upcoming event</a></p>
-        <table summary="2015 Events" width="100%">
+        <table summary="2016 Events" width="100%">
           <tr class="alternate">
-            <td class="quarter">
+            <th class="quarter">
               Date
-            </td>
-            <td class="threequarter">
+            </th>
+            <th class="threequarter">
               Event
-            </td>
-          </tr><!-- Insert events below here -->				
+            </th>
+          </tr><!-- Insert events below here -->
 
-				
-          <tr class="alternate">
-            <td class="quarter">
-              29 January 2015
-            </td>
-            <td class="threequarter">
-						<img src="/images/IllustrationsMeetingJan2015.jpg" width="100" height="144" alt="Systematics &amp; Botanical Illustration" style="float: right;" />
-              <strong>Systematics &amp; Botanical Illustration</strong><br>
-							Day meeting organised jointly by the Systematics Association and The 
-							Linnean Society of London<br>   
-							Burlington House, London, UK<br><br>
-							Regisistration is essential - 
-							<a href="http://www.linnean.org/Meetings-and-Events/Events/Systematics+Botanical+Illustration" rel="external">Further details</a>
-						</td>
-          </tr>
+            <tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
 
-					
-          <tr>
-            <td class="quarter">
-              16 April 2015
-            </td>
-            <td class="threequarter">
-              <strong>Biodiversity Policy Lecture</strong><br>
-							"A response to the NERC taxonomy review" - Professor Ian Owens, 
-							Director of Science, The Natural History Museum, London <br>   
-							 6.00pm Linnean Society, Burlington House, London, UK<br>
-						</td>
-          </tr>
 
-          <tr class="alternate">
-            <td class="quarter">
-              26-28 August 2015<br><br>
-							<strong>Biennial Conference</strong><br><br>
-							Systematics - the science that underpins biology<br>
-							Oxford University, UK
-							<br><a href="/biennial2015/">Further details</a>
-            </td>
-            <td class="threequarter">
-						<a href="/biennial2015/index.shtml" style=
-          "background: transparent; text-decoration: none;padding-right: 0px;">
-						<img style="float: right; margin-right: auto; margin-left: 5px;" src="/biennial2015/10thBiennial2015.png" width="150"
-        height="211" alt="10th Systematics Biennial 26-28 August 2015" 
-				title="10th Systematics Biennial 26-28 August 2015"></a>
-						</td>
-          </tr>
+            <tr >
+                <td class="quarter">
+                    21 April 2016<br><br>
+                    <a href="/events/JH-lecture-2016.shtml" style=
+                            "background: transparent; text-decoration: none;padding-right: 0px;">
+                        <!--<img style="float: left; margin-right: 5px; margin-left: auto;" src="/images/RosemaryGillespie-150px.png" width="150"
+        height="150" alt="Professor Rosemary G. Gillespie"
+                title="Professor Rosemary G. Gillespie">--></a>
 
-          <tr>
-            <td class="quarter">
-              24 September 2015
-            </td>
-            <td class="threequarter">
-              <strong>The Joy of Discovering the Natural World</strong><br>
-							This one-day meeting will bring together a number of UK scientists 
-							committed to describing new species to tell the stories that lie behind 
-							their discoveries.<br>   
-							Linnean Society, Burlington House, London, UK<br>
-							<a href="http://www.linnean.org/Meetings-and-Events/Events/The+Joy+of+Discovering+the+Natural+World" rel="external">Further details</a>
-						</td>
-          </tr>
-					
-					
-					
-          <tr class="alternate">
-            <td class="quarter">
-              14 October 2015<br><br>
-						<a href="/events/JH-lecture-2015.shtml" style=
-          "background: transparent; text-decoration: none;padding-right: 0px;">
-						<img style="float: left; margin-right: 5px; margin-left: auto;" src="/images/RosemaryGillespie-150px.png" width="150"
-        height="150" alt="Professor Rosemary G. Gillespie" 
-				title="Professor Rosemary G. Gillespie"></a>						
-
-            </td>
-            <td class="threequarter">
-              <strong>Sir Julian Huxley Lecture</strong><br><br>
+                </td>
+                <td class="threequarter">
+                    <strong>9th Annual Biodiversity Policy Lecture</strong><br><!--<br>
 							Island time and the interplay between ecology &amp; evolution in species diversification<br><br>
 							<strong>Professor Rosemary G. Gillespie, Schlinger Chair in Systematic Entomology, University of California Berkeley</strong><br>
 							<a href="http://nature.berkeley.edu/evolab/" rel="external">http://nature.berkeley.edu/evolab/</a><br><br>
-							 6.00pm Linnean Society, Burlington House, London, UK<br>
-							 <a href="/events/JH-lecture-2015.shtml">Further details</a> | <a href="/events/JHL2015-Gillespie-poster.pdf">download poster</a>
+							 6.00pm Linnean Society, Burlington House, London, UK<br>-->
+                    <a href="http://www.linnean.org/Meetings-and-Events/Events/science-policy-lecture-2016">Further details</a> <!--| <a href="/events/JHL2015-Gillespie-poster.pdf">download poster</a>-->
+                </td>
+            </tr>
+
+            <tr class="alternate">
+            <td class="quarter">
+              12 October 2016<br><br>
+						<a href="/events/JH-lecture-2016.shtml" style=
+          "background: transparent; text-decoration: none;padding-right: 0px;">
+						<!--<img style="float: left; margin-right: 5px; margin-left: auto;" src="/images/RosemaryGillespie-150px.png" width="150"
+        height="150" alt="Professor Rosemary G. Gillespie" 
+				title="Professor Rosemary G. Gillespie">--></a>
+
+            </td>
+            <td class="threequarter">
+              <strong>Sir Julian Huxley Lecture</strong><br><!--<br>
+							Island time and the interplay between ecology &amp; evolution in species diversification<br><br>
+							<strong>Professor Rosemary G. Gillespie, Schlinger Chair in Systematic Entomology, University of California Berkeley</strong><br>
+							<a href="http://nature.berkeley.edu/evolab/" rel="external">http://nature.berkeley.edu/evolab/</a><br><br>
+							 6.00pm Linnean Society, Burlington House, London, UK<br>-->
+							 <a href="/events/JH-lecture-2016.shtml">Further details</a> <!--| <a href="/events/JHL2015-Gillespie-poster.pdf">download poster</a>-->
 						</td>
           </tr>
-					
-		<tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
-					
-          <tr>
+
+            <tr >
+                <td class="quarter">
+                    16 November 2016
+                </td>
+                <td class="threequarter">
+                    <strong>Annual General Meeting</strong><br>
+                    <!--<a href="/events/AGM_2015.shtml">Further details</a>-->
+                    <br>5.00pm Linnean Society, Burlington House, London, UK<br>
+                </td>
+            </tr>
+            <tr class="alternate">
+                <td class="quarter">
+                    16 November 2016<br><!--<br>
+                    <a href="/events/Presidents_Lecture_2015.shtml" style=
+                            "background: transparent; text-decoration: none;padding-right: 0px;">
+                        <img style="float: left; margin-right: 5px; margin-left: auto;"
+                             src="/images/aframomum.JPG" width="206" height="210" alt="Timeline for Afromomum specimen" title="Timeline for Afromomum specimen" /></a>-->
+                </td>
+                <td class="threequarter">
+                    <strong>President's Lecture</strong><br><br>6.00pm Linnean Society, Burlington House, London, UK<br><br>
+                    Further details to be announced<br><!--<br>
+                    Robert Scotland
+                    <br>Reader in Systematic Botany</strong>
+                    <br>Department of Plant Sciences,
+                    <br>University of Oxford, UK</p>
+                    <a href="/events/Presidents_Lecture_2015-poster.pdf" rel="external">Download a poster</a><br>
+                    6.00pm Linnean Society, Burlington House, London, UK<br>
+                    <br><a href="/events/Presidents_Lecture_2015.shtml">Further details</a>-->
+                </td>
+            </tr>
+
+            <tr >
             <td class="quarter">
-             20 November 2015
+             25 November 2016
             </td>
             <td class="threequarter">
               <strong>Young Systematists' Forum</strong><br>
 							<em>a FREE one day meeting</em>
 							<br>Flett Lecture Theatre, The Natural History Museum, London, UK
-							<br>The annual Young Systematists' Forum represents an exciting setting 
-							for Masters, PhD and young postdoctoral researchers to present their 
-							data, often for the first time, to a scientific audience interested 
-							in taxonomy, systematics and phylogenetics.
-							<br><a href="/ysf/">Further details</a><br>
-						</td>
-          </tr>					
+							<br>The annual Young Systematists' Forum represents an exciting setting
+							for Masters, PhD and young postdoctoral researchers to present their
+							data, often for the first time, to a scientific audience interested
+							in taxonomy, systematics and phylogenetics.<br><br>Further details to be announced
 
-						
-          <tr class="alternate">
-            <td class="quarter">
-             26 November 2015
-            </td>
-            <td class="threequarter">
-              <strong>Annual General Meeting</strong><br>
-							<a href="/events/AGM_2015.shtml">Further details</a>
-							<br>5.00pm Linnean Society, Burlington House, London, UK<br>
+<!--							<br><a href="/ysf/">Further details</a><br>-->
 						</td>
           </tr>
-									
-          <tr class="alternate">
-            <td class="quarter">
-             26 November 2015<br><br>
-						 <a href="/events/Presidents_Lecture_2015.shtml" style=
-          "background: transparent; text-decoration: none;padding-right: 0px;">
-						<img style="float: left; margin-right: 5px; margin-left: auto;" 
-						src="/images/aframomum.JPG" width="206" height="210" alt="Timeline for Afromomum specimen" title="Timeline for Afromomum specimen" /></a>
-            </td>
-            <td class="threequarter">
-              <strong>President's Lecture</strong><br><br>
-							<em>Do half the world's natural history collections have the wrong name and<br>
-							What can we do about it?</em><br><br>
-							Robert Scotland
-							<br>Reader in Systematic Botany</strong>
-							<br>Department of Plant Sciences,
-							<br>University of Oxford, UK</p>
-							<a href="/events/Presidents_Lecture_2015-poster.pdf" rel="external">Download a poster</a><br>
-							6.00pm Linnean Society, Burlington House, London, UK<br>
-							<br><a href="/events/Presidents_Lecture_2015.shtml">Further details</a>
-						</td>
-          </tr>
-					
+
+
+
 					
 					
 					
@@ -221,7 +180,7 @@
         <!-- Add HTML for Right Column ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 16 November 2015 
+           Last updated: 14 April 2016
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->

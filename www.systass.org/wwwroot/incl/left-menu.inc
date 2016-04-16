@@ -14,7 +14,7 @@
 <a href="/media/" title="Podcasts and videos">Multimedia<span> Podcasts and videos</span></a>
 <!-- <a href="/news/" title="Announcements and news of interest">News<span> Announcements and news of interest</span></a> -->
 <!-- <a href="http://biosysteu.univie.ac.at/" rel="external" accesskey="b" title="Details of the 2nd European Biosystematics Conference">BioSyst.Eu<span> Vienna, Austria: 18-22 February 2013</span></a> -->
-<a href="/biennial2015/" accesskey="b" title="Systematics - the science that underpins biology">Systematics 2015<span> 26-28 August 2015 - University of Oxford, UK</span></a>
+<!-- <a href="/biennial2015/" accesskey="b" title="Systematics - the science that underpins biology">Systematics 2015<span> 26-28 August 2015 - University of Oxford, UK</span></a> -->
 <!-- Close id=links -->
 </div>
 

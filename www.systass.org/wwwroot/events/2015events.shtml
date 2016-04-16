@@ -1,0 +1,229 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+        "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+<head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+        Systematics Association - Meetings and Events Page
+    </title>
+</head>
+<body>
+<div id="content">
+    <div id="topBanner">
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/SystAssLogo-100.png" width="81" height=
+                "100" alt="Systematics Association Logo" title=
+                     "Systematics Association Logo">
+        <p>
+            Lectures,<br>
+            Conferences and Workshops
+        </p>
+    </div><!--#include virtual="/incl/left-menu.inc" -->
+    <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+            Past Events
+        </p><!--#include virtual="/events/PastEventsKey.inc" -->
+        <hr>
+        <p class="title">
+            New events
+        </p>
+        <div class="textsmall">
+            <p>
+                Please contact us if have an event which you wish to
+                promote. If we feel it is appropriate to the
+                Association then it will be listed here. Send details
+                to
+                <!--#include virtual="/events/meetings-secretary.inc" -->
+            </p>
+            <hr>
+        </div>
+        <p class="title">
+            Funding for events
+        </p>
+        <div class="textsmall">
+            <p>
+                If you would like to organise your own conference,
+                with Systematics Association funding, you need to
+                complete a <a href=
+                                      "conference-proposal.shtml">Conference Proposal
+                form</a> and submit it to
+                <!--#include virtual="/events/meetings-secretary.inc" -->
+                <br><br>Please note: The maximum amount awarded is &pound;2,000, with only
+                half of that amount awarded upfront and the balance being paid on
+                publication of the symposium volume with Cambridge University Press.
+            </p>
+            <hr>
+        </div><!-- Close id=rightCol -->
+    </div>
+    <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <a name="2015" id="2015"></a>
+        <p class="title">
+            Events for 2015
+        </p>
+
+        <table summary="2015 Events" width="100%">
+            <tr class="alternate">
+                <td class="quarter">
+                    Date
+                </td>
+                <td class="threequarter">
+                    Event
+                </td>
+            </tr><!-- Insert events below here -->
+
+
+            <tr class="alternate">
+                <td class="quarter">
+                    29 January 2015
+                </td>
+                <td class="threequarter">
+                    <img src="/images/IllustrationsMeetingJan2015.jpg" width="100" height="144" alt="Systematics &amp; Botanical Illustration" style="float: right;" />
+                    <strong>Systematics &amp; Botanical Illustration</strong><br>
+                    Day meeting organised jointly by the Systematics Association and The
+                    Linnean Society of London<br>
+                    Burlington House, London, UK<br><br>
+                    Regisistration is essential -
+                    <a href="http://www.linnean.org/Meetings-and-Events/Events/Systematics+Botanical+Illustration" rel="external">Further details</a>
+                </td>
+            </tr>
+
+
+            <tr>
+                <td class="quarter">
+                    16 April 2015
+                </td>
+                <td class="threequarter">
+                    <strong>Biodiversity Policy Lecture</strong><br>
+                    "A response to the NERC taxonomy review" - Professor Ian Owens,
+                    Director of Science, The Natural History Museum, London <br>
+                    6.00pm Linnean Society, Burlington House, London, UK<br>
+                </td>
+            </tr>
+
+            <tr class="alternate">
+                <td class="quarter">
+                    26-28 August 2015<br><br>
+                    <strong>Biennial Conference</strong><br><br>
+                    Systematics - the science that underpins biology<br>
+                    Oxford University, UK
+                    <br><a href="/biennial2015/">Further details</a>
+                </td>
+                <td class="threequarter">
+                    <a href="/biennial2015/index.shtml" style=
+                            "background: transparent; text-decoration: none;padding-right: 0px;">
+                        <img style="float: right; margin-right: auto; margin-left: 5px;" src="/biennial2015/10thBiennial2015.png" width="150"
+                             height="211" alt="10th Systematics Biennial 26-28 August 2015"
+                             title="10th Systematics Biennial 26-28 August 2015"></a>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="quarter">
+                    24 September 2015
+                </td>
+                <td class="threequarter">
+                    <strong>The Joy of Discovering the Natural World</strong><br>
+                    This one-day meeting will bring together a number of UK scientists
+                    committed to describing new species to tell the stories that lie behind
+                    their discoveries.<br>
+                    Linnean Society, Burlington House, London, UK<br>
+                    <a href="http://www.linnean.org/Meetings-and-Events/Events/The+Joy+of+Discovering+the+Natural+World" rel="external">Further details</a>
+                </td>
+            </tr>
+
+
+
+            <tr class="alternate">
+                <td class="quarter">
+                    14 October 2015<br><br>
+                    <a href="/events/JH-lecture-2015.shtml" style=
+                            "background: transparent; text-decoration: none;padding-right: 0px;">
+                        <img style="float: left; margin-right: 5px; margin-left: auto;" src="/images/RosemaryGillespie-150px.png" width="150"
+                             height="150" alt="Professor Rosemary G. Gillespie"
+                             title="Professor Rosemary G. Gillespie"></a>
+
+                </td>
+                <td class="threequarter">
+                    <strong>Sir Julian Huxley Lecture</strong><br><br>
+                    Island time and the interplay between ecology &amp; evolution in species diversification<br><br>
+                    <strong>Professor Rosemary G. Gillespie, Schlinger Chair in Systematic Entomology, University of California Berkeley</strong><br>
+                    <a href="http://nature.berkeley.edu/evolab/" rel="external">http://nature.berkeley.edu/evolab/</a><br><br>
+                    6.00pm Linnean Society, Burlington House, London, UK<br>
+                    <a href="/events/JH-lecture-2015.shtml">Further details</a> | <a href="/events/JHL2015-Gillespie-poster.pdf">download poster</a>
+                </td>
+            </tr>
+
+
+            <tr>
+                <td class="quarter">
+                    20 November 2015
+                </td>
+                <td class="threequarter">
+                    <strong>Young Systematists' Forum</strong><br>
+                    <em>a FREE one day meeting</em>
+                    <br>Flett Lecture Theatre, The Natural History Museum, London, UK
+                    <br>The annual Young Systematists' Forum represents an exciting setting
+                    for Masters, PhD and young postdoctoral researchers to present their
+                    data, often for the first time, to a scientific audience interested
+                    in taxonomy, systematics and phylogenetics.
+                    <br><a href="/ysf/">Further details</a><br>
+                </td>
+            </tr>
+
+
+            <tr class="alternate">
+                <td class="quarter">
+                    26 November 2015
+                </td>
+                <td class="threequarter">
+                    <strong>Annual General Meeting</strong><br>
+                    <a href="/events/AGM_2015.shtml">Further details</a>
+                    <br>5.00pm Linnean Society, Burlington House, London, UK<br>
+                </td>
+            </tr>
+
+            <tr class="alternate">
+                <td class="quarter">
+                    26 November 2015<br><br>
+                    <a href="/events/Presidents_Lecture_2015.shtml" style=
+                            "background: transparent; text-decoration: none;padding-right: 0px;">
+                        <img style="float: left; margin-right: 5px; margin-left: auto;"
+                             src="/images/aframomum.JPG" width="206" height="210" alt="Timeline for Afromomum specimen" title="Timeline for Afromomum specimen" /></a>
+                </td>
+                <td class="threequarter">
+                    <strong>President's Lecture</strong><br><br>
+                    <em>Do half the world's natural history collections have the wrong name and<br>
+                        What can we do about it?</em><br><br>
+                    Robert Scotland
+                    <br>Reader in Systematic Botany</strong>
+                    <br>Department of Plant Sciences,
+                    <br>University of Oxford, UK</p>
+                    <a href="/events/Presidents_Lecture_2015-poster.pdf" rel="external">Download a poster</a><br>
+                    6.00pm Linnean Society, Burlington House, London, UK<br>
+                    <br><a href="/events/Presidents_Lecture_2015.shtml">Further details</a>
+                </td>
+            </tr>
+
+
+
+
+            <!-- Insert events above here -->
+        </table>
+
+
+
+        <!-- Close id=centerCol -->
+    </div>
+    <div id="bottomBanner">
+        <!-- Add HTML for Right Column ?links? -->
+        <p>
+            <!--#include virtual="/incl/w3c.inc" -->
+            Last updated: 16 November 2015
+            <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+    </div><!-- Close id=Content -->
+</div>
+</body>
+</html>
