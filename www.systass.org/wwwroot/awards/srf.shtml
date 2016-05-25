@@ -118,6 +118,7 @@
 					&pound;500-&pound;1,000 are preferred, the value of any single
           award will not exceed &pound;1500.
         </p>
+<!--
         <p>
           Please read the <a href="#form">"Guidelines for
           applying for SRF funding"</a> before completing the
@@ -134,17 +135,12 @@
           var tld = "org";
           var ady = usr + "@" + dom + "." + tld;
           document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
-          //-->
+          //&ndash;&gt;
           </script>
         </p>
+-->
         <!-- Close id=centerCol -->
 	      </div>
-				<div style="background-color: #ffffff;">
-        <a name="form" id="form"></a>
-				
-				<!--#include virtual="/awards/srf15-16form.inc" -->
-        
-				</div>
       <div id="centerCol">
 				<!--#include virtual="/incl/topofpage.inc" -->			
          <a name="results" id="results"></a>
@@ -152,17 +148,19 @@
           Results
         </p>
         <p>
-          The SRF received a total of 173 applications for the
-          2014/15 round, with a total value of &pound;181,156.23.
+          The SRF received a total of 149 eligible applications for the
+          2015/16 round.
           Thirty one of the applications were funded at a total
-          cost of &pound;32,136.28. Successful applicants have
+          cost of &pound;31,910. Successful applicants have
           been informed by email.
         </p>
+<!--
         <p>
           A summary report of the 2014/15 application round can
           be <a href="2015_SRF_report.pdf" target="_blank">found
           here</a>.
         </p>
+-->
         <p>
          <!--#include virtual="/awards/SRF_previous_rounds_link.inc" -->
         </p><!--#include virtual="/incl/topofpage.inc" -->
