@@ -1,0 +1,367 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - SRF 2015/16 round results page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+         <img src="/images/SystAssLogo-100.png" width="81"
+        height="100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          Systematics Research Fund (SRF)<br>
+          Results of 2015/16 round
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          SRF
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            Systematics Research Fund<br>
+            1 Oct - 31 Dec<br>
+            <a href="srf.shtml">Further details</a>
+          </p>
+<p>         <!--#include virtual="/awards/SRF_previous_rounds_link.inc" --></p>					
+        </div>
+        <hr>
+        <p class="title">
+          Join
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            To join the Systematics Association, visit the
+            <a href="/membership/">Membership page</a>.
+          </p>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <a name="results" id="results"></a>
+        <div style=
+        "display: block; margin-left: 5px; margin-right: 5px; background-color: #ffffff; float: right;">
+        <img src="../images/SystAssLogo.png" width="162"
+          height="200" alt="Systematics Association" title=
+          "Systematics Association"> <img src=
+          "../images/LinnSocLogo.jpg" width="140" height="181"
+          alt="Linnean Society of London" title=
+          "Linnean Society of London">
+        </div>
+        <p>
+          <br>
+          The SRF received a total of 149 elligible applications for the
+          2015/16 round.
+          Thirty one of the applications were funded at a total
+          cost of &pound;31,910.<br> <br>Successful applicants have
+          been contacted by email.<br>
+          <br>
+          <br>
+
+        </p>
+<!--        <p>
+          A summary report of the 2014/15 application round can
+          be <a href="2015_SRF_report.pdf" target="_blank">found
+          here</a>.
+        </p>-->
+        <hr>
+        <table summary=
+        "List of successful applicants for the 2015/16 SRF round">
+        <caption class="title">
+            List of successful applicants for the 2015/16 SRF
+            round
+          </caption>
+          <tr>
+            <th>
+              Name (Country)
+            </th>
+            <th>
+              Project title
+            </th>
+          </tr>
+          <tr>
+            <td>
+              Camilla Alves Souto (U.S.A.)
+            </td>
+            <td>
+              Phylogeny and biogeography of the echinolampadid echinoids (Echinodermata)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Rani Asmarayani (U.S.A.)
+            </td>
+            <td>
+              Revision of <em>Piper</em> section <em>Muldera</em> (Piperaceae)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Charles Baillie (U.K.)
+            </td>
+            <td>
+              Parallel adaptive radiations of cymothoid Isopods and their fish hosts
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Marzia Breda (Italy)
+            </td>
+            <td>
+              Morphological distinction of the giant deer <em>Megaloceros savini</em> from Vallparadís Section (Spain)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Thom Dallimore (U.K.)
+            </td>
+            <td>
+              Using molecular phylogeography to determine systematic relationships among cryptic collembola species
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Kyle Dexter (U.K.)
+            </td>
+            <td>
+              An exceptional case of diversification in desert environments, <em>Petalidium</em> in the Namib
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Serena Dool (Germany)
+            </td>
+            <td>
+              Systematics of the Vespertilionini tribe of bats – implications for evolution of migration
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Gabriel Ferreira (Brazil)
+            </td>
+            <td>
+              On the homology of the dermal scales of the turtle skull
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Javier Francisco-Ortega (U.S.A.)
+            </td>
+            <td>
+              Systematics of the Caribbean island endemic genus <em>Bonania</em> (Euphorbiaceae)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Annelise Fraz&atilde;o (Brazil)
+            </td>
+            <td>
+              Using Neotropical Trumpet Flowers to unveil mechanisms behind biogeographic and morphological evolution
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Melinda Greenfield (Australia)
+            </td>
+            <td>
+              Interactions between ants, fungi and the ant-plant <em>Myrmecodia beccarii</em>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Gustavo Heiden (Brazil)
+            </td>
+            <td>
+              Taxonomy of <em>Baccharis</em> (Asteraceae): revision of Coridifolia, Heterothalamus and Oblongifolia clades
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Daniel Huston (Australia)
+            </td>
+            <td>
+              Taxonomic confusion and cryptic speciation among Great Barrier Reef gorgocephalid trematodes
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Sang Il Kim (U.S.A.)
+            </td>
+            <td>
+              Phylogeny of Prioninae may explain an “inordinate apathy” for old beetle lineages
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Paschalia Kapli (Germany)
+            </td>
+            <td>
+              Evolutionary history of the desert lizard <em>Mesalina watsonana</em> in the Iranian Plateau
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Jen&ouml; Kontsch&aacute;n (Cuba)
+            </td>
+            <td>
+              Biodiversity studies on the South-East Asian Uropdina (Acari)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Christoph Liedtke (Spain)
+            </td>
+            <td>
+              Tree Hole Royalty– Systematics and Life History of East African Dwarf Toads
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Farideh Moharrek (Iran)
+            </td>
+            <td>
+              Evolutionary history of the Plumbaginaceae and its systematic implications
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Matteo Montagna (Italy)
+            </td>
+            <td>
+              Taxonomic description of phosphatized insect fossils from a Middle Triassic site
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Geoff Oxford (U.K.)
+            </td>
+            <td>
+              Hybridisation and the enigmatic taxonomy of the <em>Tegenaria</em> atrica group (Araneae: Agelenidae).
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Sujal Phadke (U.S.A.)
+            </td>
+            <td>
+              Resolving phylogeny of Allomyces to understand evolution of anisogamy in chytrid fungi
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Cristina Roquet (France)
+            </td>
+            <td>
+              Evolution of orophytic plants: <em>Saxifraga</em> Sect. <em>Saxifraga</em> (Saxifragaceae) as a model system
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Maria Paula Rozo Gomez (Brazil)
+            </td>
+            <td>
+              Comparative phylogeography of aquatic insects to investigate the evolutionary history of the Amazon Basin biota
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Bernardo Santos (U.S.A.)
+            </td>
+            <td>
+              Cryptine wasps from the Brazilian Atlantic Forest: phylogeny and systematic revision
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Orlando Schwery (U.S.A.)
+            </td>
+            <td>
+              Unveiling the factors behind diversification and biogeography of dung beetles (Scarabaeinae)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Nina Ser&eacute;n (U.S.A.)
+            </td>
+            <td>
+              The role of adaptation in Lesser Egyptian jerboa speciation
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Omar Torres-Carvajal (Ecuador)
+            </td>
+            <td>
+              Evolutionary history of Neotropical false chameleons
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Andrea Waeschenbach (U.K.)
+            </td>
+            <td>
+              Molecular systematics of Great Barrier Reef bryozoans
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Renate Wesselingh (Belgium)
+            </td>
+            <td>
+              Flower power: using 3D geometric morphometrics of flowers in <em>Rhinanthus</em> systematics
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Steven Worthington (U.S.A.)
+            </td>
+            <td>
+              Endocranial insights into Chimpanzee Subspecies Taxonomy
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Eugenia Zarza (U.S.A.)
+            </td>
+            <td>
+              Phylogenomics of the sub-family Iguaninae
+            </td>
+          </tr>
+        </table><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="contact" id="contact"></a>
+        <p class="title">
+          Contact
+        </p>
+        <p>
+          Questions about the application procedure can be sent
+          to Dr. Mark Carine <script type="text/javascript">
+<!--
+          var usr = "m.carine";
+          var dom = "systass";
+          var tld = "org";
+          var ady = usr + "@" + dom + "." + tld;
+          document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+          //-->
+          </script>
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom Banner ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+           Last updated: 08 June 2015 
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>
