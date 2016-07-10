@@ -57,32 +57,23 @@ Sir Julian Huxley Lecture</p>
 
 <div id="centerCol">
 <!-- Add HTML for main body of page -->
+	<p class="title"><em>Dosage sensitive genes in evolution &amp; disease</em></p>
+	<p><strong><img style="float: left; margin-left: auto; margin-right: 5px;" src="/images/AoifeMcLysaght.jpg" width="250" height="187" alt="Aoife McLysaght" title="Aoife McLysaght" />
+        Professor Aoife McLysaght</a></strong>
+		<br>Professor in Genetics &amp; Head of Genetics in University of Dublin, Trinity College
+		<br>Professor McLysaght She had led a molecular evolution and comparative genomics research group since 2003.  She was a member of the international consortium that published the first draft of the Human Genome sequence in 2001; was the first to discover novel human-specific genes, in 2009; identified links between gene duplication patterns and Copy Number Variation (CNV) pathogenicity; and has made significant contributions to our understanding of the human genome, as well as the genomes of other animals, plants and viruses.
+		Aoife’s research team has been funded through prestigious President of Ireland Young Researcher Award (PIYRA) and a European Research Council (ERC) Starting Researcher Award. Aoife is a Senior Editor of Molecular Biology and Evoution, and is on the editorial board of Genome Biology and Evolution and Cell Reports, she was Treasurer of the Society for Molecular Biology and Evolution for three years, and receives frequent invitations to speak at major international conferences and participate in the organisation of international meetings.
+</p>
 
-<p class="title"><em>Speaker and title to be confirmed.</em></p>
-<p><strong><!--<a href="http://nature.berkeley.edu/evolab/" rel="external">Professor Rosemary G. Gillespie</a>--></strong>
-<!--
-<br>Professor &amp; Schlinger Chair in Systematic Entomology, University of California Berkeley, USA.</p>
--->
 
-<!--
-  <embed
-	  src="/ir/imagerotator.swf"
-	  width="420"
-	  height="306"
-	  allowscriptaccess="always"
-	  allowfullscreen="true"
-	  flashvars="file=/events/JH-lecture-2016.xml&transition=blocks&showicons=false&shownavigation=false&shuffle=true&overstretch=false&kenburns=true&usefullscreen=false&screencolor=0x808080&backcolor=0x808080"
-	/>
--->
+
 
 <p><strong>6.00pm Wednesday 12 October 2016<br> Linnean Society, London, UK</strong></p>
 
 
-<!--
 <p class="title">Abstract:</p>
 
-<p>To be confirmed.</p>
--->
+<p>Human copy number variants (CNVs) account for genome variation an order of magnitude larger than single nucleotide polymorphisms. While much of this variation has no phenotypic consequences, some variants have been associated with disease, particularly neurodevelopmental disorders.  Pathogenic CNVs are typically very large and contain multiple genes, and understanding the cause of the pathogenicity and identifying candidate disease genes remains a significant challenge. We take an approach that uses evolutionary patterns across the vertebrate tree to infer functional constraints on gene duplication and/or loss.  We identify evolutionary constraints  characteristic of genes in pathogenic CNVs and that can only be explained by dosage sensitivity of those genes.  These evolutionary metrics suggest a path to identifying disease genes in pathogenic CNVs.</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -94,7 +85,7 @@ Sir Julian Huxley Lecture</p>
 <div id="bottomBanner">
 <!-- Add HTML for Right Column ?links? -->
 <p><!--#include virtual="/incl/w3c.inc" -->
-Last updated: 16 April 2016
+Last updated: 10 July 2016
 <!--#include virtual="/incl/webmaster-email.inc" -->
 </p>
 

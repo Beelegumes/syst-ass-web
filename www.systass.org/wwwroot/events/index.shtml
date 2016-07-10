@@ -73,17 +73,12 @@
             </th>
           </tr><!-- Insert events below here -->
 
-            <tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
 
 
             <tr >
                 <td class="quarter">
                     21 April 2016<br><br>
-                    <a href="/events/JH-lecture-2016.shtml" style=
-                            "background: transparent; text-decoration: none;padding-right: 0px;">
-                        <!--<img style="float: left; margin-right: 5px; margin-left: auto;" src="/images/RosemaryGillespie-150px.png" width="150"
-        height="150" alt="Professor Rosemary G. Gillespie"
-                title="Professor Rosemary G. Gillespie">--></a>
+
 
                 </td>
                 <td class="threequarter">
@@ -96,6 +91,9 @@
                 </td>
             </tr>
 
+            <tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
+
+
             <tr class="alternate">
             <td class="quarter">
               12 October 2016<br><br>
@@ -107,12 +105,12 @@
 
             </td>
             <td class="threequarter">
-              <strong>Sir Julian Huxley Lecture</strong><br><!--<br>
-							Island time and the interplay between ecology &amp; evolution in species diversification<br><br>
-							<strong>Professor Rosemary G. Gillespie, Schlinger Chair in Systematic Entomology, University of California Berkeley</strong><br>
-							<a href="http://nature.berkeley.edu/evolab/" rel="external">http://nature.berkeley.edu/evolab/</a><br><br>
-							 6.00pm Linnean Society, Burlington House, London, UK<br>-->
-							 <a href="/events/JH-lecture-2016.shtml">Further details</a> <!--| <a href="/events/JHL2015-Gillespie-poster.pdf">download poster</a>-->
+              <strong>Sir Julian Huxley Lecture</strong><br><br>
+                Dosage sensitive genes in evolution &amp; disease<br><br>
+							<strong>Professor Aoife McLysaght</strong>
+                <br>Professor in Genetics &amp; Head of Genetics in University of Dublin, Trinity College<br><br>
+							 6.00pm Linnean Society, Burlington House, London, UK<br>
+							 <a href="/events/JH-lecture-2016.shtml">Further details</a>
 						</td>
           </tr>
 
@@ -180,7 +178,7 @@
         <!-- Add HTML for Right Column ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 14 April 2016
+           Last updated: 10 July 2016
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->
