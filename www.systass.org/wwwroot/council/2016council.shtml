@@ -42,9 +42,10 @@
       <div id="centerCol">
         <!-- Add HTML for main body of page -->
         <a name="officers" id="officers"></a>
+          <br><br>
         <p class="title">
           Officers
-        </p>
+        </p><br><br><br>
         <table summary="Systematics Association Officers" class=
         "textsmall" width="100%">
 
