@@ -123,7 +123,7 @@
 				alt="peerJ (a peer-reviewed academic journal)" title="peerJ (a peer-reviewed academic journal)"/></a>
         </div> -->
         <p class="centre">
-          <strong>Organisers:</strong> Dr. Ellinor Michel (Dept Life Science, NHM), Xavier Aubriot (Dept Life Science, NHM), Dr. Ross Mounce (Dept Life Science, NHM)
+          <strong>Organisers:</strong> Dr. Ellinor Michel (Dept Life Science, NHM), Xavier Aubriot (Dept Life Science, NHM), Dr. Ross Mounce (Dept Life Science, NHM).
 					</p>
 
         <p class="title" style="background-color: #cc6633;">
@@ -217,7 +217,7 @@
   document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
   //--></script>.
 					</p>
-<p>The organisers are Dr. Ellinor Michel (Dept Life Science, NHM), Xavier Aubriot (Dept Life Science, NHM), Dr. Ross Mounce (Dept Life Science, NHM)</p>
+<p>The organisers are Dr. Ellinor Michel (Dept Life Science, NHM), Xavier Aubriot (Dept Life Science, NHM), Dr. Ross Mounce (Dept Life Science, NHM).</p>
 
          <p>
           Sponsors

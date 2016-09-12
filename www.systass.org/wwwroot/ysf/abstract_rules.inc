@@ -11,6 +11,11 @@ affiliations should be included with the abstracts. If the presentation is co-au
 the actual speaker (<em>oral</em>) or presenter (<em>poster</em>) must be clearly
 indicated in <strong>BOLD</strong> text.</p>
 
+<p>If you have presented a talk at the YSF before, we ask that you submit only for a poster
+ presentation, as speaker slots are limited and we want to give as many people a chance
+  as possible. Similarly, if you are presenting at both the YSF and MF, we ask that
+   you not apply for speaking slots in both (or let us know so we can assess).</p>
+
 <p>All registered attendants will receive by e-mail further information about the 
 meeting, including abstracts, one week in advance. This information will also be
 displayed on the Systematics Association website.</p>
