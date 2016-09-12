@@ -22,8 +22,8 @@
       <div id="rightCol">
         <!-- Add HTML for Right Column -->
          <p class="title">
-          Official Hashtag: <a href="http://twitter.com/search?f=realtime&q=%23YSF2015&src=typd"
-          rel="external">#YSF2015</a>
+          Official Hashtag: <a href="http://twitter.com/search?f=realtime&q=%23YSF2016&src=typd"
+          rel="external">#YSF2016</a>
         </p>
         <!-- <p>
           <img src="/images/lanyrd-48x48.png" width="48" height=
@@ -77,8 +77,8 @@
 <!-- <p class = "title" style="background-color: #cc6633;">Details of 16th YSF announced</p> -->
 
         <p class="title">
-          2015 YSF<br>
-          Friday, 20th November 2015</p>
+          2016 YSF<br>
+          Friday, 25th November 2016</p>
 
 	
          <p class="centre">
@@ -127,8 +127,8 @@
 					</p>
 
         <p class="title" style="background-color: #cc6633;">
-          Official Hashtag: <a href="http://twitter.com/search?f=realtime&q=%23YSF2015&src=typd"
-          rel="external">#YSF2015</a>
+          Official Hashtag: <a href="http://twitter.com/search?f=realtime&q=%23YSF2016&src=typd"
+          rel="external">#YSF2016</a>
         </p>
 <hr>
 					<a name="Introduction" id="Introduction"></a>
@@ -164,9 +164,7 @@
           participants, also at the <acronym title=
           "The Natural History Museum">NHM</acronym>. 
 					This has been arranged so both meetings can be attended, although if attending 
-					both you will have to register for both meetings separately.  There will 
-					also be a meeting on Natural History Collections and Climate Change Research 
-					on the 17th (details to be announced shortly). Come for a full week!
+					both you will have to register for both meetings separately.
         </p>
         <!--#include virtual="/incl/topofpage.inc" -->				
 				<a name="Registration" id="Registration"></a>
@@ -242,7 +240,7 @@
       <div id="bottomBanner">
         <!-- Add HTML for Bottom Banner ?links? -->
         <!--#include virtual="/incl/w3c.inc" -->
-        Last updated: 13 November 2015 
+        Last updated: 12 September 2016
         <!--#include virtual="/incl/webmaster-email.inc" -->
          <!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->
