@@ -110,15 +110,44 @@
                     <!--#include virtual="/council/elucas.inc" -->
                 </td>
             </tr>
+            <tr>
+                <td><strong><font color ="#FFFF00">Young Systematists' Forum leader</font></strong></td>
+            </tr>
 
             <tr>
-            <td colspan="2">
-              <b><a href=
-              "SystAss%20Job%20Descriptions.pdf">Meetings
-              Secretary</a></b>
-            </td>
-          </tr>
-          <tr>
+                <td>
+                    Dr. Ellinor Michel <strong>(2014-2017)</strong><br>
+                    The Natural History Museum<br>
+                    Cromwell Rd<br>
+                    London SW7 5BD<br>
+                    <script type="text/javascript">
+                        <!--
+                        var usr = "e.michel";
+                        var dom = "nhm.ac";
+                        var tld = "uk";
+                        var ady = usr + "@" + dom + "." + tld;
+                        document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+                        //-->
+                    </script>
+                </td>
+                <td>
+                    <img src="/images/EllinorMichel.JPG" width="90"
+                         height="90" alt="Elinor Michel" title=
+                                 "Elinor Michel" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/emichel.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2">
+                    <b><a href=
+                                  "SystAss%20Job%20Descriptions.pdf">Meetings
+                        Secretary</a></b>
+                </td>
+            </tr>
+
+            <tr>
             <td>
               Dr. Alex Monro <strong>(2009-)</strong><br>
               Department of Life Sciences<br>
@@ -512,31 +541,6 @@
 
           <tr>
             <td>
-              Dr. Ellinor Michel <strong>(2014-2017)</strong><br>
-              The Natural History Museum<br>
-              Cromwell Rd<br>
-              London SW7 5BD<br>
-              <script type="text/javascript">
-<!--
-  var usr = "e.michel";
-  var dom = "nhm.ac";
-  var tld = "uk";
-  var ady = usr + "@" + dom + "." + tld;
-  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
-//-->
-</script>
-            </td>
-            <td>
-              <img src="/images/EllinorMichel.JPG" width="90"
-              height="90" alt="Elinor Michel" title=
-              "Elinor Michel" style=
-              "float: left; padding-right: 12px"> 
-              <!--#include virtual="/council/emichel.inc" -->
-            </td>
-          </tr>
-					
-          <tr>
-            <td>
               Dr. Ross Mounce <strong>(2013-2016)</strong><br>
 							Academic Researcher<br>
               The Natural History Museum<br>
@@ -684,7 +688,7 @@
         <!-- Add HTML for Right Column ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 20 Janaury 2016 
+           Last updated: 29 October 2016
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->

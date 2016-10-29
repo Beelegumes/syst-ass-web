@@ -119,28 +119,28 @@
                 </td>
                 <td class="threequarter">
                     <strong>Annual General Meeting</strong><br>
-                    <!--<a href="/events/AGM_2015.shtml">Further details</a>-->
                     <br>5.00pm Linnean Society, Burlington House, London, UK<br>
                 </td>
             </tr>
             <tr class="alternate">
                 <td class="quarter">
-                    16 November 2016<br><!--<br>
-                    <a href="/events/Presidents_Lecture_2015.shtml" style=
+                    16 November 2016<br><br>
+                    <a href="/events/Presidents_Lecture_2016.shtml" style=
                             "background: transparent; text-decoration: none;padding-right: 0px;">
                         <img style="float: left; margin-right: 5px; margin-left: auto;"
-                             src="/images/aframomum.JPG" width="206" height="210" alt="Timeline for Afromomum specimen" title="Timeline for Afromomum specimen" /></a>-->
+                             src="/images/MichaelRichardson.JPG" width="157" height="210" alt="Michael Richardson" title="Michael Richardson" /></a>
                 </td>
                 <td class="threequarter">
-                    <strong>President's Lecture</strong><br><br>6.00pm Linnean Society, Burlington House, London, UK<br><br>
-                    Further details to be announced<br><!--<br>
-                    Robert Scotland
-                    <br>Reader in Systematic Botany</strong>
-                    <br>Department of Plant Sciences,
-                    <br>University of Oxford, UK</p>
-                    <a href="/events/Presidents_Lecture_2015-poster.pdf" rel="external">Download a poster</a><br>
+                    <strong>President's Lecture</strong><br>
+                    <em>Evolution and Development of Reptiles: From Genomes to Venoms</em><br><br>
+                    6.00pm Linnean Society, Burlington House, London, UK<br><br>
+                    Michael Richardson
+                  <br>Professor of Animal Development</strong>
+                  <br>Leiden University,
+                  <br>The Netherlands</p>
+                    <a href="/events/Presidents_Lecture_2016-poster.pdf" rel="external">Download a poster</a><br>
                     6.00pm Linnean Society, Burlington House, London, UK<br>
-                    <br><a href="/events/Presidents_Lecture_2015.shtml">Further details</a>-->
+                    <a href="/events/Presidents_Lecture_2016.shtml">Further details</a>
                 </td>
             </tr>
 
@@ -177,7 +177,7 @@
         <!-- Add HTML for Right Column ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 18 October 2016
+           Last updated: 29 October 2016
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->
