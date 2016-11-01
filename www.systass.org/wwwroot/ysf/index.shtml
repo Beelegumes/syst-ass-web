@@ -104,8 +104,9 @@
         "/images/new-nhm-logo.gif" height="70" alt=
         "The Natural History Museum" title=
         "The Natural History Museum">
-				<a href="http://www.mdpi.com/journal/data" rel="external"><img src="/images/dataMDPIlogo.png" width="218" height="80" alt="Data - a new open access journal on data in science"  title="Data - a new open access journal on data in science"/></a>
-        </div>
+    <a href="http://www.overleaf.com" rel="external"><img src="/images/Overleaf_logo.png" width="150" height="58" alt="Overleaf: Collaborative Writing and Publishing"  title="Collaborative Writing and Publishing" style="vertical-align: top;margin-top:20px;"/></a>
+    <a href="http://www.cambridge.org/" rel="external"><img src="/images/CUP_logo.png" width="150" height="31" alt="Cambridge University Press"  title="Cambridge University Press" style="vertical-align: top;margin-top:20px;"/></a>
+</div>
 
 <!--				<div style=
         "display: block; margin-left: auto; margin-right: auto; background-color: #ffffff; padding-left: 25px;">
