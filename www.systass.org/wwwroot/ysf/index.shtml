@@ -219,22 +219,24 @@
   document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
   //--></script>.
 					</p>
-<p>The organisers are Dr. Ellinor Michel (Dept Life Sciences, NHM), Xavier Aubriot (Dept Life Sciences, NHM), Dr. Ross Mounce (Dept Life Sciences, NHM), Dr. Anne D. Jungblut, (Dept Life Sciences. NHM).</p>
-
-         <p>
+          <!--<p>The organisers are Dr. Ellinor Michel (Dept Life Sciences, NHM), Xavier Aubriot (Dept Life Sciences, NHM),
+              Dr. Ross Mounce (Dept Life Sciences, NHM), Dr. Anne D. Jungblut, (Dept Life Sciences. NHM).</p>
+-->
+          <p>
           Sponsors
         </p>
 
-<div style=
-        "display: block; margin-left: auto; margin-right: auto; background-color: #ffffff; padding-left: 25px;">
-        <img src="/images/SystAssLogo.png" height="70" alt=
-        "Systematics Association" title=
-        "Systematics Association"> <img src=
-        "/images/new-nhm-logo.gif" height="70" alt=
-        "The Natural History Museum" title=
-        "The Natural History Museum">
-				<a href="http://www.mdpi.com/journal/data" rel="external"><img src="/images/dataMDPIlogo.png" width="218" height="80" alt="Data - a new open access journal on data in science"  title="Data - a new open access journal on data in science"/></a>
-        </div>
+          <div style=
+                       "display: block; margin-left: auto; margin-right: auto; background-color: #ffffff; padding-left: 25px;">
+              <img src="/images/SystAssLogo.png" height="70" alt=
+                      "Systematics Association" title=
+                           "Systematics Association"> <img src=
+                                                                   "/images/new-nhm-logo.gif" height="70" alt=
+                                                                   "The Natural History Museum" title=
+                                                                   "The Natural History Museum">
+              <a href="http://www.overleaf.com" rel="external"><img src="/images/Overleaf_logo.png" width="150" heightx="58" alt="Overleaf: Collaborative Writing and Publishing"  title="Collaborative Writing and Publishing" style="vertical-align: top;margin-top:10px;"/></a>
+              <a href="http://www.cambridge.org/" rel="external"><img src="/images/CUP_logo.png" width="50" height="15" alt="Cambridge University Press"  title="Cambridge University Press" style="vertical-align: top;margin-top:30px;"/></a>
+          </div>
 
 
         <!-- Close id=centerCol -->
