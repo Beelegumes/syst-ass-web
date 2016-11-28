@@ -383,6 +383,25 @@
             </td>
           </tr>
 
+
+            <tr>
+                <td>
+                    Steven Dodsworth  <strong>(2016-19)</strong><br>
+                    Royal Botanic Gardens, Kew<br>
+                    Richmond<br>
+                    TW9 3AB, UK<br>
+                    <a href="mailto:s.dodsworth@kew.org">s.dodsworth@kew.org</a>
+                </td>
+                <td>
+                    <img src="/images/head-man.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/sdodsworth.inc" -->
+                </td>
+            </tr>
+
+
           <tr>
             <td>
               Dr. Greg Edgecombe <strong>(2014-17)</strong><br>
@@ -424,6 +443,42 @@
                     <!--#include virtual="/council/weiserhardt.inc" -->
                 </td>
             </tr>
+
+            <tr>
+                <td>
+                    Dr. Laura Forrest  <strong>(2016-19)</strong><br>
+                    Royal Botanic Garden, Edinburgh<br>
+                    20A, Inverleith Row<br>
+                    EH3 5LR,UK<br>
+                    <a href="mailto:lauralforrest@gmail.com">lauralforrest@gmail.com</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Laura Forrest" title=
+                                 "Laura Forrest" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/lforrest.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Beulah Garner  <strong>(2016-19)</strong><br>
+                    Dept. of Life Sciences<br>
+                    The Natural History Museum<br>
+                    Cromwell Rd<br>
+                    London SW7 5BD<br>
+                    <a href="mailto:b.garner@nhm.ac.uk">b.garner@nhm.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/bgarner.inc" -->
+                </td>
+            </tr>
+
 
 
             <tr>
@@ -634,29 +689,24 @@
             </td>
           </tr>
 
-          <tr>
-            <td>
-              Dr. Louis Ronse De Craene <strong>(2014-16)</strong><br>
-              Royal Botanic Garden Edinburgh<br>
-              20A Inverleith Row<br>
-              Edinburgh EH3 5LR<br>
-              <script type="text/javascript">
-<!--
-  var usr = "L.RonsedeCraene";
-  var dom = "rbge.ac";
-  var tld = "uk";
-  var ady = usr + "@" + dom + "." + tld;
-  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
-//-->
-</script>
-            </td>
-            <td>
-              <img src="/images/LouisRonseDeCraene.jpg" width="87" height=
-              "120" alt="Louis Ronse De Craene" title="Louis Ronse De Craene"
-              style="float: left; padding-right: 12px"> 
-              <!--#include virtual="/council/lronsedecraene.inc" -->
-            </td>
-          </tr>
+            <tr>
+                <td>
+                    Dinarzarde Raheem  <strong>(2016-19)</strong><br>
+                    Dept. of Life Sciences<br>
+                    The Natural History Museum<br>
+                    Cromwell Rd<br>
+                    London SW7 5BD<br>
+                    <a href="mailto:d.raheem@nhm.ac.uk">d.raheem@nhm.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/head-man.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/draheem.inc" -->
+                </td>
+            </tr>
+
 
           <tr>
             <td>
