@@ -92,7 +92,7 @@
                     Comparative Plant and Fungal Biology<br>
                     Royal Botanic Gardens, Kew<br>
                     Richmond<br>
-                    TW9 3AB, UK<br>
+                    Surrey TW9 3AB<br>
                     <script type="text/javascript">
                         <!--
                         var usr = "e.lucas";
@@ -152,7 +152,7 @@
               Dr. Alex Monro <strong>(2009-)</strong><br>
               Royal Botanic Gardens, Kew<br>
               Richmond<br>
-              TW9 3AB, UK<br>
+              Surrey TW9 3AB<br>
               <script type="text/javascript">
 <!--
   var usr = "a.monro";
@@ -301,7 +301,7 @@
           </tr>
             <tr>
                 <td>
-                    Dr. Davide Pisani <strong>(2013-15)</strong><br>
+                    Dr. Davide Pisani <strong>(2013-)</strong><br>
                     School of Biological Sciences and School of Earth Sciences<br>
                     University of Bristol<br>
                     Woodland Road<br>
@@ -383,13 +383,30 @@
             </td>
           </tr>
 
+          <tr>
+                <td>
+                    James Clarkson <strong>(2016-19)</strong><br>
+                    Royal Botanic Gardens, Kew<br>
+                    Richmond<br>
+                    Surrey TW9 3AB<br>
+                    <a href="mailto:j.clarkson@kew.org">j.clarkson@kew.org</a>
+                </td>
+                <td>
+                    <img src="/images/head-man.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/jclarkson.inc" -->
+                </td>
+            </tr>
+
 
             <tr>
                 <td>
                     Steven Dodsworth  <strong>(2016-19)</strong><br>
                     Royal Botanic Gardens, Kew<br>
                     Richmond<br>
-                    TW9 3AB, UK<br>
+                    Surrey TW9 3AB<br>
                     <a href="mailto:s.dodsworth@kew.org">s.dodsworth@kew.org</a>
                 </td>
                 <td>
@@ -433,7 +450,7 @@
                     Comparative Plant and Fungal Biology<br>
                     Royal Botanic Gardens, Kew<br>
                     Richmond<br>
-                    TW9 3AB<br>
+                    Surrey TW9 3AB<br>
                     <a href="mailto:w.eiserhardt@kew.org">w.eiserhardt@kew.org</a>
                 </td>
                 <td>
@@ -543,7 +560,25 @@
             </td>
           </tr>
 
-         <tr>
+            <tr>
+                <td>
+                    Yvette Harvey  <strong>(2016-19)</strong><br>
+                    Royal Horticultural Society Garden Wisley<br>
+                    Woking<br>
+                    Surrey, GU23 6QB<br>
+                    <a href="mailto:yvetteharvey@rhs.org.uk">yvetteharvey@rhs.org.uk</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/yharvey.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
             <td>
               Dr. Zerina Johanson <strong>(2014-17)</strong><br>
               Dept. of Life Sciences<br>
@@ -691,6 +726,25 @@
 
             <tr>
                 <td>
+                    Ranee Prakash  <strong>(2016-19)</strong><br>
+                    Dept. of Life Sciences<br>
+                    The Natural History Museum<br>
+                    Cromwell Rd<br>
+                    London SW7 5BD<br>
+                    <a href="mailto:r.prakash@nhm.ac.uk">r.prakash@nhm.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/rprakash.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>
                     Dinarzarde Raheem  <strong>(2016-19)</strong><br>
                     Dept. of Life Sciences<br>
                     The Natural History Museum<br>
@@ -707,8 +761,26 @@
                 </td>
             </tr>
 
+            <tr>
+                <td>
+                    Dr. Karen Siu-Ting  <strong>(2016-19)</strong><br>
+                    University of Aberystwyth <br>
+                    Penglais<br>
+                    Aberystwyth<br>
+                    Ceredigion SY23 3FL<br>
+                    <a href="mailto:agalychnica@gmail.com">agalychnica@gmail.com</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/ksiuting.inc" -->
+                </td>
+            </tr>
 
-          <tr>
+
+            <tr>
             <td>
               Dr. Catherine Walton <strong>(2014-17)</strong><br>
               Manchester<br>
