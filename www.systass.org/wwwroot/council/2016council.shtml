@@ -383,7 +383,25 @@
             </td>
           </tr>
 
-          <tr>
+            <tr>
+                <td>
+                    Tom Carruthers   <strong>(2016-19)</strong><br>
+                    University of Oxford
+
+
+                    <a href="mailto:tom.carruthers@wolfson.ox.ac.uk">tom.carruthers@wolfson.ox.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/head-man.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/tcarruthers.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
                 <td>
                     James Clarkson <strong>(2016-19)</strong><br>
                     Royal Botanic Gardens, Kew<br>
@@ -397,6 +415,23 @@
                                  "Persons Name" style=
                                  "float: left; padding-right: 12px">
                     <!--#include virtual="/council/jclarkson.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Roger Close  <strong>(2016-19)</strong><br>
+                    School of Geography, Earth and Environmental Sciences<br>
+                    University of Birmingham<br>
+                    Birmingham B15 2TT<br>
+                    <a href="mailto:roger.close@gmail.com">roger.close@gmail.com</a>
+                </td>
+                <td>
+                    <img src="/images/head-man.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/rclose.inc" -->
                 </td>
             </tr>
 
@@ -628,7 +663,25 @@
             </td>
           </tr>
 
-          <tr>
+            <tr>
+                <td>
+                    Lorna MacKinnon<strong>(2016-19)</strong><br>
+                    Eden Project<br>
+                    Bodelva LINE<br>
+                    Cornwall PL24 2SG<br>
+                    <a href="mailto:lmackinnon@EdenProject.com">lmackinnon@EdenProject.com</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/lmackinnon.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
             <td>
               Dr. Ross Mounce <strong>(2013-2016)</strong><br>
 							Academic Researcher<br>
@@ -760,6 +813,23 @@
                     <!--#include virtual="/council/draheem.inc" -->
                 </td>
             </tr>
+
+            <tr>
+                <td>
+                    Surabhi Ranavat <strong>(2016-19)</strong><br>
+                    University of Edinburgh<br>
+
+                    <a href="mailto:subu_92@msn.com">subu_92@msn.com</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/sranavat.inc" -->
+                </td>
+            </tr>
+
 
             <tr>
                 <td>
