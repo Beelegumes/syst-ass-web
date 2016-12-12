@@ -10,13 +10,14 @@
   <body>
     <div id="content">
       <div id="topBanner">
-        <a name="_top"></a> 
+        <a name="_top"></a>
         <!-- Add HTML for Top Banner ?logo?image?adv.? -->
          <img src="/images/SystAssLogo-100.png" width="81"
         height="100" alt="Systematics Association Logo" title=
         "Systematics Association Logo">
         <p>
-          Systematics Research Fund (SRF)
+          Systematics Research Fund<br>
+          (SRF)
         </p>
       </div><!--#include virtual="/incl/left-menu.inc" -->
       <div id="rightCol">
@@ -28,10 +29,10 @@
           <p style="text-align: right;">
             Systematics Research Fund<br>
             <br>
-            <span style="background-color: #cc6633;">The 2015/16 round is closed. For the results click the link below</span><br>
+            <span style="background-color: #cc6633;">The 2016/17 round is open. For the results click the link below</span><br>
             <br>
-            <!--<strong>deadline 15 January 2016</strong><br>-->
-            <!--<a href="#form">Application Form</a><br><br>-->
+            <strong>deadline 15 January 2017</strong><br>
+            <a href="#form">Application Form</a><br><br>
          <!--#include virtual="/awards/SRF_previous_rounds_link.inc" -->
           </p>
         </div>
@@ -141,6 +142,12 @@
 -->
         <!-- Close id=centerCol -->
 	      </div>
+      <div style="background-color: #ffffff;">
+        <a name="form" id="form"></a>
+
+        <!--#include virtual="/awards/srf16-17form.inc" -->
+
+      </div>
       <div id="centerCol">
 				<!--#include virtual="/incl/topofpage.inc" -->			
          <a name="results" id="results"></a>
@@ -151,8 +158,8 @@
           The SRF received a total of 149 eligible applications for the
           2015/16 round.
           Thirty one of the applications were funded at a total
-          cost of &pound;31,910. Successful applicants have
-          been informed by email.
+          cost of &pound;31,910. Successful applicants were
+          informed by email.
         </p>
 <!--
         <p>

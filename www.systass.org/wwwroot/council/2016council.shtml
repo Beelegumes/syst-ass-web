@@ -177,29 +177,31 @@
               Awards Secretary for SRF</a></b>
             </td>
           </tr>
-          <tr>
-            <td>
-              Dr. Mark Carine <strong>(2013-)</strong><br>
-              The Natural History Museum<br>
-              Cromwell Rd<br>
-              London SW7 5BD<br>
-              <script type="text/javascript">
-<!--
-  var usr = "M.Carine";
-  var dom = "nhm.ac";
-  var tld = "uk";
-  var ady = usr + "@" + dom + "." + tld;
-  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
-//-->
-</script>
-            </td>
-            <td>
-              <img src="/images/MarkCarine.PNG" width="120" height=
-              "120" alt="Mark Carine with Rumex azoricus" title="Mark Carine with Rumex azoricus"
-              style="float: left; padding-right: 12px"> 
-              <!--#include virtual="/council/mcarine.inc" -->
-            </td>
-          </tr>
+            <tr>
+                <td>
+                    Dr. Anne D. Jungblut <strong>(2014-17)</strong><br>
+                    Dept. of Life Sciences<br>
+                    The Natural History Museum<br>
+                    Cromwell Rd<br>
+                    London SW7 5BD<br>
+                    <script type="text/javascript">
+                        <!--
+                        var usr = "a.jungblut";
+                        var dom = "nhm";
+                        var tld = "ac.uk";
+                        var ady = usr + "@" + dom + "." + tld;
+                        document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+                        //-->
+                    </script>
+                </td>
+                <td>
+                    <img src="/images/AnneJungblut.jpg" width="120" height=
+                            "127" alt="Anne D. Jungblut" title="Anne D. Jungblut"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/ajungblut.inc" -->
+                </td>
+            </tr>
+
           <tr>
             <td colspan="2">
               <b><a href=
@@ -566,7 +568,7 @@
                 </td>
                 <td>
                     <img src="/images/ZoeGoodwin.jpg"
-                         alt="Zoe Goodwin" title="Zoe Goodwin"
+                         alt="Zoe Goodwin" title="Zoe Goodwin" width="120"
                          style="float: left; padding-right: 12px">
                     <!--#include virtual="/council/zgoodwin.inc" -->
                 </td>
@@ -635,31 +637,6 @@
               "90" alt="Zerina Johanson" title="Zerina Johanson"
               style="float: left; padding-right: 12px"> 
               <!--#include virtual="/council/zjohanson.inc" -->
-            </td>
-          </tr>
-
-         <tr>
-            <td>
-              Dr. Anne D. Jungblut <strong>(2014-17)</strong><br>
-              Dept. of Life Sciences<br>
-              The Natural History Museum<br>
-              Cromwell Rd<br>
-              London SW7 5BD<br>
-              <script type="text/javascript">
-<!--
-  var usr = "a.jungblut";
-  var dom = "nhm";
-  var tld = "ac.uk";
-  var ady = usr + "@" + dom + "." + tld;
-  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
-//-->
-</script>
-            </td>
-            <td>
-              <img src="/images/AnneJungblut.jpg" width="120" height=
-              "127" alt="Anne D. Jungblut" title="Anne D. Jungblut"
-              style="float: left; padding-right: 12px"> 
-              <!--#include virtual="/council/ajungblut.inc" -->
             </td>
           </tr>
 
