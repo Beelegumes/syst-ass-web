@@ -27,11 +27,9 @@
         </p>
         <div class="textsmall">
           <p style="text-align: right;">
-            Systematics Research Fund<br>
-            <br>
-            <span style="background-color: #cc6633;">The 2016/17 round is open. For the results click the link below</span><br>
-            <br>
-            <strong>deadline 15 January 2017</strong><br>
+            Systematics Research Fund<br><br>
+            <span style="background-color: #cc6633;">2016/17 round is open.</span>
+            <strong>Deadline is<br>15 February 2017</strong><br>
             <a href="#form">Application Form</a><br><br>
          <!--#include virtual="/awards/SRF_previous_rounds_link.inc" -->
           </p>
@@ -43,8 +41,7 @@
         <div class="textsmall">
           <p style="text-align: right;">
             Systematics &amp; Taxonomy research<br>
-            <br>
-            <strong>This scheme has now finished</strong><br>
+            <strong>Scheme now finished</strong><br>
             <a href="syntax.shtml#results">award results</a>
           </p>
         </div>
@@ -55,8 +52,7 @@
         <div class="textsmall">
           <p style="text-align: right;">
             Collaborative Scheme for Systematics Research<br>
-            <br>
-            <strong>This scheme has now finished</strong><br>
+            <strong>Scheme now finished</strong><br>
             <a href="cosyst.shtml#results">award results</a>
           </p>
         </div>
@@ -129,9 +125,9 @@
         </p>
         <p>
           Questions about the application procedure can be sent
-          to Dr. Mark Carine <script type="text/javascript">
+          to Dr. Anne Jungblut <script type="text/javascript">
 
-          var usr = "m.carine";
+          var usr = "A.Jungblut";
           var dom = "systass";
           var tld = "org";
           var ady = usr + "@" + dom + "." + tld;
@@ -184,9 +180,9 @@
         </p>
         <p>
           Questions about the application procedure can be sent
-          to Dr. Mark Carine <script type="text/javascript">
+          to Dr. Anne Jungblut <script type="text/javascript">
 <!--
-          var usr = "m.carine";
+          var usr = "a.jungblut";
           var dom = "systass";
           var tld = "org";
           var ady = usr + "@" + dom + "." + tld;
@@ -200,7 +196,7 @@
         <!-- Add HTML for Bottom Banner ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 13 November 2015 
+           Last updated: 14 December 2016
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->
