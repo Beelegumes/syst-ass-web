@@ -125,9 +125,9 @@
         </p>
         <p>
           Questions about the application procedure can be sent
-          to Dr. Anne Jungblut <script type="text/javascript">
+          to the SRF Administrator <script type="text/javascript">
 
-          var usr = "A.Jungblut";
+          var usr = "srf";
           var dom = "systass";
           var tld = "org";
           var ady = usr + "@" + dom + "." + tld;
@@ -180,9 +180,9 @@
         </p>
         <p>
           Questions about the application procedure can be sent
-          to Dr. Anne Jungblut <script type="text/javascript">
+          to the SRF Administrator <script type="text/javascript">
 <!--
-          var usr = "a.jungblut";
+          var usr = "srf";
           var dom = "systass";
           var tld = "org";
           var ady = usr + "@" + dom + "." + tld;
@@ -196,7 +196,7 @@
         <!-- Add HTML for Bottom Banner ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 14 December 2016
+           Last updated: 16 December 2016
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->

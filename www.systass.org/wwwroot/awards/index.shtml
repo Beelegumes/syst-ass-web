@@ -27,8 +27,8 @@
           <p style="text-align: right;">
             Systematics Research Fund<br>
             <br>
-            The 2016/17 round
-            is now open.<br>
+            <span style="background-color: #cc6633;">The 2016/17 round
+            is now open.</span><br>
             <a href="srf.shtml">Further details</a><br>
             <br>
          <!--#include virtual="/awards/SRF_previous_rounds_link.inc" -->
@@ -172,7 +172,7 @@
       <div id="bottomBanner">
         <!-- Add HTML for Bottom Banner ?links? -->
         <!--#include virtual="/incl/w3c.inc" -->
-        Last updated: 09 June 2015 
+        Last updated: 16 December 2016
         <!--#include virtual="/incl/webmaster-email.inc" -->
          <!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->
