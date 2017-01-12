@@ -297,20 +297,16 @@
           <tr>
             <td colspan="2">
               <b><a href=
-              "SystAss%20Job%20Descriptions.pdf">Newsletter
-              Editor</a></b>
+              "SystAss%20Job%20Descriptions.pdf">Student Representative</a></b>
             </td>
           </tr>
             <tr>
                 <td>
-                    Dr. Davide Pisani <strong>(2013-)</strong><br>
-                    School of Biological Sciences and School of Earth Sciences<br>
+                    Luke Parry <strong>(2016-18)</strong><br>
                     University of Bristol<br>
-                    Woodland Road<br>
-                    Bristol, BS8 1UG<br>
                     <script type="text/javascript">
                         <!--
-                        var usr = "davide.pisani";
+                        var usr = "lp13932";
                         var dom = "bristol.ac";
                         var tld = "uk";
                         var ady = usr + "@" + dom + "." + tld;
@@ -319,10 +315,10 @@
                     </script>
                 </td>
                 <td>
-                    <img src="/images/DavidePisani.PNG" width="120" height=
-                            "80" alt="Davide Pisani" title="Davide Pisani"
+                    <img src="/images/head-man.PNG" width="77" height=
+                            "90" alt="Luke Parry" title="Luke Parry"
                          style="float: left; padding-right: 12px">
-                    <!--#include virtual="/council/dpisani.inc" -->
+                    <!--#include virtual="/council/lparry.inc" -->
                 </td>
             </tr>
 
@@ -340,7 +336,7 @@
                     20A Inverleith Row<br>
                     Edinburgh<br>
                     EH3 5LR<br>
-                    <a href="mailto:a.person@somewhere.ac.uk">b.mackinder@rbge.ac.uk</a>
+                    <a href="mailto:b.mackinder@rbge.ac.uk">b.mackinder@rbge.ac.uk</a>
                 </td>
                 <td>
                     <img src="/images/BarbaraMackinder.png" width="100" height=
@@ -447,9 +443,9 @@
                     <a href="mailto:s.dodsworth@kew.org">s.dodsworth@kew.org</a>
                 </td>
                 <td>
-                    <img src="/images/head-man.png" width="77"
-                         height="90" alt="Persons Name" title=
-                                 "Persons Name" style=
+                    <img src="/images/StevenDodsworth.png" width="106"
+                         height="120" alt="Steven Dodsworth" title=
+                                 "Steven Dodsworth" style=
                                  "float: left; padding-right: 12px">
                     <!--#include virtual="/council/sdodsworth.inc" -->
                 </td>
@@ -507,8 +503,8 @@
                     <a href="mailto:lauralforrest@gmail.com">lauralforrest@gmail.com</a>
                 </td>
                 <td>
-                    <img src="/images/head-woman.png" width="77"
-                         height="90" alt="Laura Forrest" title=
+                    <img src="/images/LauraForrest.png" width="79"
+                         height="120" alt="Laura Forrest" title=
                                  "Laura Forrest" style=
                                  "float: left; padding-right: 12px">
                     <!--#include virtual="/council/lforrest.inc" -->
@@ -642,6 +638,21 @@
 
             <tr>
                 <td>
+                    Prof. David Kipling  <strong>(2014-17)</strong><br>
+                    University of Cardiff<br>
+                    <a href="mailto:kiplingd@cardiff.ac.uk">kiplingd@cardiff.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/DavidKipling.png" width="120" height=
+                            "89" alt="David Kipling" title="David Kipling"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/dkipling.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>
                     Lorna MacKinnon<strong>(2016-19)</strong><br>
                     Eden Project<br>
                     Bodelva LINE<br>
@@ -649,9 +660,9 @@
                     <a href="mailto:lmackinnon@EdenProject.com">lmackinnon@EdenProject.com</a>
                 </td>
                 <td>
-                    <img src="/images/head-woman.png" width="77"
-                         height="90" alt="Persons Name" title=
-                                 "Persons Name" style=
+                    <img src="/images/LornaMackinnon.png" width="120"
+                         height="90" alt="Lorna Mackinnon" title=
+                                 "Lorna Mackinnon" style=
                                  "float: left; padding-right: 12px">
                     <!--#include virtual="/council/lmackinnon.inc" -->
                 </td>
@@ -683,33 +694,6 @@
             </td>
           </tr>
 
-          <tr>
-            <td colspan="2">
-              <strong>Student Representative</strong>
-            </td>
-          </tr>
-
-          <tr>
-            <td>
-              Luke Parry <strong>(2016-18)</strong><br>
-              University of Bristol<br>
-              <script type="text/javascript">
-<!--
-  var usr = "lp13932";
-  var dom = "bristol.ac";
-  var tld = "uk";
-  var ady = usr + "@" + dom + "." + tld;
-  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
-//-->
-</script>
-            </td>
-            <td>
-              <img src="/images/head-man.PNG" width="77" height=
-              "90" alt="Luke Parry" title="Luke Parry"
-              style="float: left; padding-right: 12px"> 
-              <!--#include virtual="/council/lparry.inc" -->
-            </td>
-          </tr>
 
             <tr>
                 <td>
@@ -783,10 +767,9 @@
                     <a href="mailto:d.raheem@nhm.ac.uk">d.raheem@nhm.ac.uk</a>
                 </td>
                 <td>
-                    <img src="/images/head-man.png" width="77"
-                         height="90" alt="Persons Name" title=
-                                 "Persons Name" style=
-                                 "float: left; padding-right: 12px">
+                    <img src="/images/DinarzardeRaheem.jpg" width="84" height=
+                            "120" alt="Dinarzarde Raheem" title="Dinarzarde Raheem"
+                         style="float: left; padding-right: 12px">
                     <!--#include virtual="/council/draheem.inc" -->
                 </td>
             </tr>
@@ -818,9 +801,9 @@
                     <a href="mailto:agalychnica@gmail.com">agalychnica@gmail.com</a>
                 </td>
                 <td>
-                    <img src="/images/head-woman.png" width="77"
-                         height="90" alt="Persons Name" title=
-                                 "Persons Name" style=
+                    <img src="/images/KarenSiu_Ting.jpg" width="96"
+                         height="120" alt="Karen Siu-Ting" title=
+                                 "Karen Siu-Ting" style=
                                  "float: left; padding-right: 12px">
                     <!--#include virtual="/council/ksiuting.inc" -->
                 </td>
@@ -856,7 +839,7 @@
         <!-- Add HTML for Right Column ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 29 October 2016
+           Last updated: 12 January 2017
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->

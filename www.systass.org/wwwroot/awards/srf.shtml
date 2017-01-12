@@ -196,7 +196,7 @@
         <!-- Add HTML for Bottom Banner ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 16 December 2016
+           Last updated: 5 January 2017
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->

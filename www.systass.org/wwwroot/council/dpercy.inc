@@ -1,4 +1,4 @@
-Diana is a Research Entomologist at the Natural History Museum, London. Her research 
+Diana works at the Natural History Museum, London as a Research Entomologist. Her research
 focuses on species diversity and the evolutionary patterns and processes involved 
 in insect-plant interactions. Her main taxon group of interest is the parasitic 
 sap-feeding psyllids (Psylloidea, Hemiptera). She is interested in the dynamics 
