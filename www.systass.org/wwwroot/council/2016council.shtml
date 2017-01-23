@@ -139,7 +139,7 @@
                 </td>
             </tr>
 
-            <tr>
+            <tr id="meetingsecretary">
                 <td colspan="2">
                     <b><a href=
                                   "SystAss%20Job%20Descriptions.pdf">Meetings
@@ -317,8 +317,8 @@
                     <a href="mailto:tom.carruthers@wolfson.ox.ac.uk">tom.carruthers@wolfson.ox.ac.uk</a>
                 </td>
                 <td>
-                    <img src="/images/head-man.png" width="77"
-                         height="90" alt="Persons Name" title=
+                    <img src="/images/TomCarruthers.jpg" width="130"
+                         height="120" alt="Tom Carruthers" title=
                                  "Persons Name" style=
                                  "float: left; padding-right: 12px">
                     <!--#include virtual="/council/tcarruthers.inc" -->
@@ -876,7 +876,7 @@
         <!-- Add HTML for Right Column ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 20 January 2017
+           Last updated: 23 January 2017
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->

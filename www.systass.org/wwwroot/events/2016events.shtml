@@ -58,13 +58,11 @@
       </div>
       <div id="centerCol">
         <!-- Add HTML for main body of page -->
-        <a name="2017" id="2017"></a>
-
+        <a name="2016" id="2016"></a>
         <p class="title">
-          Events for 2017
+          Events for 2016
 				</p>
-				<!--<p style="background-color: #cc6633;">Jump to <a href="#nextevent">next upcoming event</a></p>-->
-        <table summary="2017 Events" width="100%">
+        <table summary="2016 Events" width="100%">
           <tr class="alternate">
             <th class="quarter">
               Date
@@ -74,28 +72,29 @@
             </th>
           </tr><!-- Insert events below here -->
 
-            <tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
+
 
             <tr >
                 <td class="quarter">
-                    12 April 2017<br><br>
+                    21 April 2016<br><br>
 
 
                 </td>
                 <td class="threequarter">
-                    <strong>10th Annual Biodiversity Policy Lecture</strong><br>
-                    <br>
-							 6.00pm Linnean Society, Burlington House, London, UK<br>
-                    <br>
-                    <!--<a href="http://www.linnean.org/Meetings-and-Events/Events/science-policy-lecture-2016"</a>-->Further details to be announced<br>
+                    <strong>9th Annual Biodiversity Policy Lecture</strong><br><!--<br>
+							Island time and the interplay between ecology &amp; evolution in species diversification<br><br>
+							<strong>Professor Rosemary G. Gillespie, Schlinger Chair in Systematic Entomology, University of California Berkeley</strong><br>
+							<a href="http://nature.berkeley.edu/evolab/" rel="external">http://nature.berkeley.edu/evolab/</a><br><br>
+							 6.00pm Linnean Society, Burlington House, London, UK<br>-->
+                    <a href="http://www.linnean.org/Meetings-and-Events/Events/science-policy-lecture-2016">Further details</a> <!--| <a href="/events/JHL2015-Gillespie-poster.pdf">download poster</a>-->
                 </td>
             </tr>
 
             <tr class="alternate">
             <td class="quarter">
-              18 October 2017<br><br>
-						<!--<a href="/events/JH-lecture-2016.shtml" style=
-          "background: transparent; text-decoration: none;padding-right: 0px;">-->
+              12 October 2016<br><br>
+						<a href="/events/JH-lecture-2016.shtml" style=
+          "background: transparent; text-decoration: none;padding-right: 0px;">
 						<!--<img style="float: left; margin-right: 5px; margin-left: auto;" src="/images/RosemaryGillespie-150px.png" width="150"
         height="150" alt="Professor Rosemary G. Gillespie" 
 				title="Professor Rosemary G. Gillespie">--></a>
@@ -103,47 +102,46 @@
             </td>
             <td class="threequarter">
               <strong>Sir Julian Huxley Lecture</strong><br><br>
-                <!--Dosage sensitive genes in evolution &amp; disease<br><br>
+                Dosage sensitive genes in evolution &amp; disease<br><br>
 							<strong>Professor Aoife McLysaght</strong>
-                <br>Professor in Genetics &amp; Head of Genetics in University of Dublin, Trinity College<br><br>-->
-							 6.00pm Linnean Society, Burlington House, London, UK<br><br>
-							 <!--<a href="/events/JH-lecture-2016.shtml"</a>-->Further details to be announced
+                <br>Professor in Genetics &amp; Head of Genetics in University of Dublin, Trinity College<br><br>
+							 6.00pm Linnean Society, Burlington House, London, UK<br>
+							 <a href="/events/JH-lecture-2016.shtml">Further details</a>
 						</td>
           </tr>
 
 
             <tr >
                 <td class="quarter">
-                    29 November 2017
+                    16 November 2016
                 </td>
                 <td class="threequarter">
                     <strong>Annual General Meeting</strong><br>
-                    <br>5.00pm Linnean Society, Burlington House, London, UK<br><!---->
+                    <br>5.00pm Linnean Society, Burlington House, London, UK<br>
                 </td>
             </tr>
             <tr class="alternate">
                 <td class="quarter">
-                    29 November 2017<br><br>
+                    16 November 2016<br><br>
                     <a href="/events/Presidents_Lecture_2016.shtml" style=
                             "background: transparent; text-decoration: none;padding-right: 0px;">
-                        <!--<img style="float: left; margin-right: 5px; margin-left: auto;"
-                             src="/images/MichaelRichardson.JPG" width="157" height="210" alt="Michael Richardson" title="Michael Richardson" /></a>-->
+                        <img style="float: left; margin-right: 5px; margin-left: auto;"
+                             src="/images/MichaelRichardson.JPG" width="157" height="210" alt="Michael Richardson" title="Michael Richardson" /></a>
                 </td>
                 <td class="threequarter">
                     <strong>President's Lecture</strong><br>
-                    <!--<em>Evolution and Development of Reptiles: From Genomes to Venoms</em><br>--><br>
+                    <em>Evolution and Development of Reptiles: From Genomes to Venoms</em><br><br>
                     6.00pm Linnean Society, Burlington House, London, UK<br><br>
-                    <!--Michael Richardson
+                    Michael Richardson
                   <br>Professor of Animal Development</strong>
                   <br>Leiden University,
                   <br>The Netherlands</p>
                     <a href="/events/Presidents_Lecture_2016-poster.pdf" rel="external">Download a poster</a><br>
-                    6.00pm Linnean Society, Burlington House, London, UK<br>-->
-                    <!--<a href="/events/Presidents_Lecture_2016.shtml"</a>--> Further details to be announced
+                    6.00pm Linnean Society, Burlington House, London, UK<br>
+                    <a href="/events/Presidents_Lecture_2016.shtml">Further details</a>
                 </td>
             </tr>
 
-<!--
             <tr >
             <td class="quarter">
              25 November 2016
@@ -160,7 +158,6 @@
 							<br><a href="/ysf/">Further details</a><br>
 						</td>
           </tr>
--->
 
 
 
@@ -178,7 +175,7 @@
         <!-- Add HTML for Right Column ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 23 January 2017
+           Last updated: 29 October 2016
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->
