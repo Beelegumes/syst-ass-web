@@ -77,8 +77,8 @@
 <!-- <p class = "title" style="background-color: #cc6633;">Details of 16th YSF announced</p> -->
 
         <p class="title">
-          2016 YSF<br>
-          Friday, 25th November 2016</p>
+          2017 YSF<br>
+          Friday, 1st December 2017</p>
 
 	
          <p class="centre">
@@ -128,10 +128,10 @@
             Sponsorship contact: Dr. Ross Mounce (Dept Life Sciences, NHM).
 					</p>
 
-        <p class="title" style="background-color: #cc6633;">
+        <!--<p class="title" style="background-color: #cc6633;">
           Official Hashtag: <a href="http://twitter.com/search?f=realtime&q=%23YSF2016&src=typd"
           rel="external">#YSF2016</a>
-        </p>
+        </p>-->
 <hr>
 					<a name="Introduction" id="Introduction"></a>
         <p class="title">
@@ -244,7 +244,7 @@
       <div id="bottomBanner">
         <!-- Add HTML for Bottom Banner ?links? -->
         <!--#include virtual="/incl/w3c.inc" -->
-        Last updated: 18 October 2016
+        Last updated: 5 September 2017
         <!--#include virtual="/incl/webmaster-email.inc" -->
          <!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->

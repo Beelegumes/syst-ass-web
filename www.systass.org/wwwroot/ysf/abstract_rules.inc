@@ -1,5 +1,5 @@
 <p><strong>Abstracts</strong> must be submitted by e-mail in English no later than 
-<strong>Friday 28 October 2016</strong> to <script type="text/javascript"><!--
+<strong>Friday 3rd November 2017</strong> to <script type="text/javascript"><!--
   var usr = "YSF.SystematicsAssociation";
   var dom = "gmail";
   var tld = "com";
