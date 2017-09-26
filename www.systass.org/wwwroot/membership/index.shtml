@@ -151,9 +151,11 @@
           benefits
         </p>
         <ul>
+<!--
           <li>Twice yearly Newsletter
           </li>
-          <li>Discount on Society Publications 
+-->
+          <li>Discount on Society Publications
           <!--#include virtual="/publications/member-discount.inc" -->
           </li>
           <li>Reduced registration fee for Society Conferences
