@@ -110,12 +110,14 @@
             </td>
             <td class="threequarter">
               <strong>Sir Julian Huxley Lecture</strong><br><br>
-                Fungi in the Oceans deep<br><br>
+                <em>Fungi in the Oceans deep</em><br><br>
 							<strong>Professor Tom Richards</strong>
                 <br>Professor of Evolutionary Genomics at the University of Exeter<br><br>
-							 6.00pm Linnean Society, Burlington House, London, UK<br><br>
-							 <a href="/events/JH-lecture-2017.shtml">Further details</a>
-						</td>
+							 6.00pm Linnean Society, Burlington House, London, UK<br>
+							 <a href="/events/JH-lecture-2017.shtml">Further details</a><br>
+                <a href="/events/JHlecture2017poster.pdf">Download a poster</a><br>
+
+            </td>
           </tr>
 
 
@@ -131,22 +133,21 @@
             <tr class="alternate">
                 <td class="quarter">
                     29 November 2017<br><br>
-                    <a href="/events/Presidents_Lecture_2016.shtml" style=
+                    <a href="/events/Presidents_Lecture_2017.shtml" style=
                             "background: transparent; text-decoration: none;padding-right: 0px;">
                         <!--<img style="float: left; margin-right: 5px; margin-left: auto;"
                              src="/images/MichaelRichardson.JPG" width="157" height="210" alt="Michael Richardson" title="Michael Richardson" /></a>-->
                 </td>
                 <td class="threequarter">
-                    <strong>President's Lecture</strong><br>
-                    <!--<em>Evolution and Development of Reptiles: From Genomes to Venoms</em><br>--><br>
+                    <strong>President's Lecture</strong><br><br>
+                    <em>On the Malleability of Genomes</em><br><br>
+                    <strong>Dr Mary O'Connell</strong>
+                  <br>University Academic Fellow in Biology
+                  <br> University of Leeds
+                  </p>
+                    <!--<a href="/events/Presidents_Lecture_2016-poster.pdf" rel="external">Download a poster</a><br>-->
                     6.00pm Linnean Society, Burlington House, London, UK<br><br>
-                    <!--Michael Richardson
-                  <br>Professor of Animal Development</strong>
-                  <br>Leiden University,
-                  <br>The Netherlands</p>
-                    <a href="/events/Presidents_Lecture_2016-poster.pdf" rel="external">Download a poster</a><br>
-                    6.00pm Linnean Society, Burlington House, London, UK<br>-->
-                    <!--<a href="/events/Presidents_Lecture_2016.shtml"</a>--> Further details to be announced
+                    <a href="/events/Presidents_Lecture_2017.shtml"</a> Further details
                 </td>
             </tr>
 
@@ -185,7 +186,7 @@
         <!-- Add HTML for Right Column ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 23 January 2017
+           Last updated: 22 October 2017
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->

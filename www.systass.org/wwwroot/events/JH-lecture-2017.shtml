@@ -58,14 +58,20 @@ title="Systematics Association Logo" />
 <!-- Add HTML for main body of page -->
 	<p class="title"><em>Fungi in the Oceans deep</em></p>
 	<p><strong>Professor Tom Richards</strong>
-		<br>Professor of Evolutionary Genomics at the University of Exeter
-		<br>Tom Richards is a Royal Society University Research Fellow, EMBO Young Investigator, Professor of Evolutionary Genomics at the University of Exeter and a 2017 Miller Visiting Professor at the University of California, Berkeley. His interests include the diversity and evolution of eukaryotic microbes. His work focuses on the role of endosymbiosis and horizontal gene transfer in the evolution of the eukaryotes and understanding how the vast diversity of microbial forms fit on to the tree of life. He lives in Devon with his wife and two children
+		<br>Professor of Evolutionary Genomics at the University of Exeter<br>
+		<br>Tom Richards is a Royal Society University Research Fellow, an EMBO Young Investigator,
+		a Professor of Evolutionary Genomics at the University of Exeter and a 2017 Miller Visiting
+		Professor at the University of California, Berkeley. His interests include the diversity and
+		evolution of eukaryotic microbes. His work focuses on the role of endosymbiosis and horizontal
+		gene transfer in the evolution of the eukaryotes and understanding how the vast diversity of
+		microbial forms fit on to the tree of life. He lives in Devon with his wife and two children
 </p>
 
 
 
 
 <p><strong>6.00pm Thursday 2 November 2017<br> Linnean Society, London, UK</strong></p>
+	<p> The meeting is open to visitors and wine will be served after the lecture to members and guests</p>
 
 
 <p class="title">Abstract:</p>
@@ -82,7 +88,7 @@ title="Systematics Association Logo" />
 <div id="bottomBanner">
 <!-- Add HTML for Right Column ?links? -->
 <p><!--#include virtual="/incl/w3c.inc" -->
-Last updated: 25 September 2017
+Last updated: 22 October 2017
 <!--#include virtual="/incl/webmaster-email.inc" -->
 </p>
 
