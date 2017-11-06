@@ -28,10 +28,11 @@
         <div class="textsmall">
           <p style="text-align: right;">
             Systematics Research Fund<br><br>
-            <span style="background-color: #cc6633;">2016/17 round is closed</span>
-            <strong>Deadline is<br>15 February 2017</strong><br>
-            <a href="#form">Application Form</a><br><br>
-         <!--#include virtual="/awards/SRF_previous_rounds_link.inc" -->
+            <span style="background-color: #cc6633;">2017/18 round will open soon</span>
+            <!--<strong>Deadline is<br>15 February 2017</strong>--><br>
+            <!--#include virtual="/awards/srf17-18form.inc" --><br></p>
+          <p style="text-align: right;">
+          <!--#include virtual="/awards/SRF_previous_rounds_link.inc" -->
           </p>
         </div>
         <hr>
@@ -137,13 +138,10 @@
         </p>
 -->
         <!-- Close id=centerCol -->
-	      </div>
-      <div style="background-color: #ffffff;">
-        <a name="form" id="form"></a>
 
-        <!--#include virtual="/awards/srf16-17form.inc" -->
-
+        <p>Click here for <!--#include virtual="/awards/srf17-18form.inc" --></p>
       </div>
+
       <div id="centerCol">
 				<!--#include virtual="/incl/topofpage.inc" -->			
          <a name="results" id="results"></a>
