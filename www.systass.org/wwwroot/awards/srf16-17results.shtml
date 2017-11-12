@@ -1,0 +1,372 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - SRF 2015/16 round results page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+         <img src="/images/SystAssLogo-100.png" width="81"
+        height="100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          Systematics Research Fund<br>
+          Results of 2016/17 round
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          SRF
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            Systematics Research Fund<br>
+            1 Oct - 31 Dec<br>
+            <a href="srf.shtml">Further details</a>
+          </p>
+<p>         <!--#include virtual="/awards/SRF_previous_rounds_link.inc" --></p>					
+        </div>
+        <hr>
+        <p class="title">
+          Join
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            To join the Systematics Association, visit the
+            <a href="/membership/">Membership page</a>.
+          </p>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <a name="results" id="results"></a>
+        <div style=
+        "display: block; margin-left: 5px; margin-right: 5px; background-color: #ffffff; float: right;">
+        <img src="../images/SystAssLogo.png" width="162"
+          height="200" alt="Systematics Association" title=
+          "Systematics Association"> <img src=
+          "../images/LinnSocLogo.jpg" width="140" height="181"
+          alt="Linnean Society of London" title=
+          "Linnean Society of London">
+        </div>
+        <p>
+          <br>
+          The SRF received a total of 190 eligible applications for the
+          2016/17 round.
+          Thirty three of the applications were funded at a total
+          cost of &pound;35,184.<br><br>Successful applicants have
+          been contacted by email.<br>
+          <br>
+          <br>
+
+        </p>
+<!--        <p>
+          A summary report of the 2014/15 application round can
+          be <a href="2015_SRF_report.pdf" target="_blank">found
+          here</a>.
+        </p>-->
+        <hr>
+        <table summary=
+        "List of successful applicants for the 2016/17 SRF round">
+        <caption class="title">
+            List of successful applicants for the 2016/17 SRF
+            round
+          </caption>
+          <tr>
+            <th>
+              Name (Country)
+            </th>
+            <th>
+              Project title
+            </th>
+          </tr>
+          <tr>
+            <td>
+              Lara Shepherd (New Zealand)
+            </td>
+            <td>
+              Systematics of Alseuosmia, a New Zealand plant genus of Batesian mimics
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Stephan Koblmüller (Austria)
+            </td>
+            <td>
+              Phylogeny and biogeography of the African lates perches and their monogenean gill-parasites
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Simon Coppard (U.S.A.)
+            </td>
+            <td>
+              Evolution of venome genes in sea urchin pedicellariae revealed through transcriptomic analysis
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Roberta Graboski Mendes (Brazil)
+            </td>
+            <td>
+              Molecular Phylogeny and the Evolution of Head Shape using Geometric Morphometrics in <em>Amphisbaenia</em> (Reptilia, Squamata)            </td>
+          </tr>
+          <tr>
+            <td>
+              Marko Lukic (Croatia)
+            </td>
+            <td>
+              Systematics and biogeography of the troglobiotic genus <em>Verhoeffiella</em> (Collembola: Entomobryidae)            </td>
+          </tr>
+          <tr>
+            <td>
+              Van Wishingrad (U.S.A.)
+            </td>
+            <td>
+              Latitude, elevation, and population genetic structure in <em>Sceloporus occidentalis</em> lizards            </td>
+          </tr>
+          <tr>
+            <td>
+              Natalia Fraija (Spain)
+            </td>
+            <td>
+              Assessing the systematic relationships of the Brachycladiidae using new molecular data            </td>
+          </tr>
+          <tr>
+            <td>
+              Marie Louis (U.K.)
+            </td>
+            <td>
+              Carbon-dating of sub-fossil samples to improve mutation rate estimates of dolphin phylogenies            </td>
+          </tr>
+          <tr>
+            <td>
+              Daniel Stec (Poland)
+            </td>
+            <td>
+              Unmasking cryptic diversity within <em>Macrobiotus hufelandi</em> species complex (Tardigrada: Eutardigrada: Parachela: Macrobiotidae).            </td>
+          </tr>
+          <tr>
+            <td>
+              Serjoscha Evers (U.K.)
+            </td>
+            <td>
+              A new fossil dermochelyid indicates slow rates of morphological evolution in leatherback sea turtles            </td>
+          </tr>
+          <tr>
+            <td>
+              Vinciane Mossion (Switzerland)
+            </td>
+            <td>
+              Systematics and taxonomy of the <em>Lunaria</em> species complex (Botrychium, Ophioglossaceae)            </td>
+          </tr>
+          <tr>
+            <td>
+              Harry Smith (U.K.)
+            </td>
+            <td>
+              The <em>Justicia extensa-laxa</em> Complex in West Central Africa: Taxonomy, Biogeography & Conservation            </td>
+          </tr>
+          <tr>
+            <td>
+              Filipa Sampaio (U.K.)
+            </td>
+            <td>
+              Systematics and morphology of indian uropeltid snakes            </td>
+          </tr>
+          <tr>
+            <td>
+              Ana Gonçalves (Portugal)
+            </td>
+            <td>
+              Taxonomy, ecology and biodiversity of South African sea turtle associated diatoms          </tr>
+          <tr>
+            <td>
+              Roksana Majewska (South Africa)
+            </td>
+            <td>
+              Evolutionary history of the desert lizard <em>Mesalina watsonana</em> in the Iranian Plateau
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Caroline Andrino (Brazil)
+            </td>
+            <td>
+              Systematics of <em>Paepalanthus</em> Mart. (Eriocaulaceae)
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Adrià Bellvert (Spain)
+            </td>
+            <td>
+              An integrative taxonomic revision of an adaptive radiation:
+              the cobweb spider genus <em>Theridion</em> (Araneae, Theridiidae) in the Hawaiian Archipelago            </td>
+          </tr>
+          <tr>
+            <td>
+              Susumu Tomiya (U.S.A.)
+            </td>
+            <td>
+              Evolutionary morphology of deciduous dentition and application to systematics of fossil carnivorans            </td>
+          </tr>
+          <tr>
+            <td>
+              Ryan Garrick (U.S.A.)
+            </td>
+            <td>
+              The evolution of chromosome number variation in the <em>Cryptocercus punctulatus</em> wood-roach complex            </td>
+          </tr>
+          <tr>
+            <td>
+              Jesus Lozano-Fernandez (U.K.)
+            </td>
+            <td>
+              Pinning down the origins of an island adaptive radiation using transcriptomic data
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Jane Younger (U.S.A.)
+            </td>
+            <td>
+              Cryptic speciation and morphological diversification within gentoo penguins
+            </td>
+          </tr>
+          <tr>
+            <td>
+              David John (U.K.)
+            </td>
+            <td>
+              Ascension, South Atlantic: first investigation of the diversity, ecology and biogeographical affinities
+              of the non-marine algae of this very isolated volcanic island
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Probst (U.S.A.)
+            </td>
+            <td>
+              A phylogenomic approach to unveil the evolution of ant-plant associations in Myrmelachista
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Pozzi (U.S.A.)
+            </td>
+            <td>
+              Phylogenomics and Systemtatics of Lorisiform primates
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Pagan (Portugal)
+            </td>
+            <td>
+              Systematics and identification of the coral reef parasite community in the Caribbean
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Cornille (France)
+            </td>
+            <td>
+              Phylogeny, taxonomy and phylogeography of the worldwide apple aphid pest, the Rosy Apple Aphid
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Welt (U.S.A.)
+            </td>
+            <td>
+              Uncovering cryptic species of Madagascar’s endemic iguanas
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Andres (U.S.A.)
+            </td>
+            <td>
+              Evolution on the wing: 3D systematics of the pterosaurs
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Kohli (U.S.A.)
+            </td>
+            <td>
+              Systematics of Hawker dragonflies (Odonata: Aeshnidae: <em>Aeshna</em>) using molecular data
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Kuhn (U.S.A.)
+            </td>
+            <td>
+              Drivers of speciation in advanced tropical snakes on the island of Madagascar
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Rutschmann (Spain)
+            </td>
+            <td>
+              Diversification of aquatic insects (Ephemeroptera: Baetidae) on the Canary Islands
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Rivero Davis (Switzerland)
+            </td>
+            <td>
+              Host-defense skin peptide compositions in <em>Gymnophiona</em>:
+              unveiling phylogenetically informative markers for systematics
+            </td>
+          </tr>
+            <tr>
+           <td>
+             Ramos (Brazil)
+            </td>
+            <td>
+              Taxonomy and phylogenetic positioning of <em>Agaricus</em> specimens from the Atlantic Forest
+              remnants in metropolitan region of the city of São Paulo
+            </td>
+          </tr>
+        </table><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="contact" id="contact"></a>
+        <p class="title">
+          Contact
+        </p>
+        <p>
+          Questions about the application procedure can be sent
+          to Dr. Anne Jungblut <script type="text/javascript">
+<!--
+          var usr = "a.jungblut";
+          var dom = "systass";
+          var tld = "org";
+          var ady = usr + "@" + dom + "." + tld;
+          document.write("(<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>)")
+          //-->
+          </script>
+        </p><!--#include virtual="/incl/topofpage.inc" -->
+        <!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Bottom Banner ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+           Last updated: 12 November 2017
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>

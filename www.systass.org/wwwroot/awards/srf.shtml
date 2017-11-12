@@ -28,7 +28,7 @@
         <div class="textsmall">
           <p style="text-align: right;">
             Systematics Research Fund<br><br>
-            <span style="background-color: #cc6633;">2017/18 round will open soon</span>
+            <span style="background-color: #cc6633;">2017/18 round is open</span><br>
             <!--<strong>Deadline is<br>15 February 2017</strong>--><br>
             <!--#include virtual="/awards/srf17-18form.inc" --><br></p>
           <p style="text-align: right;">
@@ -149,10 +149,10 @@
           Results
         </p>
         <p>
-          The SRF received a total of 149 eligible applications for the
-          2015/16 round.
-          Thirty one of the applications were funded at a total
-          cost of &pound;31,910. Successful applicants were
+          The SRF received a total of 190 eligible applications for the
+          2016/17 round.
+          Thirty three of the applications were funded at a total
+          cost of &pound;35,184 Successful applicants were
           informed by email.
         </p>
 <!--
@@ -194,7 +194,7 @@
         <!-- Add HTML for Bottom Banner ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 5 January 2017
+           Last updated: 12 November 2017
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->

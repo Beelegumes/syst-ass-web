@@ -96,7 +96,6 @@
                 </td>
             </tr>
 
-            <tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
 
             <tr class="alternate">
             <td class="quarter">
@@ -116,10 +115,14 @@
 							 6.00pm Linnean Society, Burlington House, London, UK<br>
 							 <a href="/events/JH-lecture-2017.shtml">Further details</a><br>
                 <a href="/events/JHlecture2017poster.pdf">Download a poster</a><br>
+                <a href="http://www.youtube.com/watch?v=mN56C0Tb5to&feature=youtu.be"
+                   title="Fungi in the Oceans deep" rel="external">
+                    <img src="/images/podcast_new.png" width="72" height="72" alt="Podcast" style="border: 0;" />click to listen</a><br>
 
             </td>
           </tr>
 
+            <tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
 
             <tr >
                 <td class="quarter">
@@ -186,7 +189,7 @@
         <!-- Add HTML for Right Column ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 22 October 2017
+           Last updated: 12 November 2017
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->

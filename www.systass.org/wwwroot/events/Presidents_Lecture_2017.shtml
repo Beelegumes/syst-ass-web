@@ -94,7 +94,7 @@
         <p The meeting is open to visitors<br>
             Wine will be served after the lecture to members and their guests</p>
 
-        <!--<br><br><a href="/events/Presidents_Lecture_2016-poster.pdf" rel="external">Download poster</a>-->
+        <br><br><a href="/events/Presidents_Lecture_2017-poster.pdf" rel="external">Download poster</a>
 
         <br><br><br><br><br><br><br><br><br><br><br><br>
         <!-- Close id=centerCol -->
@@ -103,7 +103,7 @@
     <div id="bottomBanner">
         <!-- Add HTML for Right Column ?links? -->
         <p><!--#include virtual="/incl/w3c.inc" -->
-            Last updated: 22 October 2017
+            Last updated: 12 November 2017
             <!--#include virtual="/incl/webmaster-email.inc" -->
         </p>
 
