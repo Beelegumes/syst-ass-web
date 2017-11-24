@@ -21,10 +21,10 @@
       </div><!--#include virtual="/incl/left-menu.inc" -->
       <div id="rightCol">
         <!-- Add HTML for Right Column -->
-         <p class="title">
-          Official Hashtag: <a href="http://twitter.com/search?f=realtime&q=%23YSF2016&src=typd"
-          rel="external">#YSF2017</a>
-        </p>
+         <!--<p class="title">-->
+          <!--Official Hashtag: <a href="http://twitter.com/search?f=realtime&q=%23YSF2017&src=typd"-->
+          <!--rel="external">#YSF2017</a>-->
+        <!--</p>-->
         <!-- <p>
           <img src="/images/lanyrd-48x48.png" width="48" height=
           "48" alt="Lanyrd.com" title="Lanyrd.com"><a href=
