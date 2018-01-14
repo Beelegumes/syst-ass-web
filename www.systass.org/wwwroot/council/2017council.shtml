@@ -1,0 +1,876 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - Officers &amp; Council (2018)
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <a name="_top" id="top"></a> 
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+         <img src="/images/SystAssLogo-100.png" width="81"
+        height="100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          Officers &amp; Council of the<br>
+          Systematics Association (2018)
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Quick links
+        </p>
+        <div class="textsmall">
+          <p style="text-align: right;">
+            <a href="#officers">Officers</a><br>
+            <a href="#council">Council members</a><br>
+            <a href="SystAss%20Job%20Descriptions.pdf">Officers
+            roles</a>
+          </p>
+          <hr>
+          <p>
+            <a href="/membership/"><strong>Join</strong> the
+            Systematics Association!</a>
+          </p>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <a name="officers" id="officers"></a>
+          <br><br>
+        <p class="title">
+          Officers
+        </p><br><br><br>
+        <table summary="Systematics Association Officers" class=
+        "textsmall" width="100%">
+
+          <tr>
+            <td colspan="2">
+              <strong>President (2015-2018)</strong>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr. Mark Wilkinson<br>
+              Department of Life Sciences<br>
+              The Natural History Museum<br>
+              Cromwell Rd<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "M. Wilkinson";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/MarkWilkinson.png" width="144"
+              height="108" alt="Mark Wilkinson" title=
+              "Mark Wilkinson" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/mwilkinson.inc" -->
+            </td>
+          </tr>
+
+          <tr>
+            <td colspan="2">
+              <b><a href=
+              "SystAss%20Job%20Descriptions.pdf">Secretary</a></b>
+            </td>
+          </tr>
+            <tr>
+                <td>
+                    Dr. Eve Lucas <strong>(2015-2018)</strong><br>
+                    Comparative Plant and Fungal Biology<br>
+                    Royal Botanic Gardens, Kew<br>
+                    Richmond<br>
+                    Surrey TW9 3AB<br>
+                    <script type="text/javascript">
+                        <!--
+                        var usr = "e.lucas";
+                        var dom = "kew";
+                        var tld = "org";
+                        var ady = usr + "@" + dom + "." + tld;
+                        document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+                        //-->
+                    </script>
+                </td>
+                <td>
+                    <img src="/images/EveLucas.PNG" width="100" height=
+                            "120" alt="Eve Lucas" title="Eve Lucas" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/elucas.inc" -->
+                </td>
+            </tr>
+            <tr>
+                <td><strong><font color ="#FFFF00">Young Systematists' Forum leader</font></strong></td>
+            </tr>
+
+            <tr>
+                <td>
+                    Dr. Ellinor Michel <strong>(2016-2020)</strong><br>
+                    The Natural History Museum<br>
+                    Cromwell Rd<br>
+                    London SW7 5BD<br>
+                    <script type="text/javascript">
+                        <!--
+                        var usr = "e.michel";
+                        var dom = "nhm.ac";
+                        var tld = "uk";
+                        var ady = usr + "@" + dom + "." + tld;
+                        document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+                        //-->
+                    </script>
+                </td>
+                <td>
+                    <img src="/images/EllinorMichel.JPG" width="90"
+                         height="90" alt="Elinor Michel" title=
+                                 "Elinor Michel" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/emichel.inc" -->
+                </td>
+            </tr>
+
+            <tr id="meetingsecretary">
+                <td colspan="2">
+                    <b><a href=
+                                  "SystAss%20Job%20Descriptions.pdf">Meetings
+                        Secretary</a></b>
+                </td>
+            </tr>
+
+            <tr>
+            <td>
+              Dr. Alex Monro <strong>(2010-2020)</strong><br>
+              Royal Botanic Gardens, Kew<br>
+              Richmond<br>
+              Surrey TW9 3AB<br>
+              <script type="text/javascript">
+<!--
+  var usr = "a.monro";
+  var dom = "kew";
+  var tld = "org";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/AlexMonro.PNG" width="90" height=
+              "90" alt="Alex Monro" title="Alex Monro" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/amonro.inc" -->
+            </td>
+
+
+          </tr>
+          <tr>
+            <td colspan="2">
+              <b><a href=
+              "SystAss%20Job%20Descriptions.pdf">Grants &amp;
+              Awards Secretary for SRF</a></b>
+            </td>
+          </tr>
+            <tr>
+                <td>
+                    Dr. Anne D. Jungblut <strong>(2016-)</strong><br>
+                    Dept. of Life Sciences<br>
+                    The Natural History Museum<br>
+                    Cromwell Rd<br>
+                    London SW7 5BD<br>
+                    <script type="text/javascript">
+                        <!--
+                        var usr = "a.jungblut";
+                        var dom = "nhm";
+                        var tld = "ac.uk";
+                        var ady = usr + "@" + dom + "." + tld;
+                        document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+                        //-->
+                    </script>
+                </td>
+                <td>
+                    <img src="/images/AnneJungblut.jpg" width="158" height=
+                            "168" alt="Anne D. Jungblut" title="Anne D. Jungblut"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/ajungblut.inc" -->
+                </td>
+            </tr>
+
+          <tr>
+            <td colspan="2">
+              <b><a href=
+              "SystAss%20Job%20Descriptions.pdf">Membership
+              Secretary</a></b>
+            </td>
+          </tr>
+
+            <tr>
+                <td>
+                    Yvette Harvey  <strong>(2016-20)</strong><br>
+                    Royal Horticultural Society Garden Wisley<br>
+                    Woking<br>
+                    Surrey, GU23 6QB<br>
+                    <a href="mailto:yvetteharvey@rhs.org.uk">yvetteharvey@rhs.org.uk</a>
+                </td>
+                <td>
+                    <img src="/images/YvetteHarvey.jpg" width="80"
+                         height="120" alt="Yvette Harvey" title=
+                                 "Yvette Harvey" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/yharvey.inc" -->
+                </td>
+            </tr>
+
+          <tr>
+            <td colspan="2">
+              <b><a href=
+              "SystAss%20Job%20Descriptions.pdf">Treasurer</a></b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr. Andrew Briscoe <strong>(2016-)</strong><br>
+              Dept. of Life Sciences<br>
+              The Natural History Museum<br>
+              Cromwell Rd<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "a.briscoe";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/head-man.PNG" width="77" height=
+                "90" alt="Andrew Briscoe" title="Andrew Briscoe"
+                style="float: left; padding-right: 12px">
+              <!--#include virtual="/council/abriscoe.inc" -->
+            </td>
+          </tr>
+
+          <tr>
+            <td colspan="2">
+              <b><a href=
+              "SystAss%20Job%20Descriptions.pdf">Editor in
+              Chief</a></b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dr. David Gower <strong>(2010-)</strong><br>
+              Dept. of Life Sciences<br>
+              The Natural History Museum<br>
+              Cromwell Rd<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+
+
+<!--
+  var usr = "d.gower";
+  var dom = "nhm.ac";
+  var tld = "uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/DavidGower.png" alt="David Gower"
+              title="David Gower" style=
+              "float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/dgower.inc" -->
+            </td>
+          </tr>
+
+            <tr>
+                <td colspan="2">
+                    <b><a href=
+                                  "SystAss%20Job%20Descriptions.pdf">Newsletter
+                        Editor</a></b>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Steven Dodsworth  <strong>(2016-20)</strong><br>
+                    Royal Botanic Gardens, Kew<br>
+                    Richmond<br>
+                    Surrey TW9 3AB<br>
+                    <a href="mailto:s.dodsworth@kew.org">s.dodsworth@kew.org</a>
+                </td>
+                <td>
+                    <img src="/images/StevenDodsworth.png" width="106"
+                         height="120" alt="Steven Dodsworth" title=
+                                 "Steven Dodsworth" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/sdodsworth.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
+            <td colspan="2">
+              <b><a href=
+              "SystAss%20Job%20Descriptions.pdf">Student Representatives</a></b>
+            </td>
+          </tr>
+
+
+            <tr>
+                <td>
+                    Tom Carruthers   <strong>(2016-19)</strong><br>
+                    University of Oxford
+
+
+                    <a href="mailto:tom.carruthers@wolfson.ox.ac.uk">tom.carruthers@wolfson.ox.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/TomCarruthers.jpg" width="156"
+                         height="148" alt="Tom Carruthers" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/tcarruthers.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Surabhi Ranavat <strong>(2016-19)</strong><br>
+                    University of Edinburgh<br>
+
+                    <a href="mailto:subu_92@msn.com">subu_92@msn.com</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Persons Name" title=
+                                 "Persons Name" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/sranavat.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
+            <td colspan="2">
+              <b><a href=
+              "SystAss%20Job%20Descriptions.pdf">Webmaster</a></b>
+            </td>
+          </tr>
+
+            <tr>
+                <td>
+                    Dr. Barbara Mackinder  <strong>(2015-18)</strong><br>
+                    Royal Botanic Garden Edinburgh<br>
+                    20A Inverleith Row<br>
+                    Edinburgh<br>
+                    EH3 5LR<br>
+                    <a href="mailto:b.mackinder@rbge.ac.uk">b.mackinder@rbge.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/BarbaraMackinder.png" width="100" height=
+                            "100" alt="Barbara Mackinder" title="Barbara Mackinder"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/bmackinder.inc" -->
+                </td>
+            </tr>
+
+        </table><!--#include virtual="/incl/topofpage.inc" -->
+        <a name="council" id="council"></a>
+        <p>
+          <span class="title">Council members</span><br><br>- terms run for three years 
+					commencing at the AGM where council members <a href="#nominations">nomination</a>* 
+					is approved.  Council can also co-opt members between annual general meetings. 
+        </p>
+				
+        <table summary="Systematics Association Council members"
+        class="textsmall" width="100%">
+          <tr>
+            <td>
+              Dr. Xavier Aubriot <strong>(2014-2020)</strong><br>
+              Dept. of Life Sciences<br>
+              The Natural History Museum<br>
+              Cromwell Rd<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "x.aubriot";
+  var dom = "nhm";
+  var tld = "ac.uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/XavierAubriot.PNG" width="117" height=
+              "120" alt="Xavier Aubriot" title="Xavier Aubriot"
+              style="float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/xaubriot.inc" -->
+            </td>
+          </tr>
+
+            <tr>
+                <td>
+                    Dr. Gavin Broad  <strong></strong><br>
+                    Dept. of Life Science<br>
+                    LS Insects Division<br>
+                    The Natural History Museum<br>
+                    London SW7 5BD<br>
+                    <a href="mailto:g.broad@nhm.ac.uk">g.broad@nhm.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/GavinBroad.jpg" width="120" height=
+                            "120" alt="Gavin Broade" title="Gavin Broad"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/gbroad.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Dr. Maria Christodoulou  <strong>(2017-20)</strong><br>
+                    Department of Statistics<br>
+                    University of Oxford<br>
+
+                    <a href="mailto:maria.christodoulou@stats.ox.ac.uk">maria.christodoulou@stats.ox.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Maria Christodoulou" title=
+                                 "Maria Christodoulou" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/NewPerson.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>
+                    James Clarkson <strong>(2016-19)</strong><br>
+                    Royal Botanic Gardens, Kew<br>
+                    Richmond<br>
+                    Surrey TW9 3AB<br>
+                    <a href="mailto:j.clarkson@kew.org">j.clarkson@kew.org</a>
+                </td>
+                <td>
+                    <img src="/images/JamesClarkson.jpg" width="108"
+                         height="148" alt="James Clarkson" title=
+                                 "James Clarkson" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/jclarkson.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Roger Close  <strong>(2016-19)</strong><br>
+                    School of Geography, Earth and Environmental Sciences<br>
+                    University of Birmingham<br>
+                    Birmingham B15 2TT<br>
+                    <a href="mailto:roger.close@gmail.com">roger.close@gmail.com</a>
+                </td>
+                <td>
+                    <img src="/images/RogerClose.jpg" width="114"
+                         height="120" alt="Roger Close" title=
+                                 "Roger Close" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/rclose.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Dr. Iain Darbyshire  <strong>(2017-20)</strong><br>
+                    Royal Botanic Gardens Kew<br>
+                    Richmond<br>
+                    Surrey TW9 3AB<br>
+
+                    <a href="mailto:i.darbyshire@kew.org">i.darbyshire@kew.org</a>
+                </td>
+                <td>
+                    <img src="/images/head-man.png" width="77"
+                         height="90" alt="Iain Darbyshire" title=
+                                 "Iain Darbyshire" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/NewPerson.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Dr. Julia Day  <strong>(2017-20)</strong><br>
+                    Department of Genetics, Evolution and Environment<br>
+                    University College London<br>
+                    Gower Street<br>
+                    London WC1E 6BT<br>
+                    <a href="mailto:j.day@ucl.ac.uk">j.day@ucl.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Julia Day" title=
+                                 "Julia Day" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/NewPerson.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>
+                    Steven Dodsworth  <strong>(2016-19)</strong><br>
+                    Royal Botanic Gardens, Kew<br>
+                    Richmond<br>
+                    Surrey TW9 3AB<br>
+                    <a href="mailto:s.dodsworth@kew.org">s.dodsworth@kew.org</a>
+                </td>
+                <td>
+                    <img src="/images/StevenDodsworth.png" width="106"
+                         height="120" alt="Steven Dodsworth" title=
+                                 "Steven Dodsworth" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/sdodsworth.inc" -->
+                </td>
+            </tr>
+
+
+          <tr>
+            <td>
+              Dr. Greg Edgecombe <strong>(2014-20)</strong><br>
+              Dept. of Life Sciences<br>
+              The Natural History Museum<br>
+              Cromwell Rd<br>
+              London SW7 5BD<br>
+              <script type="text/javascript">
+<!--
+  var usr = "g.edgecombe";
+  var dom = "nhm";
+  var tld = "ac.uk";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/GregEdgecombe.PNG" width="116" height=
+              "150" alt="Greg Edgecombe" title="Greg Edgecombe"
+              style="float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/gedgecombe.inc" -->
+            </td>
+          </tr>
+
+            <tr>
+                <td>
+                    Dr. Wolf Eiserhardt  <strong>(2015-)</strong><br>
+                    Comparative Plant and Fungal Biology<br>
+                    Royal Botanic Gardens, Kew<br>
+                    Richmond<br>
+                    Surrey TW9 3AB<br>
+                    <a href="mailto:w.eiserhardt@kew.org">w.eiserhardt@kew.org</a>
+                </td>
+                <td>
+                    <img src="/images/WolfEiserhardt.jpg" width="88" height=
+                            "120" alt="Wolf Eiserhardt" title="Wolf Eiserhard"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/weiserhardt.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Dr. Laura Forrest  <strong>(2016-19)</strong><br>
+                    Royal Botanic Garden, Edinburgh<br>
+                    20A, Inverleith Row<br>
+                    EH3 5LR,UK<br>
+                    <a href="mailto:lauralforrest@gmail.com">lauralforrest@gmail.com</a>
+                </td>
+                <td>
+                    <img src="/images/LauraForrest.png" width="79"
+                         height="120" alt="Laura Forrest" title=
+                                 "Laura Forrest" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/lforrest.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Dr. Lauren Gardiner  <strong>(2017-20)</strong><br>
+                    Cambridge University Herbarium<br>
+<!--                    ADDRESS LINE 2<br>
+                    ADDRESS LINE 3<br>
+                    ADDRESS LINE 4<br>-->
+                    <a href="mailto:lmg32@cam.ac.uk">lmg32@cam.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Lauren Gardiner" title=
+                                 "Lauren Gardiner" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/NewPerson.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Beulah Garner  <strong>(2016-19)</strong><br>
+                    Dept. of Life Sciences<br>
+                    The Natural History Museum<br>
+                    Cromwell Rd<br>
+                    London SW7 5BD<br>
+                    <a href="mailto:b.garner@nhm.ac.uk">b.garner@nhm.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/BeulahGarner.jpg" width="120"
+                         height="120" alt="Beulah Garner" title=
+                                 "Beulah Garner" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/bgarner.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Zoe Goodwin <strong>(2015-18)</strong><br>
+                    Dept. of Plant Sciences<br>
+                    Oxford University<br>
+                    South Parks Rd<br>
+                    Oxford OX1 3RB<br>
+                    <a href="mailto:zoe.goodwin@plants.ox.ac.uk">zoe.goodwin@gmail.com</a>
+                </td>
+                <td>
+                    <img src="/images/ZoeGoodwin.jpg"
+                         alt="Zoe Goodwin" title="Zoe Goodwin" width="120"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/zgoodwin.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Dr. David Goyder  <strong></strong><br>
+                    Dept. of Identification and Naming<br>
+                    Royal Botanic Gardens, Kew<br>
+                    Richmond<br>
+                    Surrey TW9 3AB<br>
+                    <a href="mailto:d.goyder@kew.org.uk">d.goyder@kew.org.uk</a>
+                </td>
+                <td>
+                    <img src="/images/DavidGoyder.jpg" width="88" height=
+                            "120" alt="David Goyder" title="David Goyder"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/dgoyder.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
+            <td>
+              Dr. Olwen Grace <strong>(2014-20)</strong><br>
+              Kew<br>
+              <script type="text/javascript">
+<!--
+  var usr = "o.grace";
+  var dom = "kew";
+  var tld = "org";
+  var ady = usr + "@" + dom + "." + tld;
+  document.write("<a href=\"" + "mai" + "lto:" + ady + "\">" + ady + "<" + "/a>")
+//-->
+</script>
+            </td>
+            <td>
+              <img src="/images/OlwenGrace.jpg" width="110" height=
+              "142" alt="Olwen Grace" title="Olwen Grace"
+              style="float: left; padding-right: 12px"> 
+              <!--#include virtual="/council/ograce.inc" -->
+            </td>
+          </tr>
+
+
+
+            <tr>
+                <td>
+                    Lorna MacKinnon<strong>(2016-19)</strong><br>
+                    Eden Project<br>
+                    Bodelva LINE<br>
+                    Cornwall PL24 2SG<br>
+                    <a href="mailto:lmackinnon@EdenProject.com">lmackinnon@EdenProject.com</a>
+                </td>
+                <td>
+                    <img src="/images/LornaMackinnon.png" width="120"
+                         height="90" alt="Lorna Mackinnon" title=
+                                 "Lorna Mackinnon" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/lmackinnon.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Dr. Peter Moonlight  <strong>(2017-20)</strong><br>
+                    Royal Botanic Garden, Edinburgh<br>
+                    20A, Inverleith Row<br>
+                    EH3 5LR,UK<br>
+
+                    <a href="mailto:p.moonlight@rbge.ac.uk">p.moonlight@rbge.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/head-man.png" width="77"
+                         height="90" alt="Peter Moonlight" title=
+                                 "Peter Moonlight" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/NewPerson.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>
+                    Pablo Muñoz-Rodríguez  <strong>(2015-18)</strong><br>
+                    Dept. of Plant Sciences<br>
+                    Oxford University<br>
+                    South Parks Rd<br>
+                    Oxford OX1 3RB<br>
+                    <a href="mailto:pablo.munoz@plants.ox.ac.uk">pablo.munoz@plants.ox.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/PabloMunoz-Rodriguez.png" width="103" height=
+                            "90" alt="Pablo Munoz-Rodriguez.png" title="Pablo Munoz-Rodriguez.png"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/pmunozrodriguez.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Dr. Roderic Page  <strong>(2017-20)</strong><br>
+                    School of Life Sciences<br>
+                    University of Glasgow<br>
+
+                    <a href="mailto:Roderic.Page@glasgow.ac.uk">Roderic.Page@glasgow.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/head-man.png" width="77"
+                         height="90" alt="Roderic Page" title=
+                                 "Roderic Page" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/NewPerson.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>
+                    Dr. Andrew Polaszek  <strong>(2015-18)</strong><br>
+                    Dept. of Life Sciences<br>
+                    LS Insects Division<br>
+                    The Natural History Museum<br>
+                    London SW7 5BD<br>
+                    <a href="mailto:a.polaszek@nhm.ac.uk">a.polaszek@nhm.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/AndrewPolaszek.jpg" width="120" height=
+                            "120" alt="Andrew Polaszek" title="Andrew Polaszek"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/apolaszek.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Ranee Prakash  <strong>(2016-19)</strong><br>
+                    Dept. of Life Sciences<br>
+                    The Natural History Museum<br>
+                    Cromwell Rd<br>
+                    London SW7 5BD<br>
+                    <a href="mailto:r.prakash@nhm.ac.uk">r.prakash@nhm.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/RaneeOmPrakash.jpg" width="120"
+                         height="101" alt="Ranee Om Prakash.jp" title=
+                                 "Ranee Om Prakash" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/rprakash.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>
+                    Dinarzarde Raheem  <strong>(2016-19)</strong><br>
+                    Dept. of Life Sciences<br>
+                    The Natural History Museum<br>
+                    Cromwell Rd<br>
+                    London SW7 5BD<br>
+                    <a href="mailto:d.raheem@nhm.ac.uk">d.raheem@nhm.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/DinarzardeRaheem.jpg" width="84" height=
+                            "120" alt="Dinarzarde Raheem" title="Dinarzarde Raheem"
+                         style="float: left; padding-right: 12px">
+                    <!--#include virtual="/council/draheem.inc" -->
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Dr. Karen Siu-Ting  <strong>(2016-19)</strong><br>
+                    University of Aberystwyth <br>
+                    Penglais<br>
+                    Aberystwyth<br>
+                    Ceredigion SY23 3FL<br>
+                    <a href="mailto:agalychnica@gmail.com">agalychnica@gmail.com</a>
+                </td>
+                <td>
+                    <img src="/images/KarenSiu_Ting.jpg" width="96"
+                         height="120" alt="Karen Siu-Ting" title=
+                                 "Karen Siu-Ting" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/ksiuting.inc" -->
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>
+                    Dr. Bryony Williams <strong>(2017-20)</strong><br>
+                    Department of Biosciences<br>
+                    University of Exeter<br>
+                    Exeter<br>
+                    EX4 4QD<br>
+                    <a href="mailto:B.A.P.Williams@exeter.ac.uk">B.A.P.Williams@exeter.ac.uk</a>
+                </td>
+                <td>
+                    <img src="/images/head-woman.png" width="77"
+                         height="90" alt="Bryony Williams" title=
+                                 "Bryony Williams" style=
+                                 "float: left; padding-right: 12px">
+                    <!--#include virtual="/council/NewPerson.inc" -->
+                </td>
+            </tr>
+										
+        </table><!--#include virtual="/incl/topofpage.inc" -->
+        <!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Right Column ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+           Last updated: 14 January 2018
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>
