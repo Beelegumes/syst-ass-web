@@ -1,0 +1,198 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-GB">
+  <head>
+    <!--#include virtual="/incl/meta-tags.inc" -->
+    <title>
+      Systematics Association - Meetings and Events Page
+    </title>
+  </head>
+  <body>
+    <div id="content">
+      <div id="topBanner">
+        <!-- Add HTML for Top Banner ?logo?image?adv.? -->
+        <img src="/images/SystAssLogo-100.png" width="81" height=
+        "100" alt="Systematics Association Logo" title=
+        "Systematics Association Logo">
+        <p>
+          Lectures,<br>
+          Conferences and Workshops
+        </p>
+      </div><!--#include virtual="/incl/left-menu.inc" -->
+      <div id="rightCol">
+        <!-- Add HTML for Right Column -->
+        <p class="title">
+          Past Events
+        </p><!--#include virtual="/events/PastEventsKey.inc" -->
+        <hr>
+        <p class="title">
+          New events
+        </p>
+        <div class="textsmall">
+          <p>
+            Please contact us if have an event which you wish to
+            promote. If we feel it is appropriate to the
+            Association then it will be listed here. Send details
+            to 
+            <!--#include virtual="/events/meetings-secretary.inc" -->
+          </p>
+          <hr>
+        </div>
+        <p class="title">
+          Funding for events
+        </p>
+        <div class="textsmall">
+          <p>
+            If you would like to organise your own conference,
+            with Systematics Association funding, you need to
+            complete a <a href=
+            "conference-proposal.shtml">Conference Proposal
+            form</a> and submit it to 
+            <!--#include virtual="/events/meetings-secretary.inc" -->
+						<br><br>Please note: The maximum amount awarded is &pound;3,000, with only
+						half of that amount awarded upfront and the balance being paid on 
+						publication of the symposium volume with Cambridge University Press.
+          </p>
+          <hr>
+        </div><!-- Close id=rightCol -->
+      </div>
+      <div id="centerCol">
+        <!-- Add HTML for main body of page -->
+        <a name="2017" id="2017"></a>
+
+        <p class="title">
+          Events for 2017
+				</p>
+				<!--<p style="background-color: #cc6633;">Jump to <a href="#nextevent">next upcoming event</a></p>-->
+        <table summary="2017 Events" width="100%">
+          <tr class="alternate">
+            <th class="quarter">
+              Date
+            </th>
+            <th class="threequarter">
+              Event
+            </th>
+          </tr><!-- Insert events below here -->
+
+
+            <tr >
+                <td class="quarter">
+                    12 April 2017<br><br>
+
+
+                </td>
+                <td class="threequarter">
+                    <strong>Science Policy Lecture 2017 – Evidence, Expertise and Policy.<br>
+                    Professor Susan Owens</strong><br>
+                    <br>
+                    6.00pm Linnean Society, Burlington House<br>
+                London, UK<br>
+                <br>
+                Registration is unnecessary. <br>
+                The event is free and open to all.<br>
+                Tea will be served in the Library from 17.30.<br>
+                A wine reception will follow.<br><br>
+                <a href="https://www.linnean.org/meetings-and-events/events/science-policy-lecture-2017-evidence-expertise-and-policy"> Further details</a><br>
+                </td>
+            </tr>
+
+
+            <tr class="alternate">
+            <td class="quarter">
+              02 November 2017<br><br>
+						<a href="/events/JH-lecture-2017.shtml" style=
+          "background: transparent; text-decoration: none;padding-right: 0px;">
+						<!--<img style="float: left; margin-right: 5px; margin-left: auto;" src="/images/RosemaryGillespie-150px.png" width="150"
+        height="150" alt="Professor Rosemary G. Gillespie" 
+				title="Professor Rosemary G. Gillespie">--></a>
+
+            </td>
+            <td class="threequarter">
+              <strong>Sir Julian Huxley Lecture</strong><br><br>
+                <em>Fungi in the Oceans deep</em><br><br>
+							<strong>Professor Tom Richards</strong>
+                <br>Professor of Evolutionary Genomics at the University of Exeter<br><br>
+							 6.00pm Linnean Society, Burlington House, London, UK<br>
+							 <a href="/events/JH-lecture-2017.shtml">Further details</a><br>
+                <a href="/events/JHlecture2017poster.pdf">Download a poster</a><br>
+                <a href="http://www.youtube.com/watch?v=mN56C0Tb5to&feature=youtu.be"
+                   title="Fungi in the Oceans deep" rel="external">
+                    <img src="/images/podcast_new.png" width="72" height="72" alt="Podcast" style="border: 0;" />click to listen</a><br>
+
+            </td>
+          </tr>
+
+            <tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
+
+            <tr >
+                <td class="quarter">
+                    29 November 2017
+                </td>
+                <td class="threequarter">
+                    <strong>Annual General Meeting</strong><br>
+                    <br>5.00pm Linnean Society, Burlington House, London, UK<br><!---->
+                </td>
+            </tr>
+            <tr class="alternate">
+                <td class="quarter">
+                    29 November 2017<br><br>
+                    <a href="/events/Presidents_Lecture_2017.shtml" style=
+                            "background: transparent; text-decoration: none;padding-right: 0px;">
+                        <!--<img style="float: left; margin-right: 5px; margin-left: auto;"
+                             src="/images/MichaelRichardson.JPG" width="157" height="210" alt="Michael Richardson" title="Michael Richardson" /></a>-->
+                </td>
+                <td class="threequarter">
+                    <strong>President's Lecture</strong><br><br>
+                    <em>On the Malleability of Genomes</em><br><br>
+                    <strong>Dr Mary O'Connell</strong>
+                  <br>University Academic Fellow in Biology
+                  <br> University of Leeds
+                  </p>
+                    <!--<a href="/events/Presidents_Lecture_2016-poster.pdf" rel="external">Download a poster</a><br>-->
+                    6.00pm Linnean Society, Burlington House, London, UK<br><br>
+                    <a href="/events/Presidents_Lecture_2017.shtml"</a> Further details
+                </td>
+            </tr>
+
+<!--
+            <tr >
+            <td class="quarter">
+             25 November 2016
+            </td>
+            <td class="threequarter">
+              <strong>Young Systematists' Forum</strong><br>
+							<em>a FREE one day meeting</em>
+							<br>Flett Lecture Theatre, The Natural History Museum, London, UK
+							<br>The annual Young Systematists' Forum represents an exciting setting
+							for Masters, PhD and young postdoctoral researchers to present their
+							data, often for the first time, to a scientific audience interested
+							in taxonomy, systematics and phylogenetics.<br>
+
+							<br><a href="/ysf/">Further details</a><br>
+						</td>
+          </tr>
+-->
+
+
+
+					
+					
+					
+					<!-- Insert events above here -->
+        </table>				
+
+
+				
+				<!-- Close id=centerCol -->
+      </div>
+      <div id="bottomBanner">
+        <!-- Add HTML for Right Column ?links? -->
+        <p>
+          <!--#include virtual="/incl/w3c.inc" -->
+           Last updated: 12 November 2017
+          <!--#include virtual="/incl/webmaster-email.inc" -->
+        </p><!-- Close id=bottomBanner -->
+      </div><!-- Close id=Content -->
+    </div>
+  </body>
+</html>
