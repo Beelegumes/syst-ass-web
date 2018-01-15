@@ -58,13 +58,13 @@
       </div>
       <div id="centerCol">
         <!-- Add HTML for main body of page -->
-        <a name="2017" id="2017"></a>
+        <a name="2018" id="2018"></a>
 
         <p class="title">
-          Events for 2017
+          Events for 2018
 				</p>
 				<!--<p style="background-color: #cc6633;">Jump to <a href="#nextevent">next upcoming event</a></p>-->
-        <table summary="2017 Events" width="100%">
+        <table summary="2018 Events" width="100%">
           <tr class="alternate">
             <th class="quarter">
               Date
@@ -74,85 +74,104 @@
             </th>
           </tr><!-- Insert events below here -->
 
+            <tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
 
             <tr >
                 <td class="quarter">
-                    12 April 2017<br><br>
+                    26 January 2018<br><br>
 
 
                 </td>
                 <td class="threequarter">
-                    <strong>Science Policy Lecture 2017 – Evidence, Expertise and Policy.<br>
-                    Professor Susan Owens</strong><br>
+                    <strong>Council Meeting</strong><br>
+                    2.00pm Wills Memorial Building, School of Earth Sciences<br>
+                    <strong>University of Bristol</strong><br>
                     <br>
-                    6.00pm Linnean Society, Burlington House<br>
-                London, UK<br>
-                <br>
-                Registration is unnecessary. <br>
-                The event is free and open to all.<br>
-                Tea will be served in the Library from 17.30.<br>
-                A wine reception will follow.<br><br>
-                <a href="https://www.linnean.org/meetings-and-events/events/science-policy-lecture-2017-evidence-expertise-and-policy"> Further details</a><br>
+                    Note: This is a planning meeting for the 2019 Systematics Association Biennial Conference that will be held at the University of Bristol <br>
+                </td>
+            </tr>
+
+            <tr >
+                <td class="quarter">
+                    04 May 2018<br><br>
+
+
+                </td>
+                <td class="threequarter">
+                    <strong>Council Meeting<br></strong>
+                        1.30 pm Linnean Society, Burlington House, London, UK<br>
+                    <br>
+                </td>
+            </tr>
+            <tr >
+                <td class="quarter">
+                    11 July 2018<br><br>
+
+
+                </td>
+                <td class="threequarter">
+                    <strong>Council Meeting<br></strong>
+                        1.30 pm Linnean Society, Burlington House, London, UK<br>
+                    <br>
+                </td>
+            </tr>
+
+            <tr >
+                <td class="quarter">
+                    18 October 2018<br><br>
+
+
+                </td>
+                <td class="threequarter">
+                    <strong>Council Meeting<br></strong>
+                    1.30 pm Linnean Society, Burlington House, London, UK<br>
+                    <br>
+                    To be followed by the Science Policy Lecture, details tbc.
                 </td>
             </tr>
 
 
-            <tr class="alternate">
-            <td class="quarter">
-              02 November 2017<br><br>
-						<a href="/events/JH-lecture-2017.shtml" style=
-          "background: transparent; text-decoration: none;padding-right: 0px;">
-						<!--<img style="float: left; margin-right: 5px; margin-left: auto;" src="/images/RosemaryGillespie-150px.png" width="150"
-        height="150" alt="Professor Rosemary G. Gillespie" 
-				title="Professor Rosemary G. Gillespie">--></a>
+            <tr >
+                <td class="quarter">
+                    07 November 2018<br><br>
 
-            </td>
-            <td class="threequarter">
-              <strong>Sir Julian Huxley Lecture</strong><br><br>
-                <em>Fungi in the Oceans deep</em><br><br>
-							<strong>Professor Tom Richards</strong>
-                <br>Professor of Evolutionary Genomics at the University of Exeter<br><br>
-							 6.00pm Linnean Society, Burlington House, London, UK<br>
-							 <a href="/events/JH-lecture-2017.shtml">Further details</a><br>
-                <a href="/events/JHlecture2017poster.pdf">Download a poster</a><br>
-                <a href="http://www.youtube.com/watch?v=mN56C0Tb5to&feature=youtu.be"
-                   title="Fungi in the Oceans deep" rel="external">
-                    <img src="/images/podcast_new.png" width="72" height="72" alt="Podcast" style="border: 0;" />click to listen</a><br>
 
-            </td>
-          </tr>
+                </td>
+                <td class="threequarter">
+                    <strong>Sir Julian Huxley Lecture</strong>, details tbc.<br>
+                    <br>
+                    6 - 7 pm Lecture Theatre, Linnean Society, Burlington House, London, UK<br>
+                    <br>
+                    To be followed by a reception in the library.
+                </td>
+            </tr>
 
-            <tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
+            <tr >
+                <td class="quarter">
+                    28 November 2018<br><br>
 
+
+                </td>
+                <td class="threequarter">
+                    <strong>Annual General Meeting<br></strong>
+                    5 - 6 pm Lecture Theatre, Linnean Society, Burlington House, London, UK<br>
+                    <br>
+                    To be followed by the <strong>President's Lecture</strong>, details tbc.
+                </td>
+            </tr>
+
+
+<!--
             <tr >
                 <td class="quarter">
                     29 November 2017
                 </td>
                 <td class="threequarter">
                     <strong>Annual General Meeting</strong><br>
-                    <br>5.00pm Linnean Society, Burlington House, London, UK<br><!---->
+                    <br>5.00pm Linnean Society, Burlington House, London, UK<br>&lt;!&ndash;&ndash;&gt;
                 </td>
             </tr>
-            <tr class="alternate">
-                <td class="quarter">
-                    29 November 2017<br><br>
-                    <a href="/events/Presidents_Lecture_2017.shtml" style=
-                            "background: transparent; text-decoration: none;padding-right: 0px;">
-                        <!--<img style="float: left; margin-right: 5px; margin-left: auto;"
-                             src="/images/MichaelRichardson.JPG" width="157" height="210" alt="Michael Richardson" title="Michael Richardson" /></a>-->
-                </td>
-                <td class="threequarter">
-                    <strong>President's Lecture</strong><br><br>
-                    <em>On the Malleability of Genomes</em><br><br>
-                    <strong>Dr Mary O'Connell</strong>
-                  <br>University Academic Fellow in Biology
-                  <br> University of Leeds
-                  </p>
-                    <!--<a href="/events/Presidents_Lecture_2016-poster.pdf" rel="external">Download a poster</a><br>-->
-                    6.00pm Linnean Society, Burlington House, London, UK<br><br>
-                    <a href="/events/Presidents_Lecture_2017.shtml"</a> Further details
-                </td>
-            </tr>
+-->
 
 <!--
             <tr >
@@ -189,7 +208,7 @@
         <!-- Add HTML for Right Column ?links? -->
         <p>
           <!--#include virtual="/incl/w3c.inc" -->
-           Last updated: 12 November 2017
+           Last updated: 15 January 2018
           <!--#include virtual="/incl/webmaster-email.inc" -->
         </p><!-- Close id=bottomBanner -->
       </div><!-- Close id=Content -->
