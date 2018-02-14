@@ -74,7 +74,6 @@
             </th>
           </tr><!-- Insert events below here -->
 
-            <tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
 
             <tr >
                 <td class="quarter">
@@ -90,6 +89,8 @@
                     Note: This is a planning meeting for the 2019 Systematics Association Biennial Conference that will be held at the University of Bristol <br>
                 </td>
             </tr>
+
+            <tr style="background-color: #cc6633;"><td><a name="nextevent"></a>Next event</td><td class="threequarter"></td></tr>
 
             <tr >
                 <td class="quarter">
